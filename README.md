@@ -8,23 +8,23 @@ A curated, community-driven list of awesome Model Context Protocol (MCP) servers
 
 ***
 
-BTW, we provide a [full list of MCP (Master Control Program) Servers](https://github.com/YuzeHao2023/Awesome-MCP-Servers/blob/main/Full-List-of-MCP-Servers.xlsx) ⭐ 1,057 | 🐛 261 | 📅 2026-08-07, which is compiled by a web crawler and contains approximately 6000 entries.
+BTW, we provide a [full list of MCP (Master Control Program) Servers](https://github.com/YuzeHao2023/Awesome-MCP-Servers/blob/main/Full-List-of-MCP-Servers.xlsx) ⭐ 1,058 | 🐛 263 | 📅 2026-08-07, which is compiled by a web crawler and contains approximately 6000 entries.
 
 ***
 
 ## All Documents
 
-> Call for translators! [We're looking for translators](https://github.com/YuzeHao2023/Awesome-MCP-Servers/issues/1) ⭐ 1,057 | 🐛 261 | 📅 2026-08-07 to help translate this spec for everyone!
+> Call for translators! [We're looking for translators](https://github.com/YuzeHao2023/Awesome-MCP-Servers/issues/1) ⭐ 1,058 | 🐛 263 | 📅 2026-08-07 to help translate this spec for everyone!
 
 **Read our documentation in the following languages:**
 
 | Language | Link                                                                                                                    |
 | -------- | ----------------------------------------------------------------------------------------------------------------------- |
-| English  | [English](https://github.com/YuzeHao2023/Awesome-MCP-Servers?tab=readme-ov-file) ⭐ 1,057 \| 🐛 261 \| 📅 2026-08-07     |
-| 简体中文     | [简体中文](https://github.com/YuzeHao2023/Awesome-MCP-Servers/blob/main/README_zh_CN.md) ⭐ 1,057 \| 🐛 261 \| 📅 2026-08-07 |
-| 繁體中文     | [繁體中文](https://github.com/YuzeHao2023/Awesome-MCP-Servers/blob/main/README_zh_TW.md) ⭐ 1,057 \| 🐛 261 \| 📅 2026-08-07 |
-| 日本語      | [日本語](https://github.com/YuzeHao2023/Awesome-MCP-Servers/blob/main/README_ja.md) ⭐ 1,057 \| 🐛 261 \| 📅 2026-08-07     |
-| 한국어      | [한국어](https://github.com/YuzeHao2023/Awesome-MCP-Servers/blob/main/README_ko.md) ⭐ 1,057 \| 🐛 261 \| 📅 2026-08-07     |
+| English  | [English](https://github.com/YuzeHao2023/Awesome-MCP-Servers?tab=readme-ov-file) ⭐ 1,058 \| 🐛 263 \| 📅 2026-08-07     |
+| 简体中文     | [简体中文](https://github.com/YuzeHao2023/Awesome-MCP-Servers/blob/main/README_zh_CN.md) ⭐ 1,058 \| 🐛 263 \| 📅 2026-08-07 |
+| 繁體中文     | [繁體中文](https://github.com/YuzeHao2023/Awesome-MCP-Servers/blob/main/README_zh_TW.md) ⭐ 1,058 \| 🐛 263 \| 📅 2026-08-07 |
+| 日本語      | [日本語](https://github.com/YuzeHao2023/Awesome-MCP-Servers/blob/main/README_ja.md) ⭐ 1,058 \| 🐛 263 \| 📅 2026-08-07     |
+| 한국어      | [한국어](https://github.com/YuzeHao2023/Awesome-MCP-Servers/blob/main/README_ko.md) ⭐ 1,058 \| 🐛 263 \| 📅 2026-08-07     |
 
 ***
 
@@ -130,19 +130,19 @@ Legend:
 These are example/reference servers and core SDK examples demonstrating MCP features.
 
 * Everything (Reference / test server with prompts, resources, and tools)
-  * <https://github.com/modelcontextprotocol/servers/blob/main/src/everything> ⭐ 89,689 | 🐛 522 | 🌐 TypeScript | 📅 2026-08-18
+  * <https://github.com/modelcontextprotocol/servers/blob/main/src/everything> ⭐ 89,718 | 🐛 526 | 🌐 TypeScript | 📅 2026-08-20
 * Fetch
-  * <https://github.com/modelcontextprotocol/servers/tree/main/src/fetch> ⭐ 89,689 | 🐛 522 | 🌐 TypeScript | 📅 2026-08-18
+  * <https://github.com/modelcontextprotocol/servers/tree/main/src/fetch> ⭐ 89,718 | 🐛 526 | 🌐 TypeScript | 📅 2026-08-20
 * Filesystem
-  * <https://github.com/modelcontextprotocol/servers/tree/main/src/filesystem> ⭐ 89,689 | 🐛 522 | 🌐 TypeScript | 📅 2026-08-18
+  * <https://github.com/modelcontextprotocol/servers/tree/main/src/filesystem> ⭐ 89,718 | 🐛 526 | 🌐 TypeScript | 📅 2026-08-20
 * Git
-  * <https://github.com/modelcontextprotocol/servers/tree/main/src/git> ⭐ 89,689 | 🐛 522 | 🌐 TypeScript | 📅 2026-08-18
+  * <https://github.com/modelcontextprotocol/servers/tree/main/src/git> ⭐ 89,718 | 🐛 526 | 🌐 TypeScript | 📅 2026-08-20
 * Memory
-  * <https://github.com/modelcontextprotocol/servers/tree/main/src/memory> ⭐ 89,689 | 🐛 522 | 🌐 TypeScript | 📅 2026-08-18
+  * <https://github.com/modelcontextprotocol/servers/tree/main/src/memory> ⭐ 89,718 | 🐛 526 | 🌐 TypeScript | 📅 2026-08-20
 * Sequential Thinking
-  * <https://github.com/modelcontextprotocol/servers/tree/main/src/sequentialthinking> ⭐ 89,689 | 🐛 522 | 🌐 TypeScript | 📅 2026-08-18
+  * <https://github.com/modelcontextprotocol/servers/tree/main/src/sequentialthinking> ⭐ 89,718 | 🐛 526 | 🌐 TypeScript | 📅 2026-08-20
 * Time
-  * <https://github.com/modelcontextprotocol/servers/blob/main/src/time> ⭐ 89,689 | 🐛 522 | 🌐 TypeScript | 📅 2026-08-18
+  * <https://github.com/modelcontextprotocol/servers/blob/main/src/time> ⭐ 89,718 | 🐛 526 | 🌐 TypeScript | 📅 2026-08-20
 
 ***
 
@@ -150,15 +150,15 @@ These are example/reference servers and core SDK examples demonstrating MCP feat
 
 Official integrations are maintained by companies building production-ready MCP servers for their platforms. (Marked with ⭐ when present)
 
-* GitHub — <https://github.com/github/github-mcp-server> ⭐ 32,360 | 🐛 342 | 🌐 Go | 📅 2026-08-19 (official)
-* 21st.dev Magic — <https://github.com/21st-dev/magic-mcp> ⭐ 5,694 | 🐛 1 | 🌐 JavaScript | 📅 2026-07-31
-* Notion — <https://github.com/makenotion/notion-mcp> ⭐ 4,592 | 🐛 186 | 🌐 TypeScript | 📅 2026-07-25 (official)
-* Apify Actors — <https://github.com/apify/actors-mcp-server> ⭐ 4,242 | 🐛 133 | 🌐 TypeScript | 📅 2026-08-19
-* Cloudflare — <https://github.com/cloudflare/mcp-server-cloudflare> ⭐ 4,093 | 🐛 60 | 🌐 TypeScript | 📅 2026-08-11 (⭐)
-* Stripe — <https://github.com/stripe/agent-toolkit/tree/main> ⭐ 1,750 | 🐛 79 | 🌐 TypeScript | 📅 2026-08-19 (⭐)
-* PayPal — <https://github.com/paypal/agent-toolkit/tree/main> ⭐ 190 | 🐛 24 | 🌐 TypeScript | 📅 2026-08-10 (⭐)
+* GitHub — <https://github.com/github/github-mcp-server> ⭐ 32,386 | 🐛 335 | 🌐 Go | 📅 2026-08-20 (official)
+* 21st.dev Magic — <https://github.com/21st-dev/magic-mcp> ⭐ 5,698 | 🐛 1 | 🌐 JavaScript | 📅 2026-07-31
+* Notion — <https://github.com/makenotion/notion-mcp> ⭐ 4,594 | 🐛 186 | 🌐 TypeScript | 📅 2026-07-25 (official)
+* Apify Actors — <https://github.com/apify/actors-mcp-server> ⭐ 4,377 | 🐛 133 | 🌐 TypeScript | 📅 2026-08-20
+* Cloudflare — <https://github.com/cloudflare/mcp-server-cloudflare> ⭐ 4,097 | 🐛 56 | 🌐 TypeScript | 📅 2026-08-20 (⭐)
+* Stripe — <https://github.com/stripe/agent-toolkit/tree/main> ⭐ 1,753 | 🐛 78 | 🌐 TypeScript | 📅 2026-08-20 (⭐)
+* PayPal — <https://github.com/paypal/agent-toolkit/tree/main> ⭐ 190 | 🐛 23 | 🌐 TypeScript | 📅 2026-08-20 (⭐)
 * AgentQL — <https://github.com/tinyfish-io/agentql-mcp> ⭐ 177 | 🐛 6 | 🌐 JavaScript | 📅 2026-08-17
-* AlibabaCloud DevOps MCP — <https://github.com/aliyun/alibabacloud-devops-mcp-server> ⭐ 156 | 🐛 3 | 🌐 TypeScript | 📅 2026-08-18
+* AlibabaCloud DevOps MCP — <https://github.com/aliyun/alibabacloud-devops-mcp-server> ⭐ 157 | 🐛 3 | 🌐 TypeScript | 📅 2026-08-18
 * AgentRPC — <https://github.com/agentrpc/agentrpc> ⭐ 134 | 🐛 22 | 🌐 TypeScript | 📅 2026-06-22
 * Box — <https://github.com/box-community/mcp-server-box> ⚠️ Archived (⭐)
 * Tinybird — <https://github.com/tinybirdco/mcp-tinybird> ⚠️ Archived (⭐)
@@ -179,8 +179,8 @@ Helpful utilities to discover, install, manage, and work with MCP servers.
 
 Server Managers:
 
-* ToolHive — Lightweight utility to simplify deployment & management — <https://github.com/StacklokLabs/toolhive> ⭐ 2,025 | 🐛 384 | 🌐 Go | 📅 2026-08-19
-* MCP Installer — <https://github.com/anaisbetts/mcp-installer> ⭐ 1,529 | 🐛 22 | 🌐 JavaScript | 📅 2024-11-26
+* ToolHive — Lightweight utility to simplify deployment & management — <https://github.com/StacklokLabs/toolhive> ⭐ 2,027 | 🐛 382 | 🌐 Go | 📅 2026-08-20
+* MCP Installer — <https://github.com/anaisbetts/mcp-installer> ⭐ 1,531 | 🐛 22 | 🌐 JavaScript | 📅 2024-11-26
 * mcp-get — CLI tool to install and manage MCP servers (Claude Desktop oriented) — <https://github.com/michaellatman/mcp-get> ⚠️ Archived
 * Remote MCP — Solution for remote MCP communication — <https://github.com/ssut/Remote-MCP> ⭐ 209 | 🐛 6 | 🌐 TypeScript | 📅 2025-03-27
 * mxcp — An open-source framework for building secure enterprise MCP tools — <http://github.com/raw-labs/mxcp> ⭐ 70 | 🐛 45 | 🌐 Python | 📅 2026-06-30
@@ -188,7 +188,7 @@ Server Managers:
 
 Other utilities:
 
-* mcp-cli — CLI inspector for MCP servers — <https://github.com/wong2/mcp-cli> ⭐ 443 | 🐛 11 | 🌐 JavaScript | 📅 2026-06-08
+* mcp-cli — CLI inspector for MCP servers — <https://github.com/wong2/mcp-cli> ⭐ 443 | 🐛 8 | 🌐 JavaScript | 📅 2026-06-08
 * Secure Fetch — secure fetch to prevent access to local resources — <https://github.com/appsec-innovation-labs/secure-mcp-fetch> ⭐ 3 | 🐛 1 | 🌐 Python | 📅 2025-04-25
 * mcp-get, mcp-installer, and similar utilities to simplify installation and discovery.
 
@@ -198,8 +198,8 @@ Other utilities:
 
 Provides access to local or remote file systems with configurable permissions.
 
-* FileSystem (modelcontextprotocol reference) — <https://github.com/modelcontextprotocol/servers/tree/main/src/filesystem> ⭐ 89,689 | 🐛 522 | 🌐 TypeScript | 📅 2026-08-18 (1)
-* FileStash — <https://github.com/mickael-kerjean/filestash/tree/master/server/plugin/plg_handler_mcp> ⭐ 14,525 | 🐛 122 | 🌐 Go | 📅 2026-08-19
+* FileSystem (modelcontextprotocol reference) — <https://github.com/modelcontextprotocol/servers/tree/main/src/filesystem> ⭐ 89,718 | 🐛 526 | 🌐 TypeScript | 📅 2026-08-20 (1)
+* FileStash — <https://github.com/mickael-kerjean/filestash/tree/master/server/plugin/plg_handler_mcp> ⭐ 14,527 | 🐛 122 | 🌐 Go | 📅 2026-08-20
 * FileSystem (mark3labs) — <https://github.com/mark3labs/mcp-filesystem-server> ⭐ 679 | 🐛 25 | 🌐 Go | 📅 2025-11-24 (2)
 * Everything Search — <https://github.com/mamertofabian/mcp-everything-search> ⭐ 356 | 🐛 24 | 🌐 Python | 📅 2025-10-20
 * llm-context — <https://github.com/cyberchitta/llm-context.py> ⭐ 306 | 🐛 5 | 🌐 Python | 📅 2026-08-02
@@ -212,8 +212,8 @@ Provides access to local or remote file systems with configurable permissions.
 
 Secure sandbox environments for code execution.
 
-* Microsandbox (⭐) — <https://github.com/microsandbox/microsandbox> ⭐ 7,768 | 🐛 72 | 🌐 Rust | 📅 2026-08-19
-* Docker (QuantGeekDev) — <https://github.com/QuantGeekDev/docker-mcp> ⭐ 500 | 🐛 13 | 🌐 Python | 📅 2024-12-14
+* Microsandbox (⭐) — <https://github.com/microsandbox/microsandbox> ⭐ 7,820 | 🐛 70 | 🌐 Rust | 📅 2026-08-20
+* Docker (QuantGeekDev) — <https://github.com/QuantGeekDev/docker-mcp> ⭐ 501 | 🐛 13 | 🌐 Python | 📅 2024-12-14
 * E2B (⭐) — <https://github.com/e2b-dev/mcp-server> ⚠️ Archived
 
 ***
@@ -222,9 +222,9 @@ Secure sandbox environments for code execution.
 
 Git and version control related MCP servers.
 
-* GitLab — <https://github.com/modelcontextprotocol/servers/tree/main/src/gitlab> ⭐ 89,689 | 🐛 522 | 🌐 TypeScript | 📅 2026-08-18
-* Git (direct) — <https://github.com/modelcontextprotocol/servers/tree/main/src/git> ⭐ 89,689 | 🐛 522 | 🌐 TypeScript | 📅 2026-08-18
-* GitHub (1) — <https://github.com/github/github-mcp-server> ⭐ 32,360 | 🐛 342 | 🌐 Go | 📅 2026-08-19 (official)
+* GitLab — <https://github.com/modelcontextprotocol/servers/tree/main/src/gitlab> ⭐ 89,718 | 🐛 526 | 🌐 TypeScript | 📅 2026-08-20
+* Git (direct) — <https://github.com/modelcontextprotocol/servers/tree/main/src/git> ⭐ 89,718 | 🐛 526 | 🌐 TypeScript | 📅 2026-08-20
+* GitHub (1) — <https://github.com/github/github-mcp-server> ⭐ 32,386 | 🐛 335 | 🌐 Go | 📅 2026-08-20 (official)
 * Gitingest-MCP — <https://github.com/puravparab/Gitingest-MCP> ⭐ 136 | 🐛 3 | 🌐 Python | 📅 2025-03-21
 * GitHub Repos Manager — <https://github.com/kurdin/github-repos-manager-mcp> ⭐ 21 | 🐛 0 | 🌐 JavaScript | 📅 2025-09-25
 * Phabricator — <https://github.com/baba786/phabricator-mcp-server>
@@ -235,8 +235,8 @@ Git and version control related MCP servers.
 
 Access to cloud storage platforms.
 
-* Google Drive — <https://github.com/modelcontextprotocol/servers/tree/main/src/gdrive> ⭐ 89,689 | 🐛 522 | 🌐 TypeScript | 📅 2026-08-18
-* Microsoft 365 — <https://github.com/softeria/ms-365-mcp-server> ⭐ 921 | 🐛 5 | 🌐 TypeScript | 📅 2026-08-19
+* Google Drive — <https://github.com/modelcontextprotocol/servers/tree/main/src/gdrive> ⭐ 89,718 | 🐛 526 | 🌐 TypeScript | 📅 2026-08-20
+* Microsoft 365 — <https://github.com/softeria/ms-365-mcp-server> ⭐ 923 | 🐛 5 | 🌐 TypeScript | 📅 2026-08-19
 * VideoDB (agent-toolkit) — <https://github.com/video-db/agent-toolkit/tree/main/modelcontextprotocol> ⭐ 47 | 🐛 7 | 🌐 Python | 📅 2026-03-26 (⭐)
 * Box (⭐) — <https://developer.box.com/guides/box-mcp/>
 
@@ -246,14 +246,14 @@ Access to cloud storage platforms.
 
 Database access with schema inspection and query capabilities.
 
-* PostgreSQL — <https://github.com/modelcontextprotocol/servers/tree/main/src/postgres> ⭐ 89,689 | 🐛 522 | 🌐 TypeScript | 📅 2026-08-18
-* SQLite — <https://github.com/modelcontextprotocol/servers/tree/main/src/sqlite> ⭐ 89,689 | 🐛 522 | 🌐 TypeScript | 📅 2026-08-18
-* Excel — <https://github.com/haris-musa/excel-mcp-server> ⭐ 4,117 | 🐛 69 | 🌐 Python | 📅 2026-04-12
+* PostgreSQL — <https://github.com/modelcontextprotocol/servers/tree/main/src/postgres> ⭐ 89,718 | 🐛 526 | 🌐 TypeScript | 📅 2026-08-20
+* SQLite — <https://github.com/modelcontextprotocol/servers/tree/main/src/sqlite> ⭐ 89,718 | 🐛 526 | 🌐 TypeScript | 📅 2026-08-20
+* Excel — <https://github.com/haris-musa/excel-mcp-server> ⭐ 4,118 | 🐛 67 | 🌐 Python | 📅 2026-04-12
 * Qdrant (⭐) — <https://github.com/qdrant/mcp-server-qdrant/> ⭐ 1,505 | 🐛 74 | 🌐 Python | 📅 2026-08-14
-* MySQL — <https://github.com/designcomputer/mysql_mcp_server> ⭐ 1,361 | 🐛 1 | 🌐 Python | 📅 2026-08-02
-* Neon (⭐) — <https://github.com/neondatabase/mcp-server-neon> ⭐ 624 | 🐛 32 | 🌐 TypeScript | 📅 2026-08-17
-* Redis (⭐) — <https://github.com/redis/mcp-redis> ⭐ 592 | 🐛 16 | 🌐 Python | 📅 2026-08-05
-* Airtable — <https://github.com/domdomegg/airtable-mcp-server> ⭐ 455 | 🐛 2 | 🌐 TypeScript | 📅 2026-08-11
+* MySQL — <https://github.com/designcomputer/mysql_mcp_server> ⭐ 1,362 | 🐛 1 | 🌐 Python | 📅 2026-08-02
+* Neon (⭐) — <https://github.com/neondatabase/mcp-server-neon> ⭐ 624 | 🐛 33 | 🌐 TypeScript | 📅 2026-08-17
+* Redis (⭐) — <https://github.com/redis/mcp-redis> ⭐ 595 | 🐛 16 | 🌐 Python | 📅 2026-08-05
+* Airtable — <https://github.com/domdomegg/airtable-mcp-server> ⭐ 456 | 🐛 2 | 🌐 TypeScript | 📅 2026-08-11
 * MongoDB — <https://github.com/kiliczsh/mcp-mongo-server> ⭐ 284 | 🐛 1 | 🌐 TypeScript | 📅 2026-07-29
 * MongoDB Lens — <https://github.com/furey/mongodb-lens> ⭐ 206 | 🐛 4 | 🌐 JavaScript | 📅 2025-04-23
 * Snowflake — <https://github.com/isaacwasserman/mcp-snowflake-server> ⭐ 185 | 🐛 14 | 🌐 Python | 📅 2025-10-07
@@ -261,7 +261,7 @@ Database access with schema inspection and query capabilities.
 * BigQuery — <https://github.com/LucasHild/mcp-server-bigquery> ⭐ 129 | 🐛 12 | 🌐 Python | 📅 2026-03-26 (1) & <https://github.com/ergut/mcp-bigquery-server> ⭐ 146 | 🐛 1 | 🌐 TypeScript | 📅 2026-05-22 (2)
 * DBUtils — <https://github.com/donghao1393/mcp-dbutils> ⭐ 89 | 🐛 14 | 🌐 Python | 📅 2025-05-12
 * NocoDB — <https://github.com/edwinbernadus/nocodb-mcp-server> ⭐ 75 | 🐛 1 | 🌐 JavaScript | 📅 2026-03-30
-* Couchbase (⭐) — <https://github.com/Couchbase-Ecosystem/mcp-server-couchbase> ⭐ 34 | 🐛 4 | 🌐 Python | 📅 2026-08-19
+* Couchbase (⭐) — <https://github.com/Couchbase-Ecosystem/mcp-server-couchbase> ⭐ 34 | 🐛 4 | 🌐 Python | 📅 2026-08-20
 * TiDB — <https://github.com/c4pt0r/mcp-server-tidb> ⭐ 24 | 🐛 5 | 🌐 Python | 📅 2025-04-15
 * Many other DB-specific servers are listed in Community Servers.
 
@@ -271,9 +271,9 @@ Database access with schema inspection and query capabilities.
 
 Integration with chat and messaging platforms.
 
-* Atlassian — <https://github.com/sooperset/mcp-atlassian> ⭐ 5,771 | 🐛 190 | 🌐 Python | 📅 2026-08-19
-* Slack — <https://github.com/korotovsky/slack-mcp-server> ⭐ 1,790 | 🐛 69 | 🌐 Go | 📅 2026-07-16
-* LINE Official Account (⭐) — <https://github.com/line/line-bot-mcp-server> ⭐ 768 | 🐛 10 | 🌐 TypeScript | 📅 2026-08-18
+* Atlassian — <https://github.com/sooperset/mcp-atlassian> ⭐ 5,773 | 🐛 190 | 🌐 Python | 📅 2026-08-19
+* Slack — <https://github.com/korotovsky/slack-mcp-server> ⭐ 1,791 | 🐛 69 | 🌐 Go | 📅 2026-07-16
+* LINE Official Account (⭐) — <https://github.com/line/line-bot-mcp-server> ⭐ 769 | 🐛 10 | 🌐 TypeScript | 📅 2026-08-20
 * Linear — <https://github.com/jerhadf/linear-mcp-server> ⭐ 347 | 🐛 20 | 🌐 JavaScript | 📅 2025-05-01
 * ntfy — <https://github.com/gitmotion/ntfy-me-mcp> ⭐ 72 | 🐛 2 | 🌐 TypeScript | 📅 2026-04-11
 * Carbon Voice (⭐) — <https://github.com/PhononX/cv-mcp-server> ⭐ 10 | 🐛 0 | 🌐 TypeScript | 📅 2026-07-27
@@ -284,8 +284,8 @@ Integration with chat and messaging platforms.
 
 Access observability and monitoring systems.
 
-* Sentry — <https://github.com/modelcontextprotocol/servers/tree/main/src/sentry> ⭐ 89,689 | 🐛 522 | 🌐 TypeScript | 📅 2026-08-18
-* VictoriaMetrics — <https://github.com/VictoriaMetrics-Community/mcp-victoriametrics> ⭐ 214 | 🐛 20 | 🌐 Go | 📅 2026-07-19
+* Sentry — <https://github.com/modelcontextprotocol/servers/tree/main/src/sentry> ⭐ 89,718 | 🐛 526 | 🌐 TypeScript | 📅 2026-08-20
+* VictoriaMetrics — <https://github.com/VictoriaMetrics-Community/mcp-victoriametrics> ⭐ 215 | 🐛 20 | 🌐 Go | 📅 2026-07-19
 * Metoro — <https://github.com/metoro-io/metoro-mcp-server> ⭐ 51 | 🐛 3 | 🌐 Go | 📅 2026-06-02
 * Raygun — <https://github.com/MindscapeHQ/mcp-server-raygun> ⭐ 22 | 🐛 3 | 📅 2026-03-02
 * Signoz — <https://github.com/DrDroidLab/signoz-mcp-server> ⭐ 14 | 🐛 0 | 🌐 Python | 📅 2026-03-04
@@ -297,21 +297,21 @@ Access observability and monitoring systems.
 
 Web fetching, scraping, and search.
 
-* Puppeteer — <https://github.com/modelcontextprotocol/servers/tree/main/src/puppeteer> ⭐ 89,689 | 🐛 522 | 🌐 TypeScript | 📅 2026-08-18
-* Brave Search — <https://github.com/modelcontextprotocol/servers/tree/main/src/brave-search> ⭐ 89,689 | 🐛 522 | 🌐 TypeScript | 📅 2026-08-18
-* Fetch — <https://github.com/modelcontextprotocol/servers/tree/main/src/fetch> ⭐ 89,689 | 🐛 522 | 🌐 TypeScript | 📅 2026-08-18
+* Puppeteer — <https://github.com/modelcontextprotocol/servers/tree/main/src/puppeteer> ⭐ 89,718 | 🐛 526 | 🌐 TypeScript | 📅 2026-08-20
+* Brave Search — <https://github.com/modelcontextprotocol/servers/tree/main/src/brave-search> ⭐ 89,718 | 🐛 526 | 🌐 TypeScript | 📅 2026-08-20
+* Fetch — <https://github.com/modelcontextprotocol/servers/tree/main/src/fetch> ⭐ 89,718 | 🐛 526 | 🌐 TypeScript | 📅 2026-08-20
 * Playwright — <https://github.com/executeautomation/mcp-playwright> ⭐ 5,633 | 🐛 32 | 🌐 TypeScript | 📅 2025-12-13
-* Exa Search (⭐) — <https://github.com/exa-labs/exa-mcp-server> ⭐ 4,890 | 🐛 32 | 🌐 TypeScript | 📅 2026-08-18
-* Apify Actors & RAG Web Browser — <https://github.com/apify/actors-mcp-server> ⭐ 4,242 | 🐛 133 | 🌐 TypeScript | 📅 2026-08-19 and <https://github.com/apify/mcp-server-rag-web-browser> ⚠️ Archived
-* ArXiv — <https://github.com/blazickjp/arxiv-mcp-server> ⭐ 3,063 | 🐛 17 | 🌐 Python | 📅 2026-08-14
-* Bright Data — <https://github.com/luminati-io/brightdata-mcp> ⭐ 2,601 | 🐛 24 | 🌐 JavaScript | 📅 2026-08-12
+* Exa Search (⭐) — <https://github.com/exa-labs/exa-mcp-server> ⭐ 4,892 | 🐛 33 | 🌐 TypeScript | 📅 2026-08-18
+* Apify Actors & RAG Web Browser — <https://github.com/apify/actors-mcp-server> ⭐ 4,377 | 🐛 133 | 🌐 TypeScript | 📅 2026-08-20 and <https://github.com/apify/mcp-server-rag-web-browser> ⚠️ Archived
+* ArXiv — <https://github.com/blazickjp/arxiv-mcp-server> ⭐ 3,065 | 🐛 11 | 🌐 Python | 📅 2026-08-19
+* Bright Data — <https://github.com/luminati-io/brightdata-mcp> ⭐ 2,603 | 🐛 24 | 🌐 JavaScript | 📅 2026-08-12
 * Search1API — <https://github.com/fatwang2/search1api-mcp> ⭐ 173 | 🐛 0 | 🌐 TypeScript | 📅 2026-08-19
-* Scrapeless — <https://github.com/scrapeless-ai/scrapeless-mcp-server> ⭐ 168 | 🐛 1 | 🌐 TypeScript | 📅 2025-09-23
+* Scrapeless — <https://github.com/scrapeless-ai/scrapeless-mcp-server> ⭐ 168 | 🐛 1 | 🌐 TypeScript | 📅 2026-08-20
 * Google News — <https://github.com/ChanMeng666/server-google-news> ⭐ 126 | 🐛 5 | 🌐 TypeScript | 📅 2026-07-08
-* RivalSearchMCP — <https://github.com/damionrashford/RivalSearchMCP> ⭐ 120 | 🐛 10 | 🌐 Python | 📅 2026-08-18
+* RivalSearchMCP — <https://github.com/damionrashford/RivalSearchMCP> ⭐ 121 | 🐛 10 | 🌐 Python | 📅 2026-08-19
 * Tavily — <https://github.com/Tomatio13/mcp-server-tavily> ⭐ 50 | 🐛 1 | 🌐 Python | 📅 2025-08-19
 * Kagi Search — <https://github.com/ac3xx/mcp-servers-kagi> ⭐ 45 | 🐛 5 | 🌐 TypeScript | 📅 2024-12-13
-* Websearch (SearXNG) — <https://github.com/mnhlt/WebSearch-MCP> ⭐ 40 | 🐛 0 | 🌐 JavaScript | 📅 2025-04-30 and <https://github.com/ihor-sokoliuk/mcp-searxng> ⭐ 1,144 | 🐛 6 | 🌐 TypeScript | 📅 2026-08-19
+* Websearch (SearXNG) — <https://github.com/mnhlt/WebSearch-MCP> ⭐ 40 | 🐛 0 | 🌐 JavaScript | 📅 2025-04-30 and <https://github.com/ihor-sokoliuk/mcp-searxng> ⭐ 1,147 | 🐛 2 | 🌐 TypeScript | 📅 2026-08-20
 * Dumpling AI — <https://github.com/Dumpling-AI/mcp-server-dumplingai> ⭐ 31 | 🐛 7 | 🌐 JavaScript | 📅 2025-07-10
 * PapersWithCode — <https://github.com/hbg/mcp-paperswithcode> ⭐ 26 | 🐛 3 | 🌐 Python | 📅 2025-06-07
 * NYTimes — <https://github.com/angheljf/nyt> ⭐ 19 | 🐛 2 | 🌐 JavaScript | 📅 2026-07-23
@@ -325,8 +325,8 @@ Web fetching, scraping, and search.
 
 Mapping and geolocation.
 
-* Google Maps — <https://github.com/modelcontextprotocol/servers/tree/main/src/google-maps> ⭐ 89,689 | 🐛 522 | 🌐 TypeScript | 📅 2026-08-18
-* QGIS — <https://github.com/jjsantos01/qgis_mcp> ⭐ 1,062 | 🐛 16 | 🌐 Python | 📅 2025-10-01
+* Google Maps — <https://github.com/modelcontextprotocol/servers/tree/main/src/google-maps> ⭐ 89,718 | 🐛 526 | 🌐 TypeScript | 📅 2026-08-20
+* QGIS — <https://github.com/jjsantos01/qgis_mcp> ⭐ 1,066 | 🐛 16 | 🌐 Python | 📅 2025-10-01
 * IPLocate — <https://github.com/iplocate/mcp-server-iplocate> ⭐ 19 | 🐛 1 | 🌐 JavaScript | 📅 2025-06-29
 * Campertunity — <https://github.com/campertunity/mcp-server> ⭐ 16 | 🐛 1 | 🌐 TypeScript | 📅 2026-04-15
 * IP2Location.io — <https://github.com/ip2location/mcp-ip2location-io> ⭐ 15 | 🐛 1 | 🌐 Python | 📅 2026-05-26
@@ -349,11 +349,11 @@ Marketing and analytics tools.
 
 Personal knowledge and notes integrations.
 
-* Obsidian (1/2) — <https://github.com/MarkusPfundstein/mcp-obsidian> ⭐ 4,312 | 🐛 102 | 🌐 Python | 📅 2026-05-15 and <https://github.com/calclavia/mcp-obsidian>
+* Obsidian (1/2) — <https://github.com/MarkusPfundstein/mcp-obsidian> ⭐ 4,315 | 🐛 99 | 🌐 Python | 📅 2026-08-20 and <https://github.com/calclavia/mcp-obsidian>
 * Todoist — <https://github.com/abhiz123/todoist-mcp-server> ⭐ 392 | 🐛 17 | 🌐 JavaScript | 📅 2025-04-20
 * eBook-mcp — <https://github.com/onebirdrocks/ebook-mcp> ⭐ 390 | 🐛 5 | 🌐 Python | 📅 2026-01-10
-* Notion (1/2) — <https://github.com/danhilse/notion_mcp> ⭐ 208 | 🐛 5 | 🌐 Python | 📅 2024-12-18 and <https://github.com/suekou/mcp-notion-server> ⭐ 920 | 🐛 8 | 🌐 TypeScript | 📅 2026-07-31
-* OMEGA — <https://github.com/omega-memory/core> ⭐ 205 | 🐛 7 | 🌐 Python | 📅 2026-08-16 (Persistent memory for AI coding agents. #1 on LongMemEval benchmark (95.4%). 12 MCP tools with semantic search, auto-capture, and intelligent forgetting. Local-first, zero cloud dependency.)
+* Notion (1/2) — <https://github.com/danhilse/notion_mcp> ⭐ 209 | 🐛 5 | 🌐 Python | 📅 2024-12-18 and <https://github.com/suekou/mcp-notion-server> ⭐ 920 | 🐛 8 | 🌐 TypeScript | 📅 2026-07-31
+* OMEGA — <https://github.com/omega-memory/core> ⭐ 205 | 🐛 7 | 🌐 Python | 📅 2026-08-20 (Persistent memory for AI coding agents. #1 on LongMemEval benchmark (95.4%). 12 MCP tools with semantic search, auto-capture, and intelligent forgetting. Local-first, zero cloud dependency.)
 * Apple Notes — <https://github.com/sirmews/apple-notes-mcp> ⚠️ Archived (macOS)
 * Google Keep — <https://github.com/feuerdev/keep-mcp> ⭐ 91 | 🐛 2 | 🌐 Python | 📅 2026-08-07
 * Slite — <https://github.com/fajarmf/slite-mcp> ⭐ 3 | 🐛 2 | 🌐 TypeScript | 📅 2026-03-12
@@ -364,9 +364,9 @@ Personal knowledge and notes integrations.
 
 Cloud vendors and orchestration.
 
-* Cloudflare (⭐) — <https://github.com/cloudflare/mcp-server-cloudflare> ⭐ 4,093 | 🐛 60 | 🌐 TypeScript | 📅 2026-08-11
-* Google Cloud Run — <https://github.com/GoogleCloudPlatform/cloud-run-mcp> ⭐ 625 | 🐛 19 | 🌐 JavaScript | 📅 2026-08-14
-* Kubernetes (multiple implementations) — <https://github.com/strowk/mcp-k8s-go> ⭐ 386 | 🐛 11 | 🌐 Go | 📅 2025-12-22 (1), <https://github.com/weibaohui/k8m> ⭐ 872 | 🐛 25 | 🌐 Go | 📅 2026-08-14 (2), <https://github.com/StacklokLabs/mkp> ⭐ 59 | 🐛 12 | 🌐 Go | 📅 2026-08-19 (3)
+* Cloudflare (⭐) — <https://github.com/cloudflare/mcp-server-cloudflare> ⭐ 4,097 | 🐛 56 | 🌐 TypeScript | 📅 2026-08-20
+* Google Cloud Run — <https://github.com/GoogleCloudPlatform/cloud-run-mcp> ⭐ 626 | 🐛 18 | 🌐 JavaScript | 📅 2026-08-20
+* Kubernetes (multiple implementations) — <https://github.com/strowk/mcp-k8s-go> ⭐ 386 | 🐛 11 | 🌐 Go | 📅 2025-12-22 (1), <https://github.com/weibaohui/k8m> ⭐ 872 | 🐛 25 | 🌐 Go | 📅 2026-08-14 (2), <https://github.com/StacklokLabs/mkp> ⭐ 59 | 🐛 12 | 🌐 Go | 📅 2026-08-20 (3)
 * Tinybird (⭐) — <https://github.com/tinybirdco/mcp-tinybird> ⚠️ Archived
 * Render — <https://render.com/docs/mcp-server>
 
@@ -376,7 +376,7 @@ Cloud vendors and orchestration.
 
 Automation platforms and workflow tools.
 
-* Pipedream — <https://github.com/PipedreamHQ/pipedream/tree/master/modelcontextprotocol> ⭐ 11,631 | 🐛 4,310 | 🌐 JavaScript | 📅 2026-08-19
+* Pipedream — <https://github.com/PipedreamHQ/pipedream/tree/master/modelcontextprotocol> ⭐ 11,634 | 🐛 4,318 | 🌐 JavaScript | 📅 2026-08-20
 * Make (⭐) — <https://github.com/integromat/make-mcp-server> ⭐ 168 | 🐛 5 | 🌐 TypeScript | 📅 2026-06-10
 * Taskade (⭐) — <https://github.com/taskade/mcp> ⭐ 164 | 🐛 9 | 🌐 TypeScript | 📅 2026-07-29
 * Make (2) — <https://github.com/danishashko/make-mcp> ⭐ 8 | 🐛 0 | 🌐 TypeScript | 📅 2026-02-14 — Unofficial community fork with 200+ modules, auto-healing, and router support
@@ -401,13 +401,13 @@ Shell, OS, and task automation.
 
 Social platforms integration.
 
-* Spotify — <https://github.com/varunneal/spotify-mcp> ⭐ 612 | 🐛 27 | 🌐 Python | 📅 2026-03-11
+* Spotify — <https://github.com/varunneal/spotify-mcp> ⭐ 613 | 🐛 27 | 🌐 Python | 📅 2026-03-11
 * YouTube — <https://github.com/anaisbetts/mcp-youtube> ⭐ 542 | 🐛 8 | 🌐 TypeScript | 📅 2026-08-16 and <https://github.com/kimtaeyoon83/mcp-server-youtube-transcript> ⭐ 582 | 🐛 11 | 🌐 TypeScript | 📅 2026-07-21
-* TikTok — <https://github.com/Seym0n/tiktok-mcp> ⭐ 191 | 🐛 0 | 🌐 JavaScript | 📅 2026-02-27
-* Instagram DMs — <https://github.com/trypeggy/instagram_dm_mcp> ⭐ 177 | 🐛 3 | 🌐 Python | 📅 2025-08-13
+* TikTok — <https://github.com/Seym0n/tiktok-mcp> ⭐ 191 | 🐛 0 | 🌐 JavaScript | 📅 2026-08-19
+* Instagram DMs — <https://github.com/trypeggy/instagram_dm_mcp> ⭐ 178 | 🐛 3 | 🌐 Python | 📅 2025-08-13
 * BlueSky — <https://github.com/keturiosakys/bluesky-context-server> ⭐ 33 | 🐛 1 | 🌐 TypeScript | 📅 2025-08-10
 * X/Twitter — <https://github.com/mbelinky/x-mcp-server> ⭐ 21 | 🐛 5 | 🌐 TypeScript | 📅 2025-06-27
-* Social Neuron (52 MCP tools for AI-powered social media content lifecycle — ideation, creation, distribution, analytics, and optimization with closed-loop learning) — <https://github.com/socialneuron/mcp-server> ⭐ 4 | 🐛 1 | 🌐 TypeScript | 📅 2026-08-19 \[npm: @socialneuron/mcp-server]
+* Social Neuron (52 MCP tools for AI-powered social media content lifecycle — ideation, creation, distribution, analytics, and optimization with closed-loop learning) — <https://github.com/socialneuron/mcp-server> ⭐ 4 | 🐛 0 | 🌐 TypeScript | 📅 2026-08-20 \[npm: @socialneuron/mcp-server]
 
 ***
 
@@ -415,7 +415,7 @@ Social platforms integration.
 
 Game engines and tooling.
 
-* Unity Engine (various) — <https://github.com/IvanMurzak/Unity-MCP> ⭐ 3,951 | 🐛 51 | 🌐 C# | 📅 2026-08-19, <https://github.com/CoderGamester/mcp-unity> ⭐ 1,868 | 🐛 3 | 🌐 C# | 📅 2026-08-10, <https://github.com/codemaestroai/advanced-unity-mcp> ⭐ 93 | 🐛 2 | 📅 2026-03-30
+* Unity Engine (various) — <https://github.com/IvanMurzak/Unity-MCP> ⭐ 3,953 | 🐛 52 | 🌐 C# | 📅 2026-08-19, <https://github.com/CoderGamester/mcp-unity> ⭐ 1,870 | 🐛 3 | 🌐 C# | 📅 2026-08-10, <https://github.com/codemaestroai/advanced-unity-mcp> ⭐ 93 | 🐛 2 | 📅 2026-03-30
 
 ***
 
@@ -423,13 +423,13 @@ Game engines and tooling.
 
 Payments, market data, and finance tools.
 
-* Stripe (⭐) — <https://github.com/stripe/agent-toolkit> ⭐ 1,750 | 🐛 79 | 🌐 TypeScript | 📅 2026-08-19
-* awesome-x402 (curated directory of x402 payment protocol MCP servers and tools) — <https://github.com/xpaysh/awesome-x402> ⭐ 280 | 🐛 307 | 📅 2026-07-28
-* PayPal (⭐) — <https://github.com/paypal/agent-toolkit> ⭐ 190 | 🐛 24 | 🌐 TypeScript | 📅 2026-08-10
+* Stripe (⭐) — <https://github.com/stripe/agent-toolkit> ⭐ 1,753 | 🐛 78 | 🌐 TypeScript | 📅 2026-08-20
+* awesome-x402 (curated directory of x402 payment protocol MCP servers and tools) — <https://github.com/xpaysh/awesome-x402> ⭐ 281 | 🐛 314 | 📅 2026-07-28
+* PayPal (⭐) — <https://github.com/paypal/agent-toolkit> ⭐ 190 | 🐛 23 | 🌐 TypeScript | 📅 2026-08-20
 * Octagon (⭐) — <https://github.com/OctagonAI/octagon-mcp-server> ⭐ 146 | 🐛 4 | 🌐 TypeScript | 📅 2026-07-09
 * CoinMarket — <https://github.com/anjor/coinmarket-mcp-server> ⭐ 50 | 🐛 1 | 🌐 Python | 📅 2025-06-24
 * Chargebee (⭐) — <https://github.com/chargebee/agentkit/tree/main/modelcontextprotocol> ⚠️ Archived
-* LongPort OpenAPI (⭐) — <https://github.com/longportapp/openapi/tree/main/mcp> ⭐ 7 | 🐛 4 | 🌐 Rust | 📅 2026-08-12
+* LongPort OpenAPI (⭐) — <https://github.com/longportapp/openapi/tree/main/mcp> ⭐ 7 | 🐛 5 | 🌐 Rust | 📅 2026-08-12
 * AgentFund — <https://github.com/RioBot-Grind/agentfund-mcp> ⭐ 1 | 🐛 6 | 🌐 JavaScript | 📅 2026-02-03
 * x402engine-mcp (50+ pay-per-call APIs for AI agents via HTTP 402 micropayments) — <https://github.com/agentc22/x402engine-mcp> ⭐ 0 | 🐛 5 | 🌐 JavaScript | 📅 2026-07-25
 * Omnis Venture Intelligence MCP — <https://github.com/HCS412/ventureautomated> (remote venture intelligence for autonomous agents: startup discovery, company scoring, monitoring, and enterprise workspace automation) [glama](https://glama.ai/mcp/connectors/io.github.HCS412/ventureautomated-omnis)
@@ -442,10 +442,10 @@ Payments, market data, and finance tools.
 
 Papers, datasets, and domain data.
 
-* ArXiv — <https://github.com/blazickjp/arxiv-mcp-server> ⭐ 3,063 | 🐛 17 | 🌐 Python | 📅 2026-08-14
+* ArXiv — <https://github.com/blazickjp/arxiv-mcp-server> ⭐ 3,065 | 🐛 11 | 🌐 Python | 📅 2026-08-19
 * OpenNutrition — <https://github.com/deadletterq/mcp-opennutrition> ⭐ 200 | 🐛 0 | 🌐 TypeScript | 📅 2026-07-28
 * Ancestry — <https://github.com/reeeeemo/ancestry-mcp> ⚠️ Archived
-* Congress (legislative data) — <https://github.com/amurshak/congressMCP> ⭐ 32 | 🐛 1 | 🌐 Python | 📅 2026-08-06
+* Congress (legislative data) — <https://github.com/amurshak/congressMCP> ⭐ 32 | 🐛 1 | 🌐 Python | 📅 2026-08-20
 * Probe.dev — <https://mcp.probe.dev>
 
 ***
@@ -455,13 +455,13 @@ Papers, datasets, and domain data.
 AI model & ML service integrations.
 
 * HuggingFace Spaces — <https://github.com/evalstate/mcp-hfspace> ⭐ 388 | 🐛 12 | 🌐 TypeScript | 📅 2025-06-13
-* OpenAI Compatible Chat — <https://github.com/pyroprompts/any-chat-completions-mcp> ⭐ 156 | 🐛 8 | 🌐 JavaScript | 📅 2025-05-01
-* NeuroLink — <https://github.com/juspay/neurolink> ⭐ 121 | 🐛 74 | 🌐 TypeScript | 📅 2026-08-19
+* OpenAI Compatible Chat — <https://github.com/pyroprompts/any-chat-completions-mcp> ⭐ 157 | 🐛 8 | 🌐 JavaScript | 📅 2025-05-01
+* NeuroLink — <https://github.com/juspay/neurolink> ⭐ 121 | 🐛 68 | 🌐 TypeScript | 📅 2026-08-20
 * Chronulus AI — <https://github.com/ChronulusAI/chronulus-mcp> ⭐ 111 | 🐛 3 | 🌐 Python | 📅 2025-07-19
 * Perplexity — <https://github.com/tanigami/mcp-server-perplexity> ⭐ 94 | 🐛 3 | 🌐 Python | 📅 2024-12-25
 * LlamaCloud — <https://github.com/run-llama/mcp-server-llamacloud> ⚠️ Archived
 * OpenAI — <https://github.com/pierrebrunelle/mcp-server-openai> ⭐ 84 | 🐛 6 | 🌐 Python | 📅 2024-11-28
-* PiAPI — <https://github.com/apinetwork/piapi-mcp-server> ⭐ 73 | 🐛 7 | 🌐 TypeScript | 📅 2026-08-10
+* PiAPI — <https://github.com/apinetwork/piapi-mcp-server> ⭐ 74 | 🐛 7 | 🌐 TypeScript | 📅 2026-08-10
 * ZenML (⭐) — <https://github.com/zenml-io/mcp-zenml> ⭐ 49 | 🐛 2 | 🌐 Python | 📅 2026-08-04
 * Agentset AI — <https://github.com/agentset-ai/mcp-server> ⭐ 30 | 🐛 0 | 🌐 JavaScript | 📅 2025-06-16
 * Creatify — <https://github.com/TSavo/creatify-mcp> ⭐ 22 | 🐛 3 | 🌐 TypeScript | 📅 2025-05-26
@@ -472,14 +472,14 @@ AI model & ML service integrations.
 
 Developer-focused MCP servers and tools.
 
-* Mastra/mcp (⭐) — <https://github.com/mastra-ai/mastra/tree/main/packages/mcp> ⭐ 27,312 | 🐛 446 | 🌐 TypeScript | 📅 2026-08-19
-* Figma — <https://github.com/GLips/Figma-Context-MCP> ⭐ 15,677 | 🐛 22 | 🌐 TypeScript | 📅 2026-08-07
+* Mastra/mcp (⭐) — <https://github.com/mastra-ai/mastra/tree/main/packages/mcp> ⭐ 27,336 | 🐛 501 | 🌐 TypeScript | 📅 2026-08-20
+* Figma — <https://github.com/GLips/Figma-Context-MCP> ⭐ 15,690 | 🐛 23 | 🌐 TypeScript | 📅 2026-08-07
 * Octocode — <https://github.com/bgauryy/octocode-mcp> ⭐ 916 | 🐛 3 | 🌐 TypeScript | 📅 2026-08-18
 * CentralMind/Gateway — <https://github.com/centralmind/gateway> ⭐ 544 | 🐛 15 | 🌐 Go | 📅 2025-07-18
-* flutter-skill — <https://github.com/ai-dashboad/flutter-skill> ⭐ 356 | 🐛 11 | 🌐 Dart | 📅 2026-07-23 — AI-powered E2E testing bridge for any app. Supports Flutter, iOS, Android, Web, Electron, Tauri, KMP, React Native, .NET MAUI.
+* flutter-skill — <https://github.com/ai-dashboad/flutter-skill> ⭐ 355 | 🐛 11 | 🌐 Dart | 📅 2026-07-23 — AI-powered E2E testing bridge for any app. Supports Flutter, iOS, Android, Web, Electron, Tauri, KMP, React Native, .NET MAUI.
 * VSCode Devtools — <https://github.com/biegehydra/BifrostMCP> ⭐ 224 | 🐛 8 | 🌐 TypeScript | 📅 2026-03-27
 * Comet Opik (⭐) — <https://github.com/comet-ml/opik-mcp> ⭐ 218 | 🐛 33 | 🌐 Python | 📅 2026-08-19
-* DefangLabs/defang — <https://github.com/DefangLabs/defang> ⭐ 163 | 🐛 213 | 🌐 Go | 📅 2026-08-19
+* DefangLabs/defang — <https://github.com/DefangLabs/defang> ⭐ 163 | 🐛 213 | 🌐 Go | 📅 2026-08-20
 * Postman — <https://github.com/delano/postman-mcp-server> ⭐ 159 | 🐛 9 | 🌐 TypeScript | 📅 2026-02-11
 * marimo (⭐) — <https://github.com/marimo-team/codemirror-mcp> ⭐ 79 | 🐛 0 | 🌐 TypeScript | 📅 2026-07-28
 * OpenAPI Schema Explorer — <https://github.com/kadykov/mcp-openapi-schema-explorer> ⭐ 76 | 🐛 1 | 🌐 TypeScript | 📅 2026-08-17
@@ -497,7 +497,7 @@ Developer-focused MCP servers and tools.
 
 Charting and diagram tools.
 
-* Chart (AntV) — <https://github.com/antvis/mcp-server-chart> ⭐ 4,321 | 🐛 10 | 🌐 TypeScript | 📅 2026-08-19
+* Chart (AntV) — <https://github.com/antvis/mcp-server-chart> ⭐ 4,324 | 🐛 11 | 🌐 TypeScript | 📅 2026-08-19
 * Mermaid — <https://github.com/hustcc/mcp-mermaid> ⭐ 625 | 🐛 8 | 🌐 TypeScript | 📅 2026-05-15
 * ECharts — <https://github.com/hustcc/mcp-echarts> ⭐ 259 | 🐛 4 | 🌐 TypeScript | 📅 2026-01-30
 * VegaLite — <https://github.com/isaacwasserman/mcp-vegalite-server> ⭐ 100 | 🐛 7 | 🌐 Python | 📅 2025-05-16
@@ -517,8 +517,8 @@ Identity and access management.
 
 Single MCP endpoints that expose many integrations.
 
-* Pipedream — <https://github.com/PipedreamHQ/pipedream/tree/master/modelcontextprotocol> ⭐ 11,631 | 🐛 4,310 | 🌐 JavaScript | 📅 2026-08-19
-* MCPJungle — <https://github.com/mcpjungle/MCPJungle> ⭐ 1,217 | 🐛 97 | 🌐 Go | 📅 2026-08-02
+* Pipedream — <https://github.com/PipedreamHQ/pipedream/tree/master/modelcontextprotocol> ⭐ 11,634 | 🐛 4,318 | 🌐 JavaScript | 📅 2026-08-20
+* MCPJungle — <https://github.com/mcpjungle/MCPJungle> ⭐ 1,220 | 🐛 98 | 🌐 Go | 📅 2026-08-02
 * Magg — <https://github.com/sitbon/magg> ⭐ 142 | 🐛 7 | 🌐 Python | 📅 2026-08-02
 * Plugged.in — <https://github.com/VeriTeknik/pluggedin-mcp-proxy> ⭐ 135 | 🐛 1 | 🌐 TypeScript | 📅 2026-05-10
 * MCP Aggregator / Combine — <https://github.com/nazar256/combine-mcp> ⭐ 34 | 🐛 2 | 🌐 Go | 📅 2025-11-24
@@ -562,7 +562,7 @@ MCP servers for device and IoT integration.
 
 Books, libraries, and creative tools.
 
-* MCP Open Library — <https://github.com/8enSmith/mcp-open-library> ⭐ 88 | 🐛 1 | 🌐 TypeScript | 📅 2026-08-14
+* MCP Open Library — <https://github.com/8enSmith/mcp-open-library> ⭐ 89 | 🐛 1 | 🌐 TypeScript | 📅 2026-08-14
 * Pollinations — <https://github.com/pollinations/model-context-protocol>
 
 ***
@@ -581,7 +581,7 @@ Commerce and marketplace integrations.
 
 Orchestration and data pipeline platforms.
 
-* Keboola (⭐) — <https://github.com/keboola/keboola-mcp-server> ⭐ 86 | 🐛 39 | 🌐 Python | 📅 2026-08-19
+* Keboola (⭐) — <https://github.com/keboola/keboola-mcp-server> ⭐ 86 | 🐛 34 | 🌐 Python | 📅 2026-08-20
 
 ***
 
@@ -589,7 +589,7 @@ Orchestration and data pipeline platforms.
 
 Robotics and device control.
 
-* Bagel — <https://github.com/Extelligence-ai/bagel> ⭐ 393 | 🐛 12 | 🌐 Python | 📅 2026-08-19
+* Bagel — <https://github.com/Extelligence-ai/bagel> ⭐ 394 | 🐛 10 | 🌐 Python | 📅 2026-08-19
 
 ***
 
@@ -597,17 +597,17 @@ Robotics and device control.
 
 A broad collection of community-maintained MCP servers (selected highlights — many more are available in the ecosystem):
 
-* bytebase/dbhub — <https://github.com/bytebase/dbhub> ⭐ 3,378 | 🐛 3 | 🌐 TypeScript | 📅 2026-08-15
+* bytebase/dbhub — <https://github.com/bytebase/dbhub> ⭐ 3,381 | 🐛 4 | 🌐 TypeScript | 📅 2026-08-15
 * Android MCP — <https://github.com/minhalvp/android-mcp-server> ⭐ 801 | 🐛 7 | 🌐 Python | 📅 2025-05-28
-* Airtable — <https://github.com/domdomegg/airtable-mcp-server> ⭐ 455 | 🐛 2 | 🌐 TypeScript | 📅 2026-08-11
+* Airtable — <https://github.com/domdomegg/airtable-mcp-server> ⭐ 456 | 🐛 2 | 🌐 TypeScript | 📅 2026-08-11
 * Binary Ninja integration — <https://github.com/fosdickio/binary_ninja_mcp> ⭐ 423 | 🐛 33 | 🌐 Python | 📅 2026-04-05
-* Apple Notes — <https://github.com/RafalWilinski/mcp-apple-notes> ⭐ 411 | 🐛 21 | 🌐 TypeScript | 📅 2024-12-17
+* Apple Notes — <https://github.com/RafalWilinski/mcp-apple-notes> ⭐ 412 | 🐛 21 | 🌐 TypeScript | 📅 2024-12-17
 * BloodHound-MCP — <https://github.com/MorDavid/BloodHound-MCP-AI> ⭐ 374 | 🐛 0 | 🌐 Python | 📅 2025-06-02
 * Apple Shortcuts — <https://github.com/recursechat/mcp-server-apple-shortcuts> ⭐ 342 | 🐛 6 | 🌐 JavaScript | 📅 2024-12-22
 * Calculator — <https://github.com/githejie/mcp-server-calculator> ⭐ 156 | 🐛 7 | 🌐 Python | 📅 2026-08-08
 * BigQuery servers — <https://github.com/LucasHild/mcp-server-bigquery> ⭐ 129 | 🐛 12 | 🌐 Python | 📅 2026-03-26 and <https://github.com/ergut/mcp-bigquery-server> ⭐ 146 | 🐛 1 | 🌐 TypeScript | 📅 2026-05-22
 * Basecamp — <https://github.com/georgeantonopoulos/Basecamp-MCP-Server> ⭐ 97 | 🐛 7 | 🌐 Python | 📅 2026-08-09
-* CalDAV MCP — <https://github.com/dominik1001/caldav-mcp> ⭐ 97 | 🐛 13 | 🌐 TypeScript | 📅 2026-08-17
+* CalDAV MCP — <https://github.com/dominik1001/caldav-mcp> ⭐ 97 | 🐛 12 | 🌐 TypeScript | 📅 2026-08-20
 * AniList — <https://github.com/yuna0x0/anilist-mcp> ⭐ 84 | 🐛 2 | 🌐 TypeScript | 📅 2026-07-13
 * Algorand — <https://github.com/GoPlausible/algorand-mcp> ⭐ 44 | 🐛 5 | 🌐 TypeScript | 📅 2026-08-08
 * APISIX-MCP — <https://github.com/api7/apisix-mcp> ⭐ 38 | 🐛 2 | 🌐 TypeScript | 📅 2025-06-16
@@ -616,7 +616,7 @@ A broad collection of community-maintained MCP servers (selected highlights — 
 * Alertmanager — <https://github.com/ntk148v/alertmanager-mcp-server> ⭐ 24 | 🐛 3 | 🌐 Python | 📅 2026-06-16
 * AnkiConnect — <https://github.com/spacholski1225/anki-connect-mcp> ⭐ 24 | 🐛 0 | 🌐 TypeScript | 📅 2025-07-20
 * AWS EC2 Pricing — <https://github.com/trilogy-group/aws-pricing-mcp> ⭐ 21 | 🐛 3 | 🌐 Python | 📅 2025-07-24
-* Bing Webmaster Tools — <https://github.com/isiahw1/mcp-server-bing-webmaster> ⭐ 20 | 🐛 3 | 🌐 Python | 📅 2026-02-10
+* Bing Webmaster Tools — <https://github.com/isiahw1/mcp-server-bing-webmaster> ⭐ 21 | 🐛 3 | 🌐 Python | 📅 2026-02-10
 * Currents — <https://github.com/currents-dev/currents-mcp> ⭐ 19 | 🐛 4 | 🌐 TypeScript | 📅 2026-08-17
 * Backup — <https://github.com/hexitex/MCP-Backup-Server> ⭐ 12 | 🐛 0 | 🌐 JavaScript | 📅 2025-08-08
 * Box community server — <https://github.com/hmk/box-mcp-server> ⭐ 11 | 🐛 2 | 🌐 JavaScript | 📅 2025-08-22
@@ -633,14 +633,14 @@ A broad collection of community-maintained MCP servers (selected highlights — 
 
 Clients and UI tools that consume MCP servers:
 
-* Zed — <https://github.com/zed-industries/zed> ⭐ 88,891 | 🐛 3,232 | 🌐 Rust | 📅 2026-08-19
-* Continue — <https://github.com/continuedev/continue> ⭐ 35,546 | 🐛 952 | 🌐 TypeScript | 📅 2026-08-19
-* gpt-computer-assistant — <https://github.com/Upsonic/gpt-computer-assistant> ⭐ 7,940 | 🐛 30 | 🌐 Python | 📅 2026-06-18
-* genkit — <https://github.com/firebase/genkit> ⭐ 6,345 | 🐛 707 | 🌐 TypeScript | 📅 2026-08-19
+* Zed — <https://github.com/zed-industries/zed> ⭐ 88,953 | 🐛 3,220 | 🌐 Rust | 📅 2026-08-20
+* Continue — <https://github.com/continuedev/continue> ⭐ 35,561 | 🐛 950 | 🌐 TypeScript | 📅 2026-08-20
+* gpt-computer-assistant — <https://github.com/Upsonic/gpt-computer-assistant> ⭐ 7,943 | 🐛 31 | 🌐 Python | 📅 2026-06-18
+* genkit — <https://github.com/firebase/genkit> ⭐ 6,350 | 🐛 713 | 🌐 TypeScript | 📅 2026-08-20
 * mcphub.nvim — <https://github.com/ravitemer/mcphub.nvim> ⭐ 1,783 | 🐛 24 | 🌐 Lua | 📅 2026-01-18
 * Nerve — <https://github.com/evilsocket/nerve> ⚠️ Archived
-* MCP-Bridge — <https://github.com/SecretiveShell/MCP-Bridge> ⭐ 930 | 🐛 36 | 🌐 Python | 📅 2025-12-08
-* mcp-cli — <https://github.com/wong2/mcp-cli> ⭐ 443 | 🐛 11 | 🌐 JavaScript | 📅 2026-06-08
+* MCP-Bridge — <https://github.com/SecretiveShell/MCP-Bridge> ⭐ 929 | 🐛 36 | 🌐 Python | 📅 2025-12-08
+* mcp-cli — <https://github.com/wong2/mcp-cli> ⭐ 443 | 🐛 8 | 🌐 JavaScript | 📅 2026-06-08
 * Shinkai — <http://github.com/dcSpark/shinkai-apps/> ⭐ 431 | 🐛 16 | 🌐 TypeScript | 📅 2026-06-15
 * MCP-Chatbot (⭐ CLI) — <https://github.com/3choff/mcp-chatbot> ⭐ 251 | 🐛 2 | 🌐 Python | 📅 2024-12-05
 * MCP-Connect — <https://github.com/EvalsOne/mcp-connect> ⭐ 239 | 🐛 1 | 🌐 Python | 📅 2026-03-18
@@ -660,7 +660,7 @@ Frameworks and scaffolding for building MCP servers:
 
 Frameworks and scaffolding for building MCP servers:
 
-* ToolHive — <https://github.com/Stacklok/toolhive> ⭐ 2,025 | 🐛 384 | 🌐 Go | 📅 2026-08-19
+* ToolHive — <https://github.com/Stacklok/toolhive> ⭐ 2,027 | 🐛 382 | 🌐 Go | 📅 2026-08-20
 * mcp-framework — <https://github.com/QuantGeekDev/mcp-framework> ⭐ 928 | 🐛 23 | 🌐 TypeScript | 📅 2026-04-16
 * centralmind/gateway — <https://github.com/centralmind/gateway> ⭐ 544 | 🐛 15 | 🌐 Go | 📅 2025-07-18
 * LiteMCP — <https://github.com/wong2/litemcp> ⭐ 185 | 🐛 3 | 🌐 TypeScript | 📅 2025-04-27
@@ -705,4 +705,4 @@ If this project is helpful for you, please cite:
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-19._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-20._
