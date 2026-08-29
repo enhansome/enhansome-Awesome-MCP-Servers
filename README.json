@@ -16,7 +16,8 @@
             "owner": "YuzeHao2023",
             "repo": "Awesome-MCP-Servers",
             "stars": 1060
-          }
+          },
+          "first_seen": "2026-08-29T01:55:10.167Z"
         },
         {
           "node_type": "item",
@@ -31,7 +32,8 @@
             "owner": "YuzeHao2023",
             "repo": "Awesome-MCP-Servers",
             "stars": 1060
-          }
+          },
+          "first_seen": "2026-08-29T01:55:10.167Z"
         },
         {
           "node_type": "item",
@@ -46,7 +48,8 @@
             "owner": "YuzeHao2023",
             "repo": "Awesome-MCP-Servers",
             "stars": 1060
-          }
+          },
+          "first_seen": "2026-08-29T01:55:10.167Z"
         },
         {
           "node_type": "item",
@@ -61,7 +64,8 @@
             "owner": "YuzeHao2023",
             "repo": "Awesome-MCP-Servers",
             "stars": 1060
-          }
+          },
+          "first_seen": "2026-08-29T01:55:10.167Z"
         },
         {
           "node_type": "item",
@@ -76,7 +80,8 @@
             "owner": "YuzeHao2023",
             "repo": "Awesome-MCP-Servers",
             "stars": 1060
-          }
+          },
+          "first_seen": "2026-08-29T01:55:10.167Z"
         }
       ],
       "title": "All Documents"
@@ -98,11 +103,12 @@
                 "archived": false,
                 "id": 890668799,
                 "language": "TypeScript",
-                "last_commit": "2026-08-28T02:17:33Z",
+                "last_commit": "2026-08-28T17:58:20Z",
                 "owner": "modelcontextprotocol",
                 "repo": "servers",
-                "stars": 89915
-              }
+                "stars": 89938
+              },
+              "first_seen": "2026-08-29T01:55:10.167Z"
             }
           ]
         },
@@ -120,11 +126,12 @@
                 "archived": false,
                 "id": 890668799,
                 "language": "TypeScript",
-                "last_commit": "2026-08-28T02:17:33Z",
+                "last_commit": "2026-08-28T17:58:20Z",
                 "owner": "modelcontextprotocol",
                 "repo": "servers",
-                "stars": 89915
-              }
+                "stars": 89938
+              },
+              "first_seen": "2026-08-29T01:55:10.167Z"
             }
           ]
         },
@@ -142,11 +149,12 @@
                 "archived": false,
                 "id": 890668799,
                 "language": "TypeScript",
-                "last_commit": "2026-08-28T02:17:33Z",
+                "last_commit": "2026-08-28T17:58:20Z",
                 "owner": "modelcontextprotocol",
                 "repo": "servers",
-                "stars": 89915
-              }
+                "stars": 89938
+              },
+              "first_seen": "2026-08-29T01:55:10.167Z"
             }
           ]
         },
@@ -164,11 +172,12 @@
                 "archived": false,
                 "id": 890668799,
                 "language": "TypeScript",
-                "last_commit": "2026-08-28T02:17:33Z",
+                "last_commit": "2026-08-28T17:58:20Z",
                 "owner": "modelcontextprotocol",
                 "repo": "servers",
-                "stars": 89915
-              }
+                "stars": 89938
+              },
+              "first_seen": "2026-08-29T01:55:10.167Z"
             }
           ]
         },
@@ -186,11 +195,12 @@
                 "archived": false,
                 "id": 890668799,
                 "language": "TypeScript",
-                "last_commit": "2026-08-28T02:17:33Z",
+                "last_commit": "2026-08-28T17:58:20Z",
                 "owner": "modelcontextprotocol",
                 "repo": "servers",
-                "stars": 89915
-              }
+                "stars": 89938
+              },
+              "first_seen": "2026-08-29T01:55:10.167Z"
             }
           ]
         },
@@ -208,11 +218,12 @@
                 "archived": false,
                 "id": 890668799,
                 "language": "TypeScript",
-                "last_commit": "2026-08-28T02:17:33Z",
+                "last_commit": "2026-08-28T17:58:20Z",
                 "owner": "modelcontextprotocol",
                 "repo": "servers",
-                "stars": 89915
-              }
+                "stars": 89938
+              },
+              "first_seen": "2026-08-29T01:55:10.167Z"
             }
           ]
         },
@@ -230,11 +241,12 @@
                 "archived": false,
                 "id": 890668799,
                 "language": "TypeScript",
-                "last_commit": "2026-08-28T02:17:33Z",
+                "last_commit": "2026-08-28T17:58:20Z",
                 "owner": "modelcontextprotocol",
                 "repo": "servers",
-                "stars": 89915
-              }
+                "stars": 89938
+              },
+              "first_seen": "2026-08-29T01:55:10.167Z"
             }
           ]
         }
@@ -253,11 +265,12 @@
             "archived": false,
             "id": 942771284,
             "language": "Go",
-            "last_commit": "2026-08-27T14:22:25Z",
+            "last_commit": "2026-08-28T14:17:47Z",
             "owner": "github",
             "repo": "github-mcp-server",
-            "stars": 32567
-          }
+            "stars": 32587
+          },
+          "first_seen": "2026-08-29T01:55:10.167Z"
         },
         {
           "node_type": "item",
@@ -271,8 +284,9 @@
             "last_commit": "2026-07-31T23:27:33Z",
             "owner": "21st-dev",
             "repo": "magic-mcp",
-            "stars": 5739
-          }
+            "stars": 5746
+          },
+          "first_seen": "2026-08-29T01:55:10.167Z"
         },
         {
           "node_type": "item",
@@ -286,8 +300,9 @@
             "last_commit": "2026-08-27T14:49:23Z",
             "owner": "apify",
             "repo": "apify-mcp-server",
-            "stars": 5180
-          }
+            "stars": 5282
+          },
+          "first_seen": "2026-08-29T01:55:10.167Z"
         },
         {
           "node_type": "item",
@@ -302,7 +317,8 @@
             "owner": "makenotion",
             "repo": "notion-mcp-server",
             "stars": 4611
-          }
+          },
+          "first_seen": "2026-08-29T01:55:10.167Z"
         },
         {
           "node_type": "item",
@@ -316,8 +332,9 @@
             "last_commit": "2026-08-24T09:19:59Z",
             "owner": "cloudflare",
             "repo": "mcp-server-cloudflare",
-            "stars": 4121
-          }
+            "stars": 4123
+          },
+          "first_seen": "2026-08-29T01:55:10.167Z"
         },
         {
           "node_type": "item",
@@ -328,11 +345,12 @@
             "archived": false,
             "id": 886826524,
             "language": "TypeScript",
-            "last_commit": "2026-08-26T00:21:54Z",
+            "last_commit": "2026-08-29T00:43:54Z",
             "owner": "stripe",
             "repo": "ai",
-            "stars": 1771
-          }
+            "stars": 1774
+          },
+          "first_seen": "2026-08-29T01:55:10.167Z"
         },
         {
           "node_type": "item",
@@ -347,7 +365,8 @@
             "owner": "paypal",
             "repo": "agent-toolkit",
             "stars": 189
-          }
+          },
+          "first_seen": "2026-08-29T01:55:10.167Z"
         },
         {
           "node_type": "item",
@@ -362,7 +381,8 @@
             "owner": "tinyfish-io",
             "repo": "agentql-mcp",
             "stars": 178
-          }
+          },
+          "first_seen": "2026-08-29T01:55:10.167Z"
         },
         {
           "node_type": "item",
@@ -376,8 +396,9 @@
             "last_commit": "2026-08-18T12:12:24Z",
             "owner": "aliyun",
             "repo": "alibabacloud-devops-mcp-server",
-            "stars": 161
-          }
+            "stars": 162
+          },
+          "first_seen": "2026-08-29T01:55:10.167Z"
         },
         {
           "node_type": "item",
@@ -392,7 +413,8 @@
             "owner": "agentrpc",
             "repo": "agentrpc",
             "stars": 135
-          }
+          },
+          "first_seen": "2026-08-29T01:55:10.167Z"
         },
         {
           "node_type": "item",
@@ -407,7 +429,8 @@
             "owner": "box-community",
             "repo": "mcp-server-box",
             "stars": 101
-          }
+          },
+          "first_seen": "2026-08-29T01:55:10.167Z"
         },
         {
           "node_type": "item",
@@ -422,7 +445,8 @@
             "owner": "tinybirdco",
             "repo": "mcp-tinybird",
             "stars": 79
-          }
+          },
+          "first_seen": "2026-08-29T01:55:10.167Z"
         },
         {
           "node_type": "item",
@@ -437,7 +461,8 @@
             "owner": "particlefuture",
             "repo": "1mcpserver",
             "stars": 53
-          }
+          },
+          "first_seen": "2026-08-29T01:55:10.167Z"
         },
         {
           "node_type": "item",
@@ -452,7 +477,8 @@
             "owner": "Aiven-Open",
             "repo": "mcp-aiven",
             "stars": 26
-          }
+          },
+          "first_seen": "2026-08-29T01:55:10.167Z"
         },
         {
           "node_type": "item",
@@ -467,7 +493,8 @@
             "owner": "Adfin-Engineering",
             "repo": "mcp-server-adfin",
             "stars": 11
-          }
+          },
+          "first_seen": "2026-08-29T01:55:10.167Z"
         },
         {
           "node_type": "item",
@@ -482,7 +509,8 @@
             "owner": "4everland",
             "repo": "4everland-hosting-mcp",
             "stars": 2
-          }
+          },
+          "first_seen": "2026-08-29T01:55:10.167Z"
         }
       ],
       "title": "Official Servers"
@@ -499,11 +527,12 @@
             "archived": false,
             "id": 947349598,
             "language": "Go",
-            "last_commit": "2026-08-27T22:35:22Z",
+            "last_commit": "2026-08-28T20:28:37Z",
             "owner": "stacklok",
             "repo": "toolhive",
-            "stars": 2050
-          }
+            "stars": 2054
+          },
+          "first_seen": "2026-08-29T01:55:10.167Z"
         },
         {
           "node_type": "item",
@@ -518,7 +547,8 @@
             "owner": "anaisbetts",
             "repo": "mcp-installer",
             "stars": 1532
-          }
+          },
+          "first_seen": "2026-08-29T01:55:10.167Z"
         },
         {
           "node_type": "item",
@@ -533,7 +563,8 @@
             "owner": "michaellatman",
             "repo": "mcp-get",
             "stars": 507
-          }
+          },
+          "first_seen": "2026-08-29T01:55:10.167Z"
         },
         {
           "node_type": "item",
@@ -548,7 +579,8 @@
             "owner": "ssut",
             "repo": "Remote-MCP",
             "stars": 209
-          }
+          },
+          "first_seen": "2026-08-29T01:55:10.167Z"
         },
         {
           "node_type": "item",
@@ -563,7 +595,8 @@
             "owner": "raw-labs",
             "repo": "mxcp",
             "stars": 69
-          }
+          },
+          "first_seen": "2026-08-29T01:55:10.167Z"
         },
         {
           "node_type": "item",
@@ -578,7 +611,8 @@
             "owner": "hamidra",
             "repo": "yamcp",
             "stars": 66
-          }
+          },
+          "first_seen": "2026-08-29T01:55:10.167Z"
         },
         {
           "node_type": "item",
@@ -593,7 +627,8 @@
             "owner": "wong2",
             "repo": "mcp-cli",
             "stars": 443
-          }
+          },
+          "first_seen": "2026-08-29T01:55:10.167Z"
         },
         {
           "node_type": "item",
@@ -608,7 +643,8 @@
             "owner": "appsec-innovation-labs",
             "repo": "secure-mcp-fetch",
             "stars": 3
-          }
+          },
+          "first_seen": "2026-08-29T01:55:10.167Z"
         },
         {
           "children": [
@@ -621,11 +657,12 @@
                 "archived": false,
                 "id": 890668799,
                 "language": "TypeScript",
-                "last_commit": "2026-08-28T02:17:33Z",
+                "last_commit": "2026-08-28T17:58:20Z",
                 "owner": "modelcontextprotocol",
                 "repo": "servers",
-                "stars": 89915
-              }
+                "stars": 89938
+              },
+              "first_seen": "2026-08-29T01:55:10.167Z"
             },
             {
               "node_type": "item",
@@ -639,8 +676,9 @@
                 "last_commit": "2026-08-27T11:20:04Z",
                 "owner": "mickael-kerjean",
                 "repo": "filestash",
-                "stars": 14556
-              }
+                "stars": 14557
+              },
+              "first_seen": "2026-08-29T01:55:10.167Z"
             },
             {
               "node_type": "item",
@@ -655,7 +693,8 @@
                 "owner": "mark3labs",
                 "repo": "mcp-filesystem-server",
                 "stars": 679
-              }
+              },
+              "first_seen": "2026-08-29T01:55:10.167Z"
             },
             {
               "node_type": "item",
@@ -669,8 +708,9 @@
                 "last_commit": "2025-10-20T21:36:47Z",
                 "owner": "mamertofabian",
                 "repo": "mcp-everything-search",
-                "stars": 356
-              }
+                "stars": 357
+              },
+              "first_seen": "2026-08-29T01:55:10.167Z"
             },
             {
               "node_type": "item",
@@ -685,7 +725,8 @@
                 "owner": "cyberchitta",
                 "repo": "llm-context.py",
                 "stars": 306
-              }
+              },
+              "first_seen": "2026-08-29T01:55:10.167Z"
             },
             {
               "node_type": "item",
@@ -699,8 +740,9 @@
                 "last_commit": "2026-05-23T03:34:06Z",
                 "owner": "efforthye",
                 "repo": "fast-filesystem-mcp",
-                "stars": 59
-              }
+                "stars": 60
+              },
+              "first_seen": "2026-08-29T01:55:10.167Z"
             },
             {
               "node_type": "item",
@@ -715,7 +757,8 @@
                 "owner": "hexitex",
                 "repo": "MCP-Backup-Server",
                 "stars": 12
-              }
+              },
+              "first_seen": "2026-08-29T01:55:10.167Z"
             }
           ],
           "description": "Provides access to local or remote file systems with configurable permissions.",
@@ -733,11 +776,12 @@
                 "archived": false,
                 "id": 867192625,
                 "language": "Rust",
-                "last_commit": "2026-08-27T12:20:20Z",
+                "last_commit": "2026-08-29T01:41:16Z",
                 "owner": "superradcompany",
                 "repo": "microsandbox",
-                "stars": 7958
-              }
+                "stars": 7986
+              },
+              "first_seen": "2026-08-29T01:55:10.167Z"
             },
             {
               "node_type": "item",
@@ -752,7 +796,8 @@
                 "owner": "QuantGeekDev",
                 "repo": "docker-mcp",
                 "stars": 500
-              }
+              },
+              "first_seen": "2026-08-29T01:55:10.167Z"
             },
             {
               "node_type": "item",
@@ -767,7 +812,8 @@
                 "owner": "e2b-dev",
                 "repo": "mcp-server",
                 "stars": 394
-              }
+              },
+              "first_seen": "2026-08-29T01:55:10.167Z"
             }
           ],
           "description": "Secure sandbox environments for code execution.",
@@ -785,11 +831,12 @@
                 "archived": false,
                 "id": 890668799,
                 "language": "TypeScript",
-                "last_commit": "2026-08-28T02:17:33Z",
+                "last_commit": "2026-08-28T17:58:20Z",
                 "owner": "modelcontextprotocol",
                 "repo": "servers",
-                "stars": 89915
-              }
+                "stars": 89938
+              },
+              "first_seen": "2026-08-29T01:55:10.167Z"
             },
             {
               "node_type": "item",
@@ -800,11 +847,12 @@
                 "archived": false,
                 "id": 890668799,
                 "language": "TypeScript",
-                "last_commit": "2026-08-28T02:17:33Z",
+                "last_commit": "2026-08-28T17:58:20Z",
                 "owner": "modelcontextprotocol",
                 "repo": "servers",
-                "stars": 89915
-              }
+                "stars": 89938
+              },
+              "first_seen": "2026-08-29T01:55:10.167Z"
             },
             {
               "node_type": "item",
@@ -815,11 +863,12 @@
                 "archived": false,
                 "id": 942771284,
                 "language": "Go",
-                "last_commit": "2026-08-27T14:22:25Z",
+                "last_commit": "2026-08-28T14:17:47Z",
                 "owner": "github",
                 "repo": "github-mcp-server",
-                "stars": 32567
-              }
+                "stars": 32587
+              },
+              "first_seen": "2026-08-29T01:55:10.167Z"
             },
             {
               "node_type": "item",
@@ -834,7 +883,8 @@
                 "owner": "puravparab",
                 "repo": "Gitingest-MCP",
                 "stars": 136
-              }
+              },
+              "first_seen": "2026-08-29T01:55:10.167Z"
             },
             {
               "node_type": "item",
@@ -849,7 +899,8 @@
                 "owner": "kurdin",
                 "repo": "github-repos-manager-mcp",
                 "stars": 21
-              }
+              },
+              "first_seen": "2026-08-29T01:55:10.167Z"
             }
           ],
           "description": "Git and version control related MCP servers.",
@@ -867,11 +918,12 @@
                 "archived": false,
                 "id": 890668799,
                 "language": "TypeScript",
-                "last_commit": "2026-08-28T02:17:33Z",
+                "last_commit": "2026-08-28T17:58:20Z",
                 "owner": "modelcontextprotocol",
                 "repo": "servers",
-                "stars": 89915
-              }
+                "stars": 89938
+              },
+              "first_seen": "2026-08-29T01:55:10.167Z"
             },
             {
               "node_type": "item",
@@ -885,8 +937,9 @@
                 "last_commit": "2026-08-26T10:38:16Z",
                 "owner": "Softeria",
                 "repo": "ms-365-mcp-server",
-                "stars": 936
-              }
+                "stars": 939
+              },
+              "first_seen": "2026-08-29T01:55:10.167Z"
             },
             {
               "node_type": "item",
@@ -901,7 +954,8 @@
                 "owner": "video-db",
                 "repo": "agent-toolkit",
                 "stars": 47
-              }
+              },
+              "first_seen": "2026-08-29T01:55:10.167Z"
             }
           ],
           "description": "Access to cloud storage platforms.",
@@ -919,11 +973,12 @@
                 "archived": false,
                 "id": 890668799,
                 "language": "TypeScript",
-                "last_commit": "2026-08-28T02:17:33Z",
+                "last_commit": "2026-08-28T17:58:20Z",
                 "owner": "modelcontextprotocol",
                 "repo": "servers",
-                "stars": 89915
-              }
+                "stars": 89938
+              },
+              "first_seen": "2026-08-29T01:55:10.167Z"
             },
             {
               "node_type": "item",
@@ -934,11 +989,12 @@
                 "archived": false,
                 "id": 890668799,
                 "language": "TypeScript",
-                "last_commit": "2026-08-28T02:17:33Z",
+                "last_commit": "2026-08-28T17:58:20Z",
                 "owner": "modelcontextprotocol",
                 "repo": "servers",
-                "stars": 89915
-              }
+                "stars": 89938
+              },
+              "first_seen": "2026-08-29T01:55:10.167Z"
             },
             {
               "node_type": "item",
@@ -953,7 +1009,8 @@
                 "owner": "haris-musa",
                 "repo": "excel-mcp-server",
                 "stars": 4144
-              }
+              },
+              "first_seen": "2026-08-29T01:55:10.167Z"
             },
             {
               "node_type": "item",
@@ -967,8 +1024,9 @@
                 "last_commit": "2026-08-14T00:13:56Z",
                 "owner": "qdrant",
                 "repo": "mcp-server-qdrant",
-                "stars": 1516
-              }
+                "stars": 1517
+              },
+              "first_seen": "2026-08-29T01:55:10.167Z"
             },
             {
               "node_type": "item",
@@ -983,7 +1041,8 @@
                 "owner": "designcomputer",
                 "repo": "mysql_mcp_server",
                 "stars": 1372
-              }
+              },
+              "first_seen": "2026-08-29T01:55:10.167Z"
             },
             {
               "node_type": "item",
@@ -994,11 +1053,12 @@
                 "archived": false,
                 "id": 896203400,
                 "language": "TypeScript",
-                "last_commit": "2026-08-27T17:17:59Z",
+                "last_commit": "2026-08-28T17:25:14Z",
                 "owner": "neondatabase",
                 "repo": "mcp-server-neon",
                 "stars": 624
-              }
+              },
+              "first_seen": "2026-08-29T01:55:10.167Z"
             },
             {
               "node_type": "item",
@@ -1013,7 +1073,8 @@
                 "owner": "redis",
                 "repo": "mcp-redis",
                 "stars": 606
-              }
+              },
+              "first_seen": "2026-08-29T01:55:10.167Z"
             },
             {
               "node_type": "item",
@@ -1028,7 +1089,8 @@
                 "owner": "domdomegg",
                 "repo": "airtable-mcp-server",
                 "stars": 456
-              }
+              },
+              "first_seen": "2026-08-29T01:55:10.167Z"
             },
             {
               "node_type": "item",
@@ -1043,7 +1105,8 @@
                 "owner": "kiliczsh",
                 "repo": "mcp-mongo-server",
                 "stars": 284
-              }
+              },
+              "first_seen": "2026-08-29T01:55:10.167Z"
             },
             {
               "node_type": "item",
@@ -1058,7 +1121,8 @@
                 "owner": "furey",
                 "repo": "mongodb-lens",
                 "stars": 207
-              }
+              },
+              "first_seen": "2026-08-29T01:55:10.167Z"
             },
             {
               "node_type": "item",
@@ -1073,7 +1137,8 @@
                 "owner": "isaacwasserman",
                 "repo": "mcp-snowflake-server",
                 "stars": 185
-              }
+              },
+              "first_seen": "2026-08-29T01:55:10.167Z"
             },
             {
               "node_type": "item",
@@ -1088,7 +1153,8 @@
                 "owner": "ktanaka101",
                 "repo": "mcp-server-duckdb",
                 "stars": 178
-              }
+              },
+              "first_seen": "2026-08-29T01:55:10.167Z"
             },
             {
               "node_type": "item",
@@ -1103,7 +1169,8 @@
                 "owner": "LucasHild",
                 "repo": "mcp-server-bigquery",
                 "stars": 130
-              }
+              },
+              "first_seen": "2026-08-29T01:55:10.167Z"
             },
             {
               "node_type": "item",
@@ -1118,7 +1185,8 @@
                 "owner": "donghao1393",
                 "repo": "mcp-dbutils",
                 "stars": 90
-              }
+              },
+              "first_seen": "2026-08-29T01:55:10.167Z"
             },
             {
               "node_type": "item",
@@ -1133,7 +1201,8 @@
                 "owner": "edwinbernadus",
                 "repo": "nocodb-mcp-server",
                 "stars": 75
-              }
+              },
+              "first_seen": "2026-08-29T01:55:10.167Z"
             },
             {
               "node_type": "item",
@@ -1144,11 +1213,12 @@
                 "archived": false,
                 "id": 955488295,
                 "language": "Python",
-                "last_commit": "2026-08-27T13:49:31Z",
+                "last_commit": "2026-08-28T08:24:38Z",
                 "owner": "couchbase",
                 "repo": "mcp-server-couchbase",
                 "stars": 34
-              }
+              },
+              "first_seen": "2026-08-29T01:55:10.167Z"
             },
             {
               "node_type": "item",
@@ -1163,7 +1233,8 @@
                 "owner": "c4pt0r",
                 "repo": "mcp-server-tidb",
                 "stars": 24
-              }
+              },
+              "first_seen": "2026-08-29T01:55:10.167Z"
             }
           ],
           "description": "Database access with schema inspection and query capabilities.",
@@ -1181,11 +1252,12 @@
                 "archived": false,
                 "id": 897809208,
                 "language": "Python",
-                "last_commit": "2026-08-27T16:28:46Z",
+                "last_commit": "2026-08-28T12:26:05Z",
                 "owner": "sooperset",
                 "repo": "mcp-atlassian",
-                "stars": 5803
-              }
+                "stars": 5809
+              },
+              "first_seen": "2026-08-29T01:55:10.167Z"
             },
             {
               "node_type": "item",
@@ -1199,8 +1271,9 @@
                 "last_commit": "2026-07-16T17:14:22Z",
                 "owner": "korotovsky",
                 "repo": "slack-mcp-server",
-                "stars": 1799
-              }
+                "stars": 1802
+              },
+              "first_seen": "2026-08-29T01:55:10.167Z"
             },
             {
               "node_type": "item",
@@ -1215,7 +1288,8 @@
                 "owner": "line",
                 "repo": "line-bot-mcp-server",
                 "stars": 771
-              }
+              },
+              "first_seen": "2026-08-29T01:55:10.167Z"
             },
             {
               "node_type": "item",
@@ -1230,7 +1304,8 @@
                 "owner": "jerhadf",
                 "repo": "linear-mcp-server",
                 "stars": 347
-              }
+              },
+              "first_seen": "2026-08-29T01:55:10.167Z"
             },
             {
               "node_type": "item",
@@ -1245,7 +1320,8 @@
                 "owner": "gitmotion",
                 "repo": "ntfy-me-mcp",
                 "stars": 72
-              }
+              },
+              "first_seen": "2026-08-29T01:55:10.167Z"
             },
             {
               "node_type": "item",
@@ -1260,7 +1336,8 @@
                 "owner": "PhononX",
                 "repo": "cv-mcp-server",
                 "stars": 10
-              }
+              },
+              "first_seen": "2026-08-29T01:55:10.167Z"
             }
           ],
           "description": "Integration with chat and messaging platforms.",
@@ -1278,11 +1355,12 @@
                 "archived": false,
                 "id": 890668799,
                 "language": "TypeScript",
-                "last_commit": "2026-08-28T02:17:33Z",
+                "last_commit": "2026-08-28T17:58:20Z",
                 "owner": "modelcontextprotocol",
                 "repo": "servers",
-                "stars": 89915
-              }
+                "stars": 89938
+              },
+              "first_seen": "2026-08-29T01:55:10.167Z"
             },
             {
               "node_type": "item",
@@ -1296,8 +1374,9 @@
                 "last_commit": "2026-08-23T08:12:35Z",
                 "owner": "VictoriaMetrics",
                 "repo": "mcp-victoriametrics",
-                "stars": 224
-              }
+                "stars": 225
+              },
+              "first_seen": "2026-08-29T01:55:10.167Z"
             },
             {
               "node_type": "item",
@@ -1312,7 +1391,8 @@
                 "owner": "metoro-io",
                 "repo": "metoro-mcp-server",
                 "stars": 51
-              }
+              },
+              "first_seen": "2026-08-29T01:55:10.167Z"
             },
             {
               "node_type": "item",
@@ -1327,7 +1407,8 @@
                 "owner": "MindscapeHQ",
                 "repo": "mcp-server-raygun",
                 "stars": 22
-              }
+              },
+              "first_seen": "2026-08-29T01:55:10.167Z"
             },
             {
               "node_type": "item",
@@ -1342,7 +1423,8 @@
                 "owner": "DrDroidLab",
                 "repo": "signoz-mcp-server",
                 "stars": 14
-              }
+              },
+              "first_seen": "2026-08-29T01:55:10.167Z"
             },
             {
               "node_type": "item",
@@ -1357,7 +1439,8 @@
                 "owner": "firesh",
                 "repo": "sslmon-mcp",
                 "stars": 4
-              }
+              },
+              "first_seen": "2026-08-29T01:55:10.167Z"
             }
           ],
           "description": "Access observability and monitoring systems.",
@@ -1375,11 +1458,12 @@
                 "archived": false,
                 "id": 890668799,
                 "language": "TypeScript",
-                "last_commit": "2026-08-28T02:17:33Z",
+                "last_commit": "2026-08-28T17:58:20Z",
                 "owner": "modelcontextprotocol",
                 "repo": "servers",
-                "stars": 89915
-              }
+                "stars": 89938
+              },
+              "first_seen": "2026-08-29T01:55:10.167Z"
             },
             {
               "node_type": "item",
@@ -1390,11 +1474,12 @@
                 "archived": false,
                 "id": 890668799,
                 "language": "TypeScript",
-                "last_commit": "2026-08-28T02:17:33Z",
+                "last_commit": "2026-08-28T17:58:20Z",
                 "owner": "modelcontextprotocol",
                 "repo": "servers",
-                "stars": 89915
-              }
+                "stars": 89938
+              },
+              "first_seen": "2026-08-29T01:55:10.167Z"
             },
             {
               "node_type": "item",
@@ -1405,11 +1490,12 @@
                 "archived": false,
                 "id": 890668799,
                 "language": "TypeScript",
-                "last_commit": "2026-08-28T02:17:33Z",
+                "last_commit": "2026-08-28T17:58:20Z",
                 "owner": "modelcontextprotocol",
                 "repo": "servers",
-                "stars": 89915
-              }
+                "stars": 89938
+              },
+              "first_seen": "2026-08-29T01:55:10.167Z"
             },
             {
               "node_type": "item",
@@ -1423,8 +1509,9 @@
                 "last_commit": "2025-12-13T04:28:38Z",
                 "owner": "executeautomation",
                 "repo": "mcp-playwright",
-                "stars": 5637
-              }
+                "stars": 5636
+              },
+              "first_seen": "2026-08-29T01:55:10.167Z"
             },
             {
               "node_type": "item",
@@ -1438,8 +1525,9 @@
                 "last_commit": "2026-08-27T14:49:23Z",
                 "owner": "apify",
                 "repo": "apify-mcp-server",
-                "stars": 5180
-              }
+                "stars": 5282
+              },
+              "first_seen": "2026-08-29T01:55:10.167Z"
             },
             {
               "node_type": "item",
@@ -1453,8 +1541,9 @@
                 "last_commit": "2026-08-21T04:44:51Z",
                 "owner": "exa-labs",
                 "repo": "exa-mcp-server",
-                "stars": 4933
-              }
+                "stars": 4942
+              },
+              "first_seen": "2026-08-29T01:55:10.167Z"
             },
             {
               "node_type": "item",
@@ -1468,8 +1557,9 @@
                 "last_commit": "2026-08-26T23:16:26Z",
                 "owner": "blazickjp",
                 "repo": "arxiv-mcp-server",
-                "stars": 3086
-              }
+                "stars": 3091
+              },
+              "first_seen": "2026-08-29T01:55:10.167Z"
             },
             {
               "node_type": "item",
@@ -1484,7 +1574,8 @@
                 "owner": "brightdata",
                 "repo": "brightdata-mcp",
                 "stars": 2614
-              }
+              },
+              "first_seen": "2026-08-29T01:55:10.167Z"
             },
             {
               "node_type": "item",
@@ -1499,7 +1590,8 @@
                 "owner": "superagents-lab",
                 "repo": "search1api-mcp",
                 "stars": 173
-              }
+              },
+              "first_seen": "2026-08-29T01:55:10.167Z"
             },
             {
               "node_type": "item",
@@ -1510,11 +1602,12 @@
                 "archived": false,
                 "id": 958339532,
                 "language": "TypeScript",
-                "last_commit": "2026-08-21T03:22:27Z",
+                "last_commit": "2026-08-28T06:22:09Z",
                 "owner": "scrapeless-ai",
                 "repo": "scrapeless-mcp-server",
                 "stars": 168
-              }
+              },
+              "first_seen": "2026-08-29T01:55:10.167Z"
             },
             {
               "node_type": "item",
@@ -1529,7 +1622,8 @@
                 "owner": "ChanMeng666",
                 "repo": "server-google-news",
                 "stars": 126
-              }
+              },
+              "first_seen": "2026-08-29T01:55:10.167Z"
             },
             {
               "node_type": "item",
@@ -1540,11 +1634,12 @@
                 "archived": false,
                 "id": 1031075913,
                 "language": "Python",
-                "last_commit": "2026-08-27T04:10:15Z",
+                "last_commit": "2026-08-28T06:27:02Z",
                 "owner": "damionrashford",
                 "repo": "RivalSearchMCP",
                 "stars": 124
-              }
+              },
+              "first_seen": "2026-08-29T01:55:10.167Z"
             },
             {
               "node_type": "item",
@@ -1559,7 +1654,8 @@
                 "owner": "Tomatio13",
                 "repo": "mcp-server-tavily",
                 "stars": 50
-              }
+              },
+              "first_seen": "2026-08-29T01:55:10.167Z"
             },
             {
               "node_type": "item",
@@ -1574,7 +1670,8 @@
                 "owner": "ac3xx",
                 "repo": "mcp-servers-kagi",
                 "stars": 45
-              }
+              },
+              "first_seen": "2026-08-29T01:55:10.167Z"
             },
             {
               "node_type": "item",
@@ -1589,7 +1686,8 @@
                 "owner": "mnhlt",
                 "repo": "WebSearch-MCP",
                 "stars": 40
-              }
+              },
+              "first_seen": "2026-08-29T01:55:10.167Z"
             },
             {
               "node_type": "item",
@@ -1604,7 +1702,8 @@
                 "owner": "DumplingAI",
                 "repo": "mcp-server-dumplingai",
                 "stars": 31
-              }
+              },
+              "first_seen": "2026-08-29T01:55:10.167Z"
             },
             {
               "node_type": "item",
@@ -1619,7 +1718,8 @@
                 "owner": "hbg",
                 "repo": "mcp-paperswithcode",
                 "stars": 26
-              }
+              },
+              "first_seen": "2026-08-29T01:55:10.167Z"
             },
             {
               "node_type": "item",
@@ -1634,7 +1734,8 @@
                 "owner": "angheljf",
                 "repo": "nyt",
                 "stars": 19
-              }
+              },
+              "first_seen": "2026-08-29T01:55:10.167Z"
             },
             {
               "node_type": "item",
@@ -1649,7 +1750,8 @@
                 "owner": "uju777",
                 "repo": "coupang-mcp",
                 "stars": 17
-              }
+              },
+              "first_seen": "2026-08-29T01:55:10.167Z"
             },
             {
               "node_type": "item",
@@ -1664,7 +1766,8 @@
                 "owner": "uju777",
                 "repo": "mcp-server-naver-search",
                 "stars": 1
-              }
+              },
+              "first_seen": "2026-08-29T01:55:10.167Z"
             }
           ],
           "description": "Web fetching, scraping, and search.",
@@ -1682,11 +1785,12 @@
                 "archived": false,
                 "id": 890668799,
                 "language": "TypeScript",
-                "last_commit": "2026-08-28T02:17:33Z",
+                "last_commit": "2026-08-28T17:58:20Z",
                 "owner": "modelcontextprotocol",
                 "repo": "servers",
-                "stars": 89915
-              }
+                "stars": 89938
+              },
+              "first_seen": "2026-08-29T01:55:10.167Z"
             },
             {
               "node_type": "item",
@@ -1700,8 +1804,9 @@
                 "last_commit": "2025-10-01T01:23:25Z",
                 "owner": "jjsantos01",
                 "repo": "qgis_mcp",
-                "stars": 1073
-              }
+                "stars": 1074
+              },
+              "first_seen": "2026-08-29T01:55:10.167Z"
             },
             {
               "node_type": "item",
@@ -1716,7 +1821,8 @@
                 "owner": "iplocate",
                 "repo": "mcp-server-iplocate",
                 "stars": 19
-              }
+              },
+              "first_seen": "2026-08-29T01:55:10.167Z"
             },
             {
               "node_type": "item",
@@ -1731,7 +1837,8 @@
                 "owner": "campertunity",
                 "repo": "mcp-server",
                 "stars": 16
-              }
+              },
+              "first_seen": "2026-08-29T01:55:10.167Z"
             },
             {
               "node_type": "item",
@@ -1742,11 +1849,12 @@
                 "archived": false,
                 "id": 1006754436,
                 "language": "Python",
-                "last_commit": "2026-05-26T05:55:20Z",
+                "last_commit": "2026-08-28T08:14:04Z",
                 "owner": "ip2location",
                 "repo": "mcp-ip2location-io",
                 "stars": 15
-              }
+              },
+              "first_seen": "2026-08-29T01:55:10.167Z"
             }
           ],
           "description": "Mapping and geolocation.",
@@ -1768,7 +1876,8 @@
                 "owner": "gomarble-ai",
                 "repo": "facebook-ads-mcp-server",
                 "stars": 357
-              }
+              },
+              "first_seen": "2026-08-29T01:55:10.167Z"
             },
             {
               "node_type": "item",
@@ -1783,7 +1892,8 @@
                 "owner": "gomarble-ai",
                 "repo": "google-ads-mcp-server",
                 "stars": 142
-              }
+              },
+              "first_seen": "2026-08-29T01:55:10.167Z"
             },
             {
               "node_type": "item",
@@ -1798,7 +1908,8 @@
                 "owner": "mackenly",
                 "repo": "mcp-fathom-analytics",
                 "stars": 3
-              }
+              },
+              "first_seen": "2026-08-29T01:55:10.167Z"
             }
           ],
           "description": "Marketing and analytics tools.",
@@ -1819,8 +1930,9 @@
                 "last_commit": "2026-08-20T12:52:03Z",
                 "owner": "MarkusPfundstein",
                 "repo": "mcp-obsidian",
-                "stars": 4348
-              }
+                "stars": 4350
+              },
+              "first_seen": "2026-08-29T01:55:10.167Z"
             },
             {
               "node_type": "item",
@@ -1835,7 +1947,8 @@
                 "owner": "abhiz123",
                 "repo": "todoist-mcp-server",
                 "stars": 392
-              }
+              },
+              "first_seen": "2026-08-29T01:55:10.167Z"
             },
             {
               "node_type": "item",
@@ -1850,7 +1963,8 @@
                 "owner": "onebirdrocks",
                 "repo": "ebook-mcp",
                 "stars": 389
-              }
+              },
+              "first_seen": "2026-08-29T01:55:10.167Z"
             },
             {
               "node_type": "item",
@@ -1865,7 +1979,8 @@
                 "owner": "danhilse",
                 "repo": "notion_mcp",
                 "stars": 209
-              }
+              },
+              "first_seen": "2026-08-29T01:55:10.167Z"
             },
             {
               "node_type": "item",
@@ -1879,8 +1994,9 @@
                 "last_commit": "2026-08-26T06:06:36Z",
                 "owner": "omega-memory",
                 "repo": "omega-memory",
-                "stars": 207
-              }
+                "stars": 208
+              },
+              "first_seen": "2026-08-29T01:55:10.167Z"
             },
             {
               "node_type": "item",
@@ -1895,7 +2011,8 @@
                 "owner": "sirmews",
                 "repo": "apple-notes-mcp",
                 "stars": 131
-              }
+              },
+              "first_seen": "2026-08-29T01:55:10.167Z"
             },
             {
               "node_type": "item",
@@ -1909,8 +2026,9 @@
                 "last_commit": "2026-08-07T12:33:12Z",
                 "owner": "feuerdev",
                 "repo": "keep-mcp",
-                "stars": 92
-              }
+                "stars": 93
+              },
+              "first_seen": "2026-08-29T01:55:10.167Z"
             },
             {
               "node_type": "item",
@@ -1925,7 +2043,8 @@
                 "owner": "fajarmf",
                 "repo": "slite-mcp",
                 "stars": 2
-              }
+              },
+              "first_seen": "2026-08-29T01:55:10.167Z"
             }
           ],
           "description": "Personal knowledge and notes integrations.",
@@ -1946,8 +2065,9 @@
                 "last_commit": "2026-08-24T09:19:59Z",
                 "owner": "cloudflare",
                 "repo": "mcp-server-cloudflare",
-                "stars": 4121
-              }
+                "stars": 4123
+              },
+              "first_seen": "2026-08-29T01:55:10.167Z"
             },
             {
               "node_type": "item",
@@ -1962,7 +2082,8 @@
                 "owner": "GoogleCloudPlatform",
                 "repo": "cloud-run-mcp",
                 "stars": 627
-              }
+              },
+              "first_seen": "2026-08-29T01:55:10.167Z"
             },
             {
               "node_type": "item",
@@ -1977,7 +2098,8 @@
                 "owner": "strowk",
                 "repo": "mcp-k8s-go",
                 "stars": 386
-              }
+              },
+              "first_seen": "2026-08-29T01:55:10.167Z"
             },
             {
               "node_type": "item",
@@ -1992,7 +2114,8 @@
                 "owner": "tinybirdco",
                 "repo": "mcp-tinybird",
                 "stars": 79
-              }
+              },
+              "first_seen": "2026-08-29T01:55:10.167Z"
             }
           ],
           "description": "Cloud vendors and orchestration.",
@@ -2010,11 +2133,12 @@
                 "archived": false,
                 "id": 235468657,
                 "language": "JavaScript",
-                "last_commit": "2026-08-27T22:16:53Z",
+                "last_commit": "2026-08-28T23:16:46Z",
                 "owner": "PipedreamHQ",
                 "repo": "pipedream",
-                "stars": 11651
-              }
+                "stars": 11653
+              },
+              "first_seen": "2026-08-29T01:55:10.167Z"
             },
             {
               "node_type": "item",
@@ -2028,8 +2152,9 @@
                 "last_commit": "2026-06-10T13:56:59Z",
                 "owner": "integromat",
                 "repo": "make-mcp-server",
-                "stars": 169
-              }
+                "stars": 170
+              },
+              "first_seen": "2026-08-29T01:55:10.167Z"
             },
             {
               "node_type": "item",
@@ -2044,7 +2169,8 @@
                 "owner": "taskade",
                 "repo": "mcp",
                 "stars": 163
-              }
+              },
+              "first_seen": "2026-08-29T01:55:10.167Z"
             },
             {
               "node_type": "item",
@@ -2059,7 +2185,8 @@
                 "owner": "danishashko",
                 "repo": "make-mcp",
                 "stars": 8
-              }
+              },
+              "first_seen": "2026-08-29T01:55:10.167Z"
             }
           ],
           "description": "Automation platforms and workflow tools.",
@@ -2081,7 +2208,8 @@
                 "owner": "rusiaaman",
                 "repo": "wcgw",
                 "stars": 673
-              }
+              },
+              "first_seen": "2026-08-29T01:55:10.167Z"
             },
             {
               "node_type": "item",
@@ -2096,7 +2224,8 @@
                 "owner": "recursechat",
                 "repo": "mcp-server-apple-shortcuts",
                 "stars": 344
-              }
+              },
+              "first_seen": "2026-08-29T01:55:10.167Z"
             },
             {
               "node_type": "item",
@@ -2111,7 +2240,8 @@
                 "owner": "claude-did-this",
                 "repo": "MCPControl",
                 "stars": 331
-              }
+              },
+              "first_seen": "2026-08-29T01:55:10.167Z"
             },
             {
               "node_type": "item",
@@ -2126,7 +2256,8 @@
                 "owner": "PhialsBasement",
                 "repo": "CMD-MCP-Server",
                 "stars": 25
-              }
+              },
+              "first_seen": "2026-08-29T01:55:10.167Z"
             }
           ],
           "description": "Shell, OS, and task automation.",
@@ -2148,7 +2279,8 @@
                 "owner": "varunneal",
                 "repo": "spotify-mcp",
                 "stars": 613
-              }
+              },
+              "first_seen": "2026-08-29T01:55:10.167Z"
             },
             {
               "node_type": "item",
@@ -2163,7 +2295,8 @@
                 "owner": "anaisbetts",
                 "repo": "mcp-youtube",
                 "stars": 544
-              }
+              },
+              "first_seen": "2026-08-29T01:55:10.167Z"
             },
             {
               "node_type": "item",
@@ -2178,7 +2311,8 @@
                 "owner": "Seym0n",
                 "repo": "tiktok-mcp",
                 "stars": 193
-              }
+              },
+              "first_seen": "2026-08-29T01:55:10.167Z"
             },
             {
               "node_type": "item",
@@ -2193,7 +2327,8 @@
                 "owner": "trypeggy",
                 "repo": "instagram_dm_mcp",
                 "stars": 178
-              }
+              },
+              "first_seen": "2026-08-29T01:55:10.167Z"
             },
             {
               "node_type": "item",
@@ -2208,7 +2343,8 @@
                 "owner": "laulauland",
                 "repo": "bluesky-context-server",
                 "stars": 34
-              }
+              },
+              "first_seen": "2026-08-29T01:55:10.167Z"
             },
             {
               "node_type": "item",
@@ -2223,7 +2359,8 @@
                 "owner": "mbelinky",
                 "repo": "x-mcp-server",
                 "stars": 21
-              }
+              },
+              "first_seen": "2026-08-29T01:55:10.167Z"
             },
             {
               "node_type": "item",
@@ -2238,7 +2375,8 @@
                 "owner": "socialneuron",
                 "repo": "mcp-server",
                 "stars": 4
-              }
+              },
+              "first_seen": "2026-08-29T01:55:10.167Z"
             }
           ],
           "description": "Social platforms integration.",
@@ -2259,8 +2397,9 @@
                 "last_commit": "2026-08-24T23:55:08Z",
                 "owner": "IvanMurzak",
                 "repo": "Unity-MCP",
-                "stars": 4000
-              }
+                "stars": 4012
+              },
+              "first_seen": "2026-08-29T01:55:10.167Z"
             }
           ],
           "description": "Game engines and tooling.",
@@ -2278,11 +2417,12 @@
                 "archived": false,
                 "id": 886826524,
                 "language": "TypeScript",
-                "last_commit": "2026-08-26T00:21:54Z",
+                "last_commit": "2026-08-29T00:43:54Z",
                 "owner": "stripe",
                 "repo": "ai",
-                "stars": 1771
-              }
+                "stars": 1774
+              },
+              "first_seen": "2026-08-29T01:55:10.167Z"
             },
             {
               "node_type": "item",
@@ -2297,7 +2437,8 @@
                 "owner": "xpaysh",
                 "repo": "awesome-x402",
                 "stars": 285
-              }
+              },
+              "first_seen": "2026-08-29T01:55:10.167Z"
             },
             {
               "node_type": "item",
@@ -2312,7 +2453,8 @@
                 "owner": "paypal",
                 "repo": "agent-toolkit",
                 "stars": 189
-              }
+              },
+              "first_seen": "2026-08-29T01:55:10.167Z"
             },
             {
               "node_type": "item",
@@ -2327,7 +2469,8 @@
                 "owner": "OctagonAI",
                 "repo": "octagon-mcp-server",
                 "stars": 147
-              }
+              },
+              "first_seen": "2026-08-29T01:55:10.167Z"
             },
             {
               "node_type": "item",
@@ -2342,7 +2485,8 @@
                 "owner": "anjor",
                 "repo": "coinmarket-mcp-server",
                 "stars": 50
-              }
+              },
+              "first_seen": "2026-08-29T01:55:10.167Z"
             },
             {
               "node_type": "item",
@@ -2357,7 +2501,8 @@
                 "owner": "chargebee",
                 "repo": "agentkit",
                 "stars": 16
-              }
+              },
+              "first_seen": "2026-08-29T01:55:10.167Z"
             },
             {
               "node_type": "item",
@@ -2372,7 +2517,8 @@
                 "owner": "longportapp",
                 "repo": "openapi",
                 "stars": 8
-              }
+              },
+              "first_seen": "2026-08-29T01:55:10.167Z"
             },
             {
               "node_type": "item",
@@ -2387,7 +2533,8 @@
                 "owner": "RioTheGreat-ai",
                 "repo": "agentfund-mcp",
                 "stars": 1
-              }
+              },
+              "first_seen": "2026-08-29T01:55:10.167Z"
             },
             {
               "node_type": "item",
@@ -2402,7 +2549,8 @@
                 "owner": "agentc22",
                 "repo": "x402engine-mcp",
                 "stars": 0
-              }
+              },
+              "first_seen": "2026-08-29T01:55:10.167Z"
             }
           ],
           "description": "Payments, market data, and finance tools.",
@@ -2423,8 +2571,9 @@
                 "last_commit": "2026-08-26T23:16:26Z",
                 "owner": "blazickjp",
                 "repo": "arxiv-mcp-server",
-                "stars": 3086
-              }
+                "stars": 3091
+              },
+              "first_seen": "2026-08-29T01:55:10.167Z"
             },
             {
               "node_type": "item",
@@ -2439,7 +2588,8 @@
                 "owner": "deadletterq",
                 "repo": "mcp-opennutrition",
                 "stars": 203
-              }
+              },
+              "first_seen": "2026-08-29T01:55:10.167Z"
             },
             {
               "node_type": "item",
@@ -2454,7 +2604,8 @@
                 "owner": "reeeeemo",
                 "repo": "ancestry-mcp",
                 "stars": 37
-              }
+              },
+              "first_seen": "2026-08-29T01:55:10.167Z"
             },
             {
               "node_type": "item",
@@ -2469,7 +2620,8 @@
                 "owner": "amurshak",
                 "repo": "congressMCP",
                 "stars": 32
-              }
+              },
+              "first_seen": "2026-08-29T01:55:10.167Z"
             }
           ],
           "description": "Papers, datasets, and domain data.",
@@ -2491,7 +2643,8 @@
                 "owner": "evalstate",
                 "repo": "mcp-hfspace",
                 "stars": 387
-              }
+              },
+              "first_seen": "2026-08-29T01:55:10.167Z"
             },
             {
               "node_type": "item",
@@ -2505,8 +2658,9 @@
                 "last_commit": "2025-05-01T02:39:27Z",
                 "owner": "pyroprompts",
                 "repo": "any-chat-completions-mcp",
-                "stars": 157
-              }
+                "stars": 159
+              },
+              "first_seen": "2026-08-29T01:55:10.167Z"
             },
             {
               "node_type": "item",
@@ -2517,11 +2671,12 @@
                 "archived": false,
                 "id": 993805781,
                 "language": "TypeScript",
-                "last_commit": "2026-08-27T23:57:41Z",
+                "last_commit": "2026-08-29T01:18:28Z",
                 "owner": "juspay",
                 "repo": "neurolink",
-                "stars": 125
-              }
+                "stars": 126
+              },
+              "first_seen": "2026-08-29T01:55:10.167Z"
             },
             {
               "node_type": "item",
@@ -2536,7 +2691,8 @@
                 "owner": "ChronulusAI",
                 "repo": "chronulus-mcp",
                 "stars": 112
-              }
+              },
+              "first_seen": "2026-08-29T01:55:10.167Z"
             },
             {
               "node_type": "item",
@@ -2551,7 +2707,8 @@
                 "owner": "tanigami",
                 "repo": "mcp-server-perplexity",
                 "stars": 94
-              }
+              },
+              "first_seen": "2026-08-29T01:55:10.167Z"
             },
             {
               "node_type": "item",
@@ -2566,7 +2723,8 @@
                 "owner": "run-llama",
                 "repo": "mcp-server-llamacloud",
                 "stars": 87
-              }
+              },
+              "first_seen": "2026-08-29T01:55:10.167Z"
             },
             {
               "node_type": "item",
@@ -2581,7 +2739,8 @@
                 "owner": "pierrebrunelle",
                 "repo": "mcp-server-openai",
                 "stars": 84
-              }
+              },
+              "first_seen": "2026-08-29T01:55:10.167Z"
             },
             {
               "node_type": "item",
@@ -2596,7 +2755,8 @@
                 "owner": "apinetwork",
                 "repo": "piapi-mcp-server",
                 "stars": 74
-              }
+              },
+              "first_seen": "2026-08-29T01:55:10.167Z"
             },
             {
               "node_type": "item",
@@ -2611,7 +2771,8 @@
                 "owner": "zenml-io",
                 "repo": "mcp-zenml",
                 "stars": 49
-              }
+              },
+              "first_seen": "2026-08-29T01:55:10.167Z"
             },
             {
               "node_type": "item",
@@ -2626,7 +2787,8 @@
                 "owner": "agentset-ai",
                 "repo": "mcp-server",
                 "stars": 30
-              }
+              },
+              "first_seen": "2026-08-29T01:55:10.167Z"
             },
             {
               "node_type": "item",
@@ -2641,7 +2803,8 @@
                 "owner": "TSavo",
                 "repo": "creatify-mcp",
                 "stars": 22
-              }
+              },
+              "first_seen": "2026-08-29T01:55:10.167Z"
             }
           ],
           "description": "AI model & ML service integrations.",
@@ -2659,11 +2822,12 @@
                 "archived": false,
                 "id": 839037098,
                 "language": "TypeScript",
-                "last_commit": "2026-08-28T01:59:28Z",
+                "last_commit": "2026-08-29T01:12:59Z",
                 "owner": "mastra-ai",
                 "repo": "mastra",
-                "stars": 27528
-              }
+                "stars": 27547
+              },
+              "first_seen": "2026-08-29T01:55:10.167Z"
             },
             {
               "node_type": "item",
@@ -2677,8 +2841,9 @@
                 "last_commit": "2026-08-07T04:58:42Z",
                 "owner": "GLips",
                 "repo": "Figma-Context-MCP",
-                "stars": 15725
-              }
+                "stars": 15730
+              },
+              "first_seen": "2026-08-29T01:55:10.167Z"
             },
             {
               "node_type": "item",
@@ -2693,7 +2858,8 @@
                 "owner": "bgauryy",
                 "repo": "octocode",
                 "stars": 920
-              }
+              },
+              "first_seen": "2026-08-29T01:55:10.167Z"
             },
             {
               "node_type": "item",
@@ -2708,7 +2874,8 @@
                 "owner": "centralmind",
                 "repo": "gateway",
                 "stars": 546
-              }
+              },
+              "first_seen": "2026-08-29T01:55:10.167Z"
             },
             {
               "node_type": "item",
@@ -2723,7 +2890,8 @@
                 "owner": "ai-dashboad",
                 "repo": "flutter-skill",
                 "stars": 360
-              }
+              },
+              "first_seen": "2026-08-29T01:55:10.167Z"
             },
             {
               "node_type": "item",
@@ -2738,7 +2906,8 @@
                 "owner": "biegehydra",
                 "repo": "BifrostMCP",
                 "stars": 224
-              }
+              },
+              "first_seen": "2026-08-29T01:55:10.167Z"
             },
             {
               "node_type": "item",
@@ -2749,11 +2918,12 @@
                 "archived": false,
                 "id": 946763772,
                 "language": "Python",
-                "last_commit": "2026-08-27T10:20:02Z",
+                "last_commit": "2026-08-28T20:32:16Z",
                 "owner": "comet-ml",
                 "repo": "opik-mcp",
                 "stars": 217
-              }
+              },
+              "first_seen": "2026-08-29T01:55:10.167Z"
             },
             {
               "node_type": "item",
@@ -2764,11 +2934,12 @@
                 "archived": false,
                 "id": 655181249,
                 "language": "Go",
-                "last_commit": "2026-08-27T09:13:07Z",
+                "last_commit": "2026-08-28T15:38:20Z",
                 "owner": "DefangLabs",
                 "repo": "defang",
                 "stars": 163
-              }
+              },
+              "first_seen": "2026-08-29T01:55:10.167Z"
             },
             {
               "node_type": "item",
@@ -2783,7 +2954,8 @@
                 "owner": "delano",
                 "repo": "postman-mcp-server",
                 "stars": 159
-              }
+              },
+              "first_seen": "2026-08-29T01:55:10.167Z"
             },
             {
               "node_type": "item",
@@ -2798,7 +2970,8 @@
                 "owner": "marimo-team",
                 "repo": "codemirror-mcp",
                 "stars": 79
-              }
+              },
+              "first_seen": "2026-08-29T01:55:10.167Z"
             },
             {
               "node_type": "item",
@@ -2813,7 +2986,8 @@
                 "owner": "kadykov",
                 "repo": "mcp-openapi-schema-explorer",
                 "stars": 76
-              }
+              },
+              "first_seen": "2026-08-29T01:55:10.167Z"
             },
             {
               "node_type": "item",
@@ -2828,7 +3002,8 @@
                 "owner": "reflagcom",
                 "repo": "javascript",
                 "stars": 25
-              }
+              },
+              "first_seen": "2026-08-29T01:55:10.167Z"
             },
             {
               "node_type": "item",
@@ -2843,7 +3018,8 @@
                 "owner": "Hypersequent",
                 "repo": "qasphere-mcp",
                 "stars": 23
-              }
+              },
+              "first_seen": "2026-08-29T01:55:10.167Z"
             },
             {
               "node_type": "item",
@@ -2858,7 +3034,8 @@
                 "owner": "currents-dev",
                 "repo": "currents-mcp",
                 "stars": 20
-              }
+              },
+              "first_seen": "2026-08-29T01:55:10.167Z"
             },
             {
               "node_type": "item",
@@ -2873,7 +3050,8 @@
                 "owner": "HendryAvila",
                 "repo": "Hoofy",
                 "stars": 15
-              }
+              },
+              "first_seen": "2026-08-29T01:55:10.167Z"
             },
             {
               "node_type": "item",
@@ -2888,7 +3066,8 @@
                 "owner": "tersePrompts",
                 "repo": "jarp-mcp",
                 "stars": 5
-              }
+              },
+              "first_seen": "2026-08-29T01:55:10.167Z"
             }
           ],
           "description": "Developer-focused MCP servers and tools.",
@@ -2909,8 +3088,9 @@
                 "last_commit": "2026-08-27T01:50:14Z",
                 "owner": "antvis",
                 "repo": "mcp-server-chart",
-                "stars": 4343
-              }
+                "stars": 4345
+              },
+              "first_seen": "2026-08-29T01:55:10.167Z"
             },
             {
               "node_type": "item",
@@ -2925,7 +3105,8 @@
                 "owner": "hustcc",
                 "repo": "mcp-mermaid",
                 "stars": 628
-              }
+              },
+              "first_seen": "2026-08-29T01:55:10.167Z"
             },
             {
               "node_type": "item",
@@ -2940,7 +3121,8 @@
                 "owner": "hustcc",
                 "repo": "mcp-echarts",
                 "stars": 262
-              }
+              },
+              "first_seen": "2026-08-29T01:55:10.167Z"
             },
             {
               "node_type": "item",
@@ -2955,7 +3137,8 @@
                 "owner": "isaacwasserman",
                 "repo": "mcp-vegalite-server",
                 "stars": 100
-              }
+              },
+              "first_seen": "2026-08-29T01:55:10.167Z"
             },
             {
               "node_type": "item",
@@ -2970,7 +3153,8 @@
                 "owner": "gorosun",
                 "repo": "unified-diff-mcp",
                 "stars": 12
-              }
+              },
+              "first_seen": "2026-08-29T01:55:10.167Z"
             }
           ],
           "description": "Charting and diagram tools.",
@@ -2992,7 +3176,8 @@
                 "owner": "ChristophEnglisch",
                 "repo": "keycloak-model-context-protocol",
                 "stars": 46
-              }
+              },
+              "first_seen": "2026-08-29T01:55:10.167Z"
             }
           ],
           "description": "Identity and access management.",
@@ -3010,11 +3195,12 @@
                 "archived": false,
                 "id": 235468657,
                 "language": "JavaScript",
-                "last_commit": "2026-08-27T22:16:53Z",
+                "last_commit": "2026-08-28T23:16:46Z",
                 "owner": "PipedreamHQ",
                 "repo": "pipedream",
-                "stars": 11651
-              }
+                "stars": 11653
+              },
+              "first_seen": "2026-08-29T01:55:10.167Z"
             },
             {
               "node_type": "item",
@@ -3028,8 +3214,9 @@
                 "last_commit": "2026-08-02T15:15:01Z",
                 "owner": "mcpjungle",
                 "repo": "MCPJungle",
-                "stars": 1231
-              }
+                "stars": 1232
+              },
+              "first_seen": "2026-08-29T01:55:10.167Z"
             },
             {
               "node_type": "item",
@@ -3044,7 +3231,8 @@
                 "owner": "sitbon",
                 "repo": "magg",
                 "stars": 142
-              }
+              },
+              "first_seen": "2026-08-29T01:55:10.167Z"
             },
             {
               "node_type": "item",
@@ -3059,7 +3247,8 @@
                 "owner": "VeriTeknik",
                 "repo": "pluggedin-mcp-proxy",
                 "stars": 135
-              }
+              },
+              "first_seen": "2026-08-29T01:55:10.167Z"
             },
             {
               "node_type": "item",
@@ -3074,7 +3263,8 @@
                 "owner": "nazar256",
                 "repo": "combine-mcp",
                 "stars": 34
-              }
+              },
+              "first_seen": "2026-08-29T01:55:10.167Z"
             },
             {
               "node_type": "item",
@@ -3089,7 +3279,8 @@
                 "owner": "heeyo-life",
                 "repo": "skillboss-mcp",
                 "stars": 0
-              }
+              },
+              "first_seen": "2026-08-29T01:55:10.167Z"
             }
           ],
           "description": "Single MCP endpoints that expose many integrations.",
@@ -3111,7 +3302,8 @@
                 "owner": "translated",
                 "repo": "lara-mcp",
                 "stars": 96
-              }
+              },
+              "first_seen": "2026-08-29T01:55:10.167Z"
             }
           ],
           "description": "Translation and language services.",
@@ -3133,7 +3325,8 @@
                 "owner": "semgrep",
                 "repo": "mcp",
                 "stars": 684
-              }
+              },
+              "first_seen": "2026-08-29T01:55:10.167Z"
             },
             {
               "node_type": "item",
@@ -3148,7 +3341,8 @@
                 "owner": "imran-siddique",
                 "repo": "agent-os",
                 "stars": 73
-              }
+              },
+              "first_seen": "2026-08-29T01:55:10.167Z"
             },
             {
               "node_type": "item",
@@ -3163,7 +3357,8 @@
                 "owner": "StacklokLabs",
                 "repo": "osv-mcp",
                 "stars": 39
-              }
+              },
+              "first_seen": "2026-08-29T01:55:10.167Z"
             },
             {
               "node_type": "item",
@@ -3178,7 +3373,8 @@
                 "owner": "netwrix",
                 "repo": "mcp-server-naa",
                 "stars": 1
-              }
+              },
+              "first_seen": "2026-08-29T01:55:10.167Z"
             }
           ],
           "description": "Security-focused servers and scanning tools.",
@@ -3200,7 +3396,8 @@
                 "owner": "CorefluxCommunity",
                 "repo": "Coreflux-MQTT-MCP-Server",
                 "stars": 4
-              }
+              },
+              "first_seen": "2026-08-29T01:55:10.167Z"
             }
           ],
           "description": "MCP servers for device and IoT integration.",
@@ -3222,7 +3419,8 @@
                 "owner": "8enSmith",
                 "repo": "mcp-open-library",
                 "stars": 90
-              }
+              },
+              "first_seen": "2026-08-29T01:55:10.167Z"
             }
           ],
           "description": "Books, libraries, and creative tools.",
@@ -3244,7 +3442,8 @@
                 "owner": "shopsavvy",
                 "repo": "shopsavvy-mcp-server",
                 "stars": 8
-              }
+              },
+              "first_seen": "2026-08-29T01:55:10.167Z"
             },
             {
               "node_type": "item",
@@ -3259,7 +3458,8 @@
                 "owner": "DynamicDeals",
                 "repo": "mcp-server-gunsnation",
                 "stars": 2
-              }
+              },
+              "first_seen": "2026-08-29T01:55:10.167Z"
             }
           ],
           "description": "Commerce and marketplace integrations.",
@@ -3277,11 +3477,12 @@
                 "archived": false,
                 "id": 915789942,
                 "language": "Python",
-                "last_commit": "2026-08-26T09:15:03Z",
+                "last_commit": "2026-08-28T14:08:21Z",
                 "owner": "keboola",
                 "repo": "mcp-server",
                 "stars": 86
-              }
+              },
+              "first_seen": "2026-08-29T01:55:10.167Z"
             }
           ],
           "description": "Orchestration and data pipeline platforms.",
@@ -3303,7 +3504,8 @@
                 "owner": "Extelligence-ai",
                 "repo": "bagel",
                 "stars": 396
-              }
+              },
+              "first_seen": "2026-08-29T01:55:10.167Z"
             }
           ],
           "description": "Robotics and device control.",
@@ -3328,8 +3530,9 @@
             "last_commit": "2026-08-21T05:20:06Z",
             "owner": "bytebase",
             "repo": "dbhub",
-            "stars": 3417
-          }
+            "stars": 3423
+          },
+          "first_seen": "2026-08-29T01:55:10.167Z"
         },
         {
           "node_type": "item",
@@ -3343,8 +3546,9 @@
             "last_commit": "2025-05-28T17:13:55Z",
             "owner": "minhalvp",
             "repo": "android-mcp-server",
-            "stars": 804
-          }
+            "stars": 805
+          },
+          "first_seen": "2026-08-29T01:55:10.167Z"
         },
         {
           "node_type": "item",
@@ -3359,7 +3563,8 @@
             "owner": "domdomegg",
             "repo": "airtable-mcp-server",
             "stars": 456
-          }
+          },
+          "first_seen": "2026-08-29T01:55:10.167Z"
         },
         {
           "node_type": "item",
@@ -3373,8 +3578,9 @@
             "last_commit": "2026-04-05T19:38:07Z",
             "owner": "fosdickio",
             "repo": "binary_ninja_mcp",
-            "stars": 425
-          }
+            "stars": 426
+          },
+          "first_seen": "2026-08-29T01:55:10.167Z"
         },
         {
           "node_type": "item",
@@ -3389,7 +3595,8 @@
             "owner": "RafalWilinski",
             "repo": "mcp-apple-notes",
             "stars": 411
-          }
+          },
+          "first_seen": "2026-08-29T01:55:10.167Z"
         },
         {
           "node_type": "item",
@@ -3404,7 +3611,8 @@
             "owner": "MorDavid",
             "repo": "BloodHound-MCP-AI",
             "stars": 375
-          }
+          },
+          "first_seen": "2026-08-29T01:55:10.167Z"
         },
         {
           "node_type": "item",
@@ -3419,7 +3627,8 @@
             "owner": "recursechat",
             "repo": "mcp-server-apple-shortcuts",
             "stars": 344
-          }
+          },
+          "first_seen": "2026-08-29T01:55:10.167Z"
         },
         {
           "node_type": "item",
@@ -3434,7 +3643,8 @@
             "owner": "githejie",
             "repo": "mcp-server-calculator",
             "stars": 156
-          }
+          },
+          "first_seen": "2026-08-29T01:55:10.167Z"
         },
         {
           "node_type": "item",
@@ -3449,7 +3659,8 @@
             "owner": "LucasHild",
             "repo": "mcp-server-bigquery",
             "stars": 130
-          }
+          },
+          "first_seen": "2026-08-29T01:55:10.167Z"
         },
         {
           "node_type": "item",
@@ -3460,11 +3671,12 @@
             "archived": false,
             "id": 945536750,
             "language": "Python",
-            "last_commit": "2026-08-24T04:13:38Z",
+            "last_commit": "2026-08-28T10:11:55Z",
             "owner": "georgeantonopoulos",
             "repo": "Basecamp-MCP-Server",
             "stars": 98
-          }
+          },
+          "first_seen": "2026-08-29T01:55:10.167Z"
         },
         {
           "node_type": "item",
@@ -3479,7 +3691,8 @@
             "owner": "dominik1001",
             "repo": "caldav-mcp",
             "stars": 97
-          }
+          },
+          "first_seen": "2026-08-29T01:55:10.167Z"
         },
         {
           "node_type": "item",
@@ -3494,7 +3707,8 @@
             "owner": "yuna0x0",
             "repo": "anilist-mcp",
             "stars": 85
-          }
+          },
+          "first_seen": "2026-08-29T01:55:10.167Z"
         },
         {
           "node_type": "item",
@@ -3509,7 +3723,8 @@
             "owner": "GoPlausible",
             "repo": "algorand-mcp",
             "stars": 44
-          }
+          },
+          "first_seen": "2026-08-29T01:55:10.167Z"
         },
         {
           "node_type": "item",
@@ -3524,7 +3739,8 @@
             "owner": "api7",
             "repo": "apisix-mcp",
             "stars": 38
-          }
+          },
+          "first_seen": "2026-08-29T01:55:10.167Z"
         },
         {
           "node_type": "item",
@@ -3539,7 +3755,8 @@
             "owner": "laulauland",
             "repo": "bluesky-context-server",
             "stars": 34
-          }
+          },
+          "first_seen": "2026-08-29T01:55:10.167Z"
         },
         {
           "node_type": "item",
@@ -3554,7 +3771,8 @@
             "owner": "agentset-ai",
             "repo": "mcp-server",
             "stars": 30
-          }
+          },
+          "first_seen": "2026-08-29T01:55:10.167Z"
         },
         {
           "node_type": "item",
@@ -3569,7 +3787,8 @@
             "owner": "ntk148v",
             "repo": "alertmanager-mcp-server",
             "stars": 24
-          }
+          },
+          "first_seen": "2026-08-29T01:55:10.167Z"
         },
         {
           "node_type": "item",
@@ -3584,7 +3803,8 @@
             "owner": "spacholski1225",
             "repo": "anki-connect-mcp",
             "stars": 24
-          }
+          },
+          "first_seen": "2026-08-29T01:55:10.167Z"
         },
         {
           "node_type": "item",
@@ -3599,7 +3819,8 @@
             "owner": "isiahw1",
             "repo": "mcp-server-bing-webmaster",
             "stars": 22
-          }
+          },
+          "first_seen": "2026-08-29T01:55:10.167Z"
         },
         {
           "node_type": "item",
@@ -3614,7 +3835,8 @@
             "owner": "trilogy-group",
             "repo": "aws-pricing-mcp",
             "stars": 21
-          }
+          },
+          "first_seen": "2026-08-29T01:55:10.167Z"
         },
         {
           "node_type": "item",
@@ -3629,7 +3851,8 @@
             "owner": "currents-dev",
             "repo": "currents-mcp",
             "stars": 20
-          }
+          },
+          "first_seen": "2026-08-29T01:55:10.167Z"
         },
         {
           "node_type": "item",
@@ -3644,7 +3867,8 @@
             "owner": "hexitex",
             "repo": "MCP-Backup-Server",
             "stars": 12
-          }
+          },
+          "first_seen": "2026-08-29T01:55:10.167Z"
         },
         {
           "node_type": "item",
@@ -3659,7 +3883,8 @@
             "owner": "hmk",
             "repo": "box-mcp-server",
             "stars": 11
-          }
+          },
+          "first_seen": "2026-08-29T01:55:10.167Z"
         }
       ],
       "title": "Community Servers"
@@ -3676,11 +3901,12 @@
             "archived": false,
             "id": 340547520,
             "language": "Rust",
-            "last_commit": "2026-08-28T02:17:27Z",
+            "last_commit": "2026-08-29T01:24:23Z",
             "owner": "zed-industries",
             "repo": "zed",
-            "stars": 89334
-          }
+            "stars": 89381
+          },
+          "first_seen": "2026-08-29T01:55:10.167Z"
         },
         {
           "node_type": "item",
@@ -3691,11 +3917,12 @@
             "archived": false,
             "id": 644686905,
             "language": "TypeScript",
-            "last_commit": "2026-08-27T13:11:02Z",
+            "last_commit": "2026-08-28T10:05:03Z",
             "owner": "continuedev",
             "repo": "continue",
-            "stars": 35648
-          }
+            "stars": 35666
+          },
+          "first_seen": "2026-08-29T01:55:10.167Z"
         },
         {
           "node_type": "item",
@@ -3709,8 +3936,9 @@
             "last_commit": "2026-06-18T14:55:50Z",
             "owner": "Upsonic",
             "repo": "Upsonic",
-            "stars": 7948
-          }
+            "stars": 7947
+          },
+          "first_seen": "2026-08-29T01:55:10.167Z"
         },
         {
           "node_type": "item",
@@ -3721,11 +3949,12 @@
             "archived": false,
             "id": 793795224,
             "language": "TypeScript",
-            "last_commit": "2026-08-28T02:08:25Z",
+            "last_commit": "2026-08-29T01:22:47Z",
             "owner": "genkit-ai",
             "repo": "genkit",
-            "stars": 6384
-          }
+            "stars": 6385
+          },
+          "first_seen": "2026-08-29T01:55:10.167Z"
         },
         {
           "node_type": "item",
@@ -3739,8 +3968,9 @@
             "last_commit": "2026-01-18T10:00:29Z",
             "owner": "ravitemer",
             "repo": "mcphub.nvim",
-            "stars": 1783
-          }
+            "stars": 1784
+          },
+          "first_seen": "2026-08-29T01:55:10.167Z"
         },
         {
           "node_type": "item",
@@ -3755,7 +3985,8 @@
             "owner": "evilsocket",
             "repo": "nerve",
             "stars": 1316
-          }
+          },
+          "first_seen": "2026-08-29T01:55:10.167Z"
         },
         {
           "node_type": "item",
@@ -3770,7 +4001,8 @@
             "owner": "SecretiveShell",
             "repo": "MCP-Bridge",
             "stars": 929
-          }
+          },
+          "first_seen": "2026-08-29T01:55:10.167Z"
         },
         {
           "node_type": "item",
@@ -3785,7 +4017,8 @@
             "owner": "wong2",
             "repo": "mcp-cli",
             "stars": 443
-          }
+          },
+          "first_seen": "2026-08-29T01:55:10.167Z"
         },
         {
           "node_type": "item",
@@ -3800,7 +4033,8 @@
             "owner": "dcSpark",
             "repo": "shinkai-local-ai-agents",
             "stars": 432
-          }
+          },
+          "first_seen": "2026-08-29T01:55:10.167Z"
         },
         {
           "node_type": "item",
@@ -3815,7 +4049,8 @@
             "owner": "3choff",
             "repo": "mcp-chatbot",
             "stars": 251
-          }
+          },
+          "first_seen": "2026-08-29T01:55:10.167Z"
         },
         {
           "node_type": "item",
@@ -3829,8 +4064,9 @@
             "last_commit": "2026-03-18T20:50:34Z",
             "owner": "EvalsOne",
             "repo": "MCP-connect",
-            "stars": 241
-          }
+            "stars": 240
+          },
+          "first_seen": "2026-08-29T01:55:10.167Z"
         },
         {
           "node_type": "item",
@@ -3845,7 +4081,8 @@
             "owner": "sitbon",
             "repo": "magg",
             "stars": 142
-          }
+          },
+          "first_seen": "2026-08-29T01:55:10.167Z"
         },
         {
           "node_type": "item",
@@ -3860,7 +4097,8 @@
             "owner": "marimo-team",
             "repo": "codemirror-mcp",
             "stars": 79
-          }
+          },
+          "first_seen": "2026-08-29T01:55:10.167Z"
         },
         {
           "node_type": "item",
@@ -3875,7 +4113,8 @@
             "owner": "rakesh-eltropy",
             "repo": "mcp-client",
             "stars": 49
-          }
+          },
+          "first_seen": "2026-08-29T01:55:10.167Z"
         }
       ],
       "title": "Clients"
@@ -3896,7 +4135,8 @@
             "owner": "MervinPraison",
             "repo": "praisonai-mcp",
             "stars": 1
-          }
+          },
+          "first_seen": "2026-08-29T01:55:10.167Z"
         },
         {
           "node_type": "item",
@@ -3907,11 +4147,12 @@
             "archived": false,
             "id": 947349598,
             "language": "Go",
-            "last_commit": "2026-08-27T22:35:22Z",
+            "last_commit": "2026-08-28T20:28:37Z",
             "owner": "stacklok",
             "repo": "toolhive",
-            "stars": 2050
-          }
+            "stars": 2054
+          },
+          "first_seen": "2026-08-29T01:55:10.167Z"
         },
         {
           "node_type": "item",
@@ -3926,7 +4167,8 @@
             "owner": "QuantGeekDev",
             "repo": "mcp-framework",
             "stars": 928
-          }
+          },
+          "first_seen": "2026-08-29T01:55:10.167Z"
         },
         {
           "node_type": "item",
@@ -3941,7 +4183,8 @@
             "owner": "centralmind",
             "repo": "gateway",
             "stars": 546
-          }
+          },
+          "first_seen": "2026-08-29T01:55:10.167Z"
         },
         {
           "node_type": "item",
@@ -3956,7 +4199,8 @@
             "owner": "wong2",
             "repo": "litemcp",
             "stars": 185
-          }
+          },
+          "first_seen": "2026-08-29T01:55:10.167Z"
         },
         {
           "node_type": "item",
@@ -3971,7 +4215,8 @@
             "owner": "oatpp",
             "repo": "oatpp-mcp",
             "stars": 50
-          }
+          },
+          "first_seen": "2026-08-29T01:55:10.167Z"
         },
         {
           "node_type": "item",
@@ -3986,7 +4231,8 @@
             "owner": "Super-I-Tech",
             "repo": "mcp_plexus",
             "stars": 30
-          }
+          },
+          "first_seen": "2026-08-29T01:55:10.167Z"
         },
         {
           "node_type": "item",
@@ -4001,7 +4247,8 @@
             "owner": "stephencme",
             "repo": "create-mcp-ts",
             "stars": 21
-          }
+          },
+          "first_seen": "2026-08-29T01:55:10.167Z"
         },
         {
           "node_type": "item",
@@ -4016,14 +4263,15 @@
             "owner": "tersePrompts",
             "repo": "fastMCP4J",
             "stars": 9
-          }
+          },
+          "first_seen": "2026-08-29T01:55:10.167Z"
         }
       ],
       "title": "Frameworks"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T02:21:40.697Z",
+    "last_updated": "2026-08-29T01:55:10.167Z",
     "original_repository_info": {
       "archived": false,
       "id": 1090703053,
