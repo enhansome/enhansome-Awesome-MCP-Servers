@@ -407,6 +407,7 @@ Social platforms integration.
 * Instagram DMs — <https://github.com/trypeggy/instagram_dm_mcp> ⭐ 178 | 🐛 3 | 🌐 Python | 📅 2025-08-13
 * BlueSky — <https://github.com/keturiosakys/bluesky-context-server> ⭐ 34 | 🐛 1 | 🌐 TypeScript | 📅 2025-08-10
 * X/Twitter — <https://github.com/mbelinky/x-mcp-server> ⭐ 21 | 🐛 3 | 🌐 TypeScript | 📅 2025-06-27
+* BulkPublish — approval-first social content adaptation, scheduling, and publishing through MCP and API — <https://github.com/azeemkafridi/bulkpublish-api> 🌐 TypeScript | [npm: @bulkpublish/mcp-server]
 * Social Neuron (52 MCP tools for AI-powered social media content lifecycle — ideation, creation, distribution, analytics, and optimization with closed-loop learning) — <https://github.com/socialneuron/mcp-server> ⭐ 4 | 🐛 9 | 🌐 TypeScript | 📅 2026-08-26 \[npm: @socialneuron/mcp-server]
 
 ***
