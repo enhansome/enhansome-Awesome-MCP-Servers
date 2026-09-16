@@ -483,6 +483,7 @@ Developer-focused MCP servers and tools.
 * Postman — <https://github.com/delano/postman-mcp-server> ⭐ 160 | 🐛 9 | 🌐 TypeScript | 📅 2026-02-11
 * marimo (⭐) — <https://github.com/marimo-team/codemirror-mcp> ⭐ 79 | 🐛 0 | 🌐 TypeScript | 📅 2026-07-28
 * OpenAPI Schema Explorer — <https://github.com/kadykov/mcp-openapi-schema-explorer> ⭐ 76 | 🐛 2 | 🌐 TypeScript | 📅 2026-09-07
+* ContextStream — <https://github.com/contextstream/mcp-server> ⭐ 43 | 🐛 4 | 🌐 Rust | 📅 2026-09-15 (Shared project context for AI coding agents — hosted MCP with code search, decisions, lessons, and plans.)
 * Bucket — <https://github.com/bucketco/bucket-javascript-sdk/tree/main/packages/cli#model-context-protocol> ⭐ 25 | 🐛 9 | 🌐 TypeScript | 📅 2026-09-15
 * QA Sphere (⭐) — <https://github.com/Hypersequent/qasphere-mcp> ⚠️ Archived
 * Currents (⭐) — <https://github.com/currents-dev/currents-mcp> ⭐ 20 | 🐛 7 | 🌐 TypeScript | 📅 2026-09-15
