@@ -30,6 +30,8 @@ BTW, we provide a [full list of MCP (Master Control Program) Servers](https://gi
 
 ## What is MCP?
 
+- [Statsnet](https://github.com/usenetstate/statsnet-mcp) — Background check any company in the world: registration, executives, courts and finances. `https://statsnet.co/mcp` · `io.github.usenetstate/statsnet`
+
 [MCP](https://modelcontextprotocol.io/) is an open protocol that enables AI models to securely interact with local and remote resources through standardized server implementations. This list focuses on production-ready and experimental MCP servers that extend AI capabilities through file access,  database connections, API integrations, and other contextual services.
 
 ***
