@@ -1,147 +1,6 @@
 {
   "items": [
     {
-      "description": "Call for translators! We're looking for translators to help translate this spec for everyone!\nRead our documentation in the following languages:",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "English",
-          "description": "English",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "A curated list of Model Context Protocol (MCP) servers ",
-            "homepage": null,
-            "id": 1090703053,
-            "language": null,
-            "license": "Apache-2.0",
-            "last_commit": "2026-08-07T07:24:01Z",
-            "open_issues": 383,
-            "owner": "YuzeHao2023",
-            "repo": "Awesome-MCP-Servers",
-            "stars": 1065,
-            "topics": [
-              "awesome",
-              "awesome-list",
-              "llm",
-              "mcp",
-              "mcp-server"
-            ]
-          },
-          "first_seen": "2026-08-29T01:55:10.167Z"
-        },
-        {
-          "node_type": "item",
-          "title": "简体中文",
-          "description": "简体中文",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "A curated list of Model Context Protocol (MCP) servers ",
-            "homepage": null,
-            "id": 1090703053,
-            "language": null,
-            "license": "Apache-2.0",
-            "last_commit": "2026-08-07T07:24:01Z",
-            "open_issues": 383,
-            "owner": "YuzeHao2023",
-            "repo": "Awesome-MCP-Servers",
-            "stars": 1065,
-            "topics": [
-              "awesome",
-              "awesome-list",
-              "llm",
-              "mcp",
-              "mcp-server"
-            ]
-          },
-          "first_seen": "2026-08-29T01:55:10.167Z"
-        },
-        {
-          "node_type": "item",
-          "title": "繁體中文",
-          "description": "繁體中文",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "A curated list of Model Context Protocol (MCP) servers ",
-            "homepage": null,
-            "id": 1090703053,
-            "language": null,
-            "license": "Apache-2.0",
-            "last_commit": "2026-08-07T07:24:01Z",
-            "open_issues": 383,
-            "owner": "YuzeHao2023",
-            "repo": "Awesome-MCP-Servers",
-            "stars": 1065,
-            "topics": [
-              "awesome",
-              "awesome-list",
-              "llm",
-              "mcp",
-              "mcp-server"
-            ]
-          },
-          "first_seen": "2026-08-29T01:55:10.167Z"
-        },
-        {
-          "node_type": "item",
-          "title": "日本語",
-          "description": "日本語",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "A curated list of Model Context Protocol (MCP) servers ",
-            "homepage": null,
-            "id": 1090703053,
-            "language": null,
-            "license": "Apache-2.0",
-            "last_commit": "2026-08-07T07:24:01Z",
-            "open_issues": 383,
-            "owner": "YuzeHao2023",
-            "repo": "Awesome-MCP-Servers",
-            "stars": 1065,
-            "topics": [
-              "awesome",
-              "awesome-list",
-              "llm",
-              "mcp",
-              "mcp-server"
-            ]
-          },
-          "first_seen": "2026-08-29T01:55:10.167Z"
-        },
-        {
-          "node_type": "item",
-          "title": "한국어",
-          "description": "한국어",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "A curated list of Model Context Protocol (MCP) servers ",
-            "homepage": null,
-            "id": 1090703053,
-            "language": null,
-            "license": "Apache-2.0",
-            "last_commit": "2026-08-07T07:24:01Z",
-            "open_issues": 383,
-            "owner": "YuzeHao2023",
-            "repo": "Awesome-MCP-Servers",
-            "stars": 1065,
-            "topics": [
-              "awesome",
-              "awesome-list",
-              "llm",
-              "mcp",
-              "mcp-server"
-            ]
-          },
-          "first_seen": "2026-08-29T01:55:10.167Z"
-        }
-      ],
-      "title": "All Documents"
-    },
-    {
       "description": "These are example/reference servers and core SDK examples demonstrating MCP features.",
       "items": [
         {
@@ -152,7 +11,7 @@
             {
               "node_type": "item",
               "title": "modelcontextprotocol/servers",
-              "description": null,
+              "description": "modelcontextprotocol/servers",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -162,10 +21,10 @@
                 "language": "TypeScript",
                 "license": "NOASSERTION",
                 "last_commit": "2026-10-01T15:33:30Z",
-                "open_issues": 552,
+                "open_issues": 551,
                 "owner": "modelcontextprotocol",
                 "repo": "servers",
-                "stars": 90958,
+                "stars": 90961,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:55:10.167Z"
@@ -180,7 +39,7 @@
             {
               "node_type": "item",
               "title": "modelcontextprotocol/servers",
-              "description": null,
+              "description": "modelcontextprotocol/servers",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -190,10 +49,10 @@
                 "language": "TypeScript",
                 "license": "NOASSERTION",
                 "last_commit": "2026-10-01T15:33:30Z",
-                "open_issues": 552,
+                "open_issues": 551,
                 "owner": "modelcontextprotocol",
                 "repo": "servers",
-                "stars": 90958,
+                "stars": 90961,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:55:10.167Z"
@@ -208,7 +67,7 @@
             {
               "node_type": "item",
               "title": "modelcontextprotocol/servers",
-              "description": null,
+              "description": "modelcontextprotocol/servers",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -218,10 +77,10 @@
                 "language": "TypeScript",
                 "license": "NOASSERTION",
                 "last_commit": "2026-10-01T15:33:30Z",
-                "open_issues": 552,
+                "open_issues": 551,
                 "owner": "modelcontextprotocol",
                 "repo": "servers",
-                "stars": 90958,
+                "stars": 90961,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:55:10.167Z"
@@ -236,7 +95,7 @@
             {
               "node_type": "item",
               "title": "modelcontextprotocol/servers",
-              "description": null,
+              "description": "modelcontextprotocol/servers",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -246,10 +105,10 @@
                 "language": "TypeScript",
                 "license": "NOASSERTION",
                 "last_commit": "2026-10-01T15:33:30Z",
-                "open_issues": 552,
+                "open_issues": 551,
                 "owner": "modelcontextprotocol",
                 "repo": "servers",
-                "stars": 90958,
+                "stars": 90961,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:55:10.167Z"
@@ -264,7 +123,7 @@
             {
               "node_type": "item",
               "title": "modelcontextprotocol/servers",
-              "description": null,
+              "description": "modelcontextprotocol/servers",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -274,10 +133,10 @@
                 "language": "TypeScript",
                 "license": "NOASSERTION",
                 "last_commit": "2026-10-01T15:33:30Z",
-                "open_issues": 552,
+                "open_issues": 551,
                 "owner": "modelcontextprotocol",
                 "repo": "servers",
-                "stars": 90958,
+                "stars": 90961,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:55:10.167Z"
@@ -292,7 +151,7 @@
             {
               "node_type": "item",
               "title": "modelcontextprotocol/servers",
-              "description": null,
+              "description": "modelcontextprotocol/servers",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -302,10 +161,10 @@
                 "language": "TypeScript",
                 "license": "NOASSERTION",
                 "last_commit": "2026-10-01T15:33:30Z",
-                "open_issues": 552,
+                "open_issues": 551,
                 "owner": "modelcontextprotocol",
                 "repo": "servers",
-                "stars": 90958,
+                "stars": 90961,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:55:10.167Z"
@@ -320,7 +179,7 @@
             {
               "node_type": "item",
               "title": "modelcontextprotocol/servers",
-              "description": null,
+              "description": "modelcontextprotocol/servers",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -330,10 +189,10 @@
                 "language": "TypeScript",
                 "license": "NOASSERTION",
                 "last_commit": "2026-10-01T15:33:30Z",
-                "open_issues": 552,
+                "open_issues": 551,
                 "owner": "modelcontextprotocol",
                 "repo": "servers",
-                "stars": 90958,
+                "stars": 90961,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:55:10.167Z"
@@ -349,7 +208,7 @@
         {
           "node_type": "item",
           "title": "GitHub — https://github.com/github/github-mcp-server",
-          "description": "(official)",
+          "description": "github/github-mcp-server",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -362,7 +221,7 @@
             "open_issues": 341,
             "owner": "github",
             "repo": "github-mcp-server",
-            "stars": 33329,
+            "stars": 33332,
             "topics": [
               "github",
               "mcp",
@@ -374,7 +233,7 @@
         {
           "node_type": "item",
           "title": "Apify Actors — https://github.com/apify/actors-mcp-server",
-          "description": null,
+          "description": "apify/apify-mcp-server",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -387,7 +246,7 @@
             "open_issues": 192,
             "owner": "apify",
             "repo": "apify-mcp-server",
-            "stars": 9403,
+            "stars": 9422,
             "topics": [
               "agents",
               "ai",
@@ -400,7 +259,7 @@
         {
           "node_type": "item",
           "title": "21st.dev Magic — https://github.com/21st-dev/magic-mcp",
-          "description": null,
+          "description": "21st-dev/magic-mcp",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -413,7 +272,7 @@
             "open_issues": 5,
             "owner": "21st-dev",
             "repo": "magic-mcp",
-            "stars": 5957,
+            "stars": 5958,
             "topics": [
               "21st",
               "claude",
@@ -430,7 +289,7 @@
         {
           "node_type": "item",
           "title": "Notion — https://github.com/makenotion/notion-mcp",
-          "description": "(official)",
+          "description": "makenotion/notion-mcp-server",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -443,7 +302,7 @@
             "open_issues": 198,
             "owner": "makenotion",
             "repo": "notion-mcp-server",
-            "stars": 4655,
+            "stars": 4656,
             "topics": []
           },
           "first_seen": "2026-08-29T01:55:10.167Z"
@@ -451,7 +310,7 @@
         {
           "node_type": "item",
           "title": "Cloudflare — https://github.com/cloudflare/mcp-server-cloudflare",
-          "description": "(⭐)",
+          "description": "cloudflare/mcp-server-cloudflare",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -464,7 +323,7 @@
             "open_issues": 83,
             "owner": "cloudflare",
             "repo": "mcp-server-cloudflare",
-            "stars": 4346,
+            "stars": 4349,
             "topics": []
           },
           "first_seen": "2026-08-29T01:55:10.167Z"
@@ -472,7 +331,7 @@
         {
           "node_type": "item",
           "title": "Stripe — https://github.com/stripe/agent-toolkit/tree/main",
-          "description": "(⭐)",
+          "description": "stripe/ai",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -481,8 +340,8 @@
             "id": 886826524,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-02T00:52:11Z",
-            "open_issues": 94,
+            "last_commit": "2026-10-03T00:49:40Z",
+            "open_issues": 96,
             "owner": "stripe",
             "repo": "ai",
             "stars": 1851,
@@ -502,7 +361,7 @@
         {
           "node_type": "item",
           "title": "PayPal — https://github.com/paypal/agent-toolkit/tree/main",
-          "description": "(⭐)",
+          "description": "paypal/agent-toolkit",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -515,7 +374,7 @@
             "open_issues": 30,
             "owner": "paypal",
             "repo": "agent-toolkit",
-            "stars": 195,
+            "stars": 196,
             "topics": []
           },
           "first_seen": "2026-08-29T01:55:10.167Z"
@@ -523,7 +382,7 @@
         {
           "node_type": "item",
           "title": "AgentQL — https://github.com/tinyfish-io/agentql-mcp",
-          "description": null,
+          "description": "tinyfish-io/agentql-mcp",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -562,7 +421,7 @@
         {
           "node_type": "item",
           "title": "AlibabaCloud DevOps MCP — https://github.com/aliyun/alibabacloud-devops-mcp-server",
-          "description": null,
+          "description": "aliyun/alibabacloud-devops-mcp-server",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -586,7 +445,7 @@
         {
           "node_type": "item",
           "title": "AgentRPC — https://github.com/agentrpc/agentrpc",
-          "description": null,
+          "description": "agentrpc/agentrpc",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -607,7 +466,7 @@
         {
           "node_type": "item",
           "title": "Box — https://github.com/box-community/mcp-server-box",
-          "description": "(⭐)",
+          "description": "box-community/mcp-server-box",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -628,7 +487,7 @@
         {
           "node_type": "item",
           "title": "Tinybird — https://github.com/tinybirdco/mcp-tinybird",
-          "description": "(⭐)",
+          "description": "tinybirdco/mcp-tinybird",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -649,7 +508,7 @@
         {
           "node_type": "item",
           "title": "1mcpserver — https://github.com/particlefuture/1mcpserver",
-          "description": null,
+          "description": "particlefuture/1mcpserver",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -670,7 +529,7 @@
         {
           "node_type": "item",
           "title": "Aiven — https://github.com/Aiven-Open/mcp-aiven",
-          "description": null,
+          "description": "Aiven-Open/mcp-aiven",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -691,7 +550,7 @@
         {
           "node_type": "item",
           "title": "Adfin — https://github.com/Adfin-Engineering/mcp-server-adfin",
-          "description": null,
+          "description": "Adfin-Engineering/mcp-server-adfin",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -712,7 +571,7 @@
         {
           "node_type": "item",
           "title": "4everland/4everland-hosting-mcp — https://github.com/4everland/4everland-hosting-mcp",
-          "description": null,
+          "description": "4everland/4everland-hosting-mcp",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -739,7 +598,7 @@
         {
           "node_type": "item",
           "title": "ToolHive — Lightweight utility to simplify deployment & management — https://github.com/StacklokLabs/toolhive",
-          "description": null,
+          "description": "stacklok/toolhive",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -748,8 +607,8 @@
             "id": 947349598,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-01T13:10:53Z",
-            "open_issues": 379,
+            "last_commit": "2026-10-03T01:07:11Z",
+            "open_issues": 382,
             "owner": "stacklok",
             "repo": "toolhive",
             "stars": 2231,
@@ -772,7 +631,7 @@
         {
           "node_type": "item",
           "title": "MCP Installer — https://github.com/anaisbetts/mcp-installer",
-          "description": null,
+          "description": "anaisbetts/mcp-installer",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -793,7 +652,7 @@
         {
           "node_type": "item",
           "title": "mcp-get — CLI tool to install and manage MCP servers (Claude Desktop oriented) — https://github.com/michaellatman/mcp-get",
-          "description": null,
+          "description": "michaellatman/mcp-get",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -814,7 +673,7 @@
         {
           "node_type": "item",
           "title": "Remote MCP — Solution for remote MCP communication — https://github.com/ssut/Remote-MCP",
-          "description": null,
+          "description": "ssut/Remote-MCP",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -843,7 +702,7 @@
         {
           "node_type": "item",
           "title": "mxcp — An open-source framework for building secure enterprise MCP tools — http://github.com/raw-labs/mxcp",
-          "description": null,
+          "description": "raw-labs/mxcp",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -878,7 +737,7 @@
         {
           "node_type": "item",
           "title": "yamcp — Model Context Workspace Manager — https://github.com/hamidra/yamcp",
-          "description": null,
+          "description": "hamidra/yamcp",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -904,7 +763,7 @@
         {
           "node_type": "item",
           "title": "mcp-cli — CLI inspector for MCP servers — https://github.com/wong2/mcp-cli",
-          "description": null,
+          "description": "wong2/mcp-cli",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -925,7 +784,7 @@
         {
           "node_type": "item",
           "title": "Secure Fetch — secure fetch to prevent access to local resources — https://github.com/appsec-innovation-labs/secure-mcp-fetch",
-          "description": null,
+          "description": "appsec-innovation-labs/secure-mcp-fetch",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -948,7 +807,7 @@
             {
               "node_type": "item",
               "title": "FileSystem (modelcontextprotocol reference) — https://github.com/modelcontextprotocol/servers/tree/main/src/filesystem",
-              "description": "(1)",
+              "description": "modelcontextprotocol/servers",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -958,10 +817,10 @@
                 "language": "TypeScript",
                 "license": "NOASSERTION",
                 "last_commit": "2026-10-01T15:33:30Z",
-                "open_issues": 552,
+                "open_issues": 551,
                 "owner": "modelcontextprotocol",
                 "repo": "servers",
-                "stars": 90958,
+                "stars": 90961,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:55:10.167Z"
@@ -969,7 +828,7 @@
             {
               "node_type": "item",
               "title": "FileStash — https://github.com/mickael-kerjean/filestash/tree/master/server/plugin/plg_handler_mcp",
-              "description": null,
+              "description": "mickael-kerjean/filestash",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -982,7 +841,7 @@
                 "open_issues": 127,
                 "owner": "mickael-kerjean",
                 "repo": "filestash",
-                "stars": 14756,
+                "stars": 14759,
                 "topics": [
                   "archiving",
                   "azure",
@@ -1010,7 +869,7 @@
             {
               "node_type": "item",
               "title": "FileSystem (mark3labs) — https://github.com/mark3labs/mcp-filesystem-server",
-              "description": "(2)",
+              "description": "mark3labs/mcp-filesystem-server",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1031,7 +890,7 @@
             {
               "node_type": "item",
               "title": "Everything Search — https://github.com/mamertofabian/mcp-everything-search",
-              "description": null,
+              "description": "mamertofabian/mcp-everything-search",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1052,7 +911,7 @@
             {
               "node_type": "item",
               "title": "llm-context — https://github.com/cyberchitta/llm-context.py",
-              "description": null,
+              "description": "cyberchitta/llm-context.py",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1079,7 +938,7 @@
             {
               "node_type": "item",
               "title": "fast-filesystem-mcp — https://github.com/efforthye/fast-filesystem-mcp",
-              "description": null,
+              "description": "efforthye/fast-filesystem-mcp",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1118,7 +977,7 @@
             {
               "node_type": "item",
               "title": "Backup — https://github.com/hexitex/MCP-Backup-Server",
-              "description": null,
+              "description": "hexitex/MCP-Backup-Server",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1146,7 +1005,7 @@
             {
               "node_type": "item",
               "title": "Microsandbox (⭐) — https://github.com/microsandbox/microsandbox",
-              "description": null,
+              "description": "superradcompany/microsandbox",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1155,11 +1014,11 @@
                 "id": 867192625,
                 "language": "Rust",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-02T22:17:00Z",
-                "open_issues": 107,
+                "last_commit": "2026-10-03T01:58:15Z",
+                "open_issues": 106,
                 "owner": "superradcompany",
                 "repo": "microsandbox",
-                "stars": 8520,
+                "stars": 8521,
                 "topics": [
                   "agents",
                   "docker",
@@ -1185,7 +1044,7 @@
             {
               "node_type": "item",
               "title": "Docker (QuantGeekDev) — https://github.com/QuantGeekDev/docker-mcp",
-              "description": null,
+              "description": "QuantGeekDev/docker-mcp",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1206,7 +1065,7 @@
             {
               "node_type": "item",
               "title": "E2B (⭐) — https://github.com/e2b-dev/mcp-server",
-              "description": null,
+              "description": "e2b-dev/mcp-server",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -1240,7 +1099,7 @@
             {
               "node_type": "item",
               "title": "GitLab — https://github.com/modelcontextprotocol/servers/tree/main/src/gitlab",
-              "description": null,
+              "description": "modelcontextprotocol/servers",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1250,10 +1109,10 @@
                 "language": "TypeScript",
                 "license": "NOASSERTION",
                 "last_commit": "2026-10-01T15:33:30Z",
-                "open_issues": 552,
+                "open_issues": 551,
                 "owner": "modelcontextprotocol",
                 "repo": "servers",
-                "stars": 90958,
+                "stars": 90961,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:55:10.167Z"
@@ -1261,7 +1120,7 @@
             {
               "node_type": "item",
               "title": "Git (direct) — https://github.com/modelcontextprotocol/servers/tree/main/src/git",
-              "description": null,
+              "description": "modelcontextprotocol/servers",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1271,10 +1130,10 @@
                 "language": "TypeScript",
                 "license": "NOASSERTION",
                 "last_commit": "2026-10-01T15:33:30Z",
-                "open_issues": 552,
+                "open_issues": 551,
                 "owner": "modelcontextprotocol",
                 "repo": "servers",
-                "stars": 90958,
+                "stars": 90961,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:55:10.167Z"
@@ -1282,7 +1141,7 @@
             {
               "node_type": "item",
               "title": "GitHub (1) — https://github.com/github/github-mcp-server",
-              "description": "(official)",
+              "description": "github/github-mcp-server",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1295,7 +1154,7 @@
                 "open_issues": 341,
                 "owner": "github",
                 "repo": "github-mcp-server",
-                "stars": 33329,
+                "stars": 33332,
                 "topics": [
                   "github",
                   "mcp",
@@ -1307,7 +1166,7 @@
             {
               "node_type": "item",
               "title": "Gitingest-MCP — https://github.com/puravparab/Gitingest-MCP",
-              "description": null,
+              "description": "puravparab/Gitingest-MCP",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1336,7 +1195,7 @@
             {
               "node_type": "item",
               "title": "GitHub Repos Manager — https://github.com/kurdin/github-repos-manager-mcp",
-              "description": null,
+              "description": "kurdin/github-repos-manager-mcp",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1364,7 +1223,7 @@
             {
               "node_type": "item",
               "title": "Google Drive — https://github.com/modelcontextprotocol/servers/tree/main/src/gdrive",
-              "description": null,
+              "description": "modelcontextprotocol/servers",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1374,10 +1233,10 @@
                 "language": "TypeScript",
                 "license": "NOASSERTION",
                 "last_commit": "2026-10-01T15:33:30Z",
-                "open_issues": 552,
+                "open_issues": 551,
                 "owner": "modelcontextprotocol",
                 "repo": "servers",
-                "stars": 90958,
+                "stars": 90961,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:55:10.167Z"
@@ -1385,7 +1244,7 @@
             {
               "node_type": "item",
               "title": "Microsoft 365 — https://github.com/softeria/ms-365-mcp-server",
-              "description": null,
+              "description": "Softeria/ms-365-mcp-server",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1406,7 +1265,7 @@
             {
               "node_type": "item",
               "title": "VideoDB (agent-toolkit) — https://github.com/video-db/agent-toolkit/tree/main/modelcontextprotocol",
-              "description": "(⭐)",
+              "description": "video-db/agent-toolkit",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1441,7 +1300,7 @@
             {
               "node_type": "item",
               "title": "PostgreSQL — https://github.com/modelcontextprotocol/servers/tree/main/src/postgres",
-              "description": null,
+              "description": "modelcontextprotocol/servers",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1451,10 +1310,10 @@
                 "language": "TypeScript",
                 "license": "NOASSERTION",
                 "last_commit": "2026-10-01T15:33:30Z",
-                "open_issues": 552,
+                "open_issues": 551,
                 "owner": "modelcontextprotocol",
                 "repo": "servers",
-                "stars": 90958,
+                "stars": 90961,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:55:10.167Z"
@@ -1462,7 +1321,7 @@
             {
               "node_type": "item",
               "title": "SQLite — https://github.com/modelcontextprotocol/servers/tree/main/src/sqlite",
-              "description": null,
+              "description": "modelcontextprotocol/servers",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1472,10 +1331,10 @@
                 "language": "TypeScript",
                 "license": "NOASSERTION",
                 "last_commit": "2026-10-01T15:33:30Z",
-                "open_issues": 552,
+                "open_issues": 551,
                 "owner": "modelcontextprotocol",
                 "repo": "servers",
-                "stars": 90958,
+                "stars": 90961,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:55:10.167Z"
@@ -1483,7 +1342,7 @@
             {
               "node_type": "item",
               "title": "Excel — https://github.com/haris-musa/excel-mcp-server",
-              "description": null,
+              "description": "haris-musa/excel-mcp-server",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1496,7 +1355,7 @@
                 "open_issues": 0,
                 "owner": "haris-musa",
                 "repo": "excel-mcp-server",
-                "stars": 4209,
+                "stars": 4211,
                 "topics": [
                   "ai",
                   "automation",
@@ -1515,7 +1374,7 @@
             {
               "node_type": "item",
               "title": "Qdrant (⭐) — https://github.com/qdrant/mcp-server-qdrant/",
-              "description": null,
+              "description": "qdrant/mcp-server-qdrant",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1544,7 +1403,7 @@
             {
               "node_type": "item",
               "title": "MySQL — https://github.com/designcomputer/mysql_mcp_server",
-              "description": null,
+              "description": "designcomputer/mysql_mcp_server",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1575,7 +1434,7 @@
             {
               "node_type": "item",
               "title": "Neon (⭐) — https://github.com/neondatabase/mcp-server-neon",
-              "description": null,
+              "description": "neondatabase/mcp-server-neon",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1596,7 +1455,7 @@
             {
               "node_type": "item",
               "title": "Redis (⭐) — https://github.com/redis/mcp-redis",
-              "description": null,
+              "description": "redis/mcp-redis",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1624,7 +1483,7 @@
             {
               "node_type": "item",
               "title": "Airtable — https://github.com/domdomegg/airtable-mcp-server",
-              "description": null,
+              "description": "domdomegg/airtable-mcp-server",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1649,7 +1508,7 @@
             {
               "node_type": "item",
               "title": "MongoDB — https://github.com/kiliczsh/mcp-mongo-server",
-              "description": null,
+              "description": "kiliczsh/mcp-mongo-server",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1681,7 +1540,7 @@
             {
               "node_type": "item",
               "title": "MongoDB Lens — https://github.com/furey/mongodb-lens",
-              "description": null,
+              "description": "furey/mongodb-lens",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1710,7 +1569,7 @@
             {
               "node_type": "item",
               "title": "Snowflake — https://github.com/isaacwasserman/mcp-snowflake-server",
-              "description": null,
+              "description": "isaacwasserman/mcp-snowflake-server",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1731,7 +1590,7 @@
             {
               "node_type": "item",
               "title": "DuckDB — https://github.com/ktanaka101/mcp-server-duckdb",
-              "description": null,
+              "description": "ktanaka101/mcp-server-duckdb",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1756,7 +1615,7 @@
             {
               "node_type": "item",
               "title": "BigQuery — https://github.com/LucasHild/mcp-server-bigquery",
-              "description": "(1) & https://github.com/ergut/mcp-bigquery-server (2)",
+              "description": "& https://github.com/ergut/mcp-bigquery-server (2)",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1781,7 +1640,7 @@
             {
               "node_type": "item",
               "title": "DBUtils — https://github.com/donghao1393/mcp-dbutils",
-              "description": null,
+              "description": "donghao1393/mcp-dbutils",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1808,7 +1667,7 @@
             {
               "node_type": "item",
               "title": "NocoDB — https://github.com/edwinbernadus/nocodb-mcp-server",
-              "description": null,
+              "description": "edwinbernadus/nocodb-mcp-server",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1833,7 +1692,7 @@
             {
               "node_type": "item",
               "title": "Couchbase (⭐) — https://github.com/Couchbase-Ecosystem/mcp-server-couchbase",
-              "description": null,
+              "description": "couchbase/mcp-server-couchbase",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1867,7 +1726,7 @@
             {
               "node_type": "item",
               "title": "TiDB — https://github.com/c4pt0r/mcp-server-tidb",
-              "description": null,
+              "description": "c4pt0r/mcp-server-tidb",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1895,7 +1754,7 @@
             {
               "node_type": "item",
               "title": "Atlassian — https://github.com/sooperset/mcp-atlassian",
-              "description": null,
+              "description": "sooperset/mcp-atlassian",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1908,7 +1767,7 @@
                 "open_issues": 259,
                 "owner": "sooperset",
                 "repo": "mcp-atlassian",
-                "stars": 5964,
+                "stars": 5963,
                 "topics": [
                   "atlassian",
                   "confluence",
@@ -1921,7 +1780,7 @@
             {
               "node_type": "item",
               "title": "Slack — https://github.com/korotovsky/slack-mcp-server",
-              "description": null,
+              "description": "korotovsky/slack-mcp-server",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1950,7 +1809,7 @@
             {
               "node_type": "item",
               "title": "LINE Official Account (⭐) — https://github.com/line/line-bot-mcp-server",
-              "description": null,
+              "description": "line/line-bot-mcp-server",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1959,8 +1818,8 @@
                 "id": 960342594,
                 "language": "TypeScript",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-02T16:28:34Z",
-                "open_issues": 7,
+                "last_commit": "2026-10-02T23:00:47Z",
+                "open_issues": 6,
                 "owner": "line",
                 "repo": "line-bot-mcp-server",
                 "stars": 782,
@@ -1976,7 +1835,7 @@
             {
               "node_type": "item",
               "title": "Linear — https://github.com/jerhadf/linear-mcp-server",
-              "description": null,
+              "description": "jerhadf/linear-mcp-server",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2003,7 +1862,7 @@
             {
               "node_type": "item",
               "title": "ntfy — https://github.com/gitmotion/ntfy-me-mcp",
-              "description": null,
+              "description": "gitmotion/ntfy-me-mcp",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2043,7 +1902,7 @@
             {
               "node_type": "item",
               "title": "Carbon Voice (⭐) — https://github.com/PhononX/cv-mcp-server",
-              "description": null,
+              "description": "PhononX/cv-mcp-server",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2071,7 +1930,7 @@
             {
               "node_type": "item",
               "title": "Sentry — https://github.com/modelcontextprotocol/servers/tree/main/src/sentry",
-              "description": null,
+              "description": "modelcontextprotocol/servers",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2081,10 +1940,10 @@
                 "language": "TypeScript",
                 "license": "NOASSERTION",
                 "last_commit": "2026-10-01T15:33:30Z",
-                "open_issues": 552,
+                "open_issues": 551,
                 "owner": "modelcontextprotocol",
                 "repo": "servers",
-                "stars": 90958,
+                "stars": 90961,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:55:10.167Z"
@@ -2092,7 +1951,7 @@
             {
               "node_type": "item",
               "title": "VictoriaMetrics — https://github.com/VictoriaMetrics-Community/mcp-victoriametrics",
-              "description": null,
+              "description": "VictoriaMetrics/mcp-victoriametrics",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2121,7 +1980,7 @@
             {
               "node_type": "item",
               "title": "Metoro — https://github.com/metoro-io/metoro-mcp-server",
-              "description": null,
+              "description": "metoro-io/metoro-mcp-server",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2142,7 +2001,7 @@
             {
               "node_type": "item",
               "title": "Raygun — https://github.com/MindscapeHQ/mcp-server-raygun",
-              "description": null,
+              "description": "MindscapeHQ/mcp-server-raygun",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2168,7 +2027,7 @@
             {
               "node_type": "item",
               "title": "Signoz — https://github.com/DrDroidLab/signoz-mcp-server",
-              "description": null,
+              "description": "DrDroidLab/signoz-mcp-server",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2189,7 +2048,7 @@
             {
               "node_type": "item",
               "title": "sslmon — https://github.com/firesh/sslmon-mcp",
-              "description": null,
+              "description": "firesh/sslmon-mcp",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2217,7 +2076,7 @@
             {
               "node_type": "item",
               "title": "Puppeteer — https://github.com/modelcontextprotocol/servers/tree/main/src/puppeteer",
-              "description": null,
+              "description": "modelcontextprotocol/servers",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2227,10 +2086,10 @@
                 "language": "TypeScript",
                 "license": "NOASSERTION",
                 "last_commit": "2026-10-01T15:33:30Z",
-                "open_issues": 552,
+                "open_issues": 551,
                 "owner": "modelcontextprotocol",
                 "repo": "servers",
-                "stars": 90958,
+                "stars": 90961,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:55:10.167Z"
@@ -2238,7 +2097,7 @@
             {
               "node_type": "item",
               "title": "Brave Search — https://github.com/modelcontextprotocol/servers/tree/main/src/brave-search",
-              "description": null,
+              "description": "modelcontextprotocol/servers",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2248,10 +2107,10 @@
                 "language": "TypeScript",
                 "license": "NOASSERTION",
                 "last_commit": "2026-10-01T15:33:30Z",
-                "open_issues": 552,
+                "open_issues": 551,
                 "owner": "modelcontextprotocol",
                 "repo": "servers",
-                "stars": 90958,
+                "stars": 90961,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:55:10.167Z"
@@ -2259,7 +2118,7 @@
             {
               "node_type": "item",
               "title": "Fetch — https://github.com/modelcontextprotocol/servers/tree/main/src/fetch",
-              "description": null,
+              "description": "modelcontextprotocol/servers",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2269,10 +2128,10 @@
                 "language": "TypeScript",
                 "license": "NOASSERTION",
                 "last_commit": "2026-10-01T15:33:30Z",
-                "open_issues": 552,
+                "open_issues": 551,
                 "owner": "modelcontextprotocol",
                 "repo": "servers",
-                "stars": 90958,
+                "stars": 90961,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:55:10.167Z"
@@ -2293,7 +2152,7 @@
                 "open_issues": 192,
                 "owner": "apify",
                 "repo": "apify-mcp-server",
-                "stars": 9403,
+                "stars": 9422,
                 "topics": [
                   "agents",
                   "ai",
@@ -2306,7 +2165,7 @@
             {
               "node_type": "item",
               "title": "Playwright — https://github.com/executeautomation/mcp-playwright",
-              "description": null,
+              "description": "executeautomation/mcp-playwright",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2327,7 +2186,7 @@
             {
               "node_type": "item",
               "title": "Exa Search (⭐) — https://github.com/exa-labs/exa-mcp-server",
-              "description": null,
+              "description": "exa-labs/exa-mcp-server",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2340,7 +2199,7 @@
                 "open_issues": 50,
                 "owner": "exa-labs",
                 "repo": "exa-mcp-server",
-                "stars": 5070,
+                "stars": 5071,
                 "topics": [
                   "code-search",
                   "codesearch",
@@ -2357,7 +2216,7 @@
             {
               "node_type": "item",
               "title": "ArXiv — https://github.com/blazickjp/arxiv-mcp-server",
-              "description": null,
+              "description": "blazickjp/arxiv-mcp-server",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2366,11 +2225,11 @@
                 "id": 896146306,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-02T22:09:18Z",
-                "open_issues": 6,
+                "last_commit": "2026-10-03T01:25:11Z",
+                "open_issues": 4,
                 "owner": "blazickjp",
                 "repo": "arxiv-mcp-server",
-                "stars": 3186,
+                "stars": 3187,
                 "topics": [
                   "ai",
                   "arxiv",
@@ -2389,7 +2248,7 @@
             {
               "node_type": "item",
               "title": "Bright Data — https://github.com/luminati-io/brightdata-mcp",
-              "description": null,
+              "description": "brightdata/brightdata-mcp",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2427,7 +2286,7 @@
             {
               "node_type": "item",
               "title": "Search1API — https://github.com/fatwang2/search1api-mcp",
-              "description": null,
+              "description": "superagents-lab/search1api-mcp",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2456,7 +2315,7 @@
             {
               "node_type": "item",
               "title": "Scrapeless — https://github.com/scrapeless-ai/scrapeless-mcp-server",
-              "description": null,
+              "description": "scrapeless-ai/scrapeless-mcp-server",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2477,7 +2336,7 @@
             {
               "node_type": "item",
               "title": "RivalSearchMCP — https://github.com/damionrashford/RivalSearchMCP",
-              "description": null,
+              "description": "damionrashford/RivalSearchMCP",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2486,7 +2345,7 @@
                 "id": 1031075913,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-10-02T01:55:14Z",
+                "last_commit": "2026-10-03T01:35:59Z",
                 "open_issues": 10,
                 "owner": "damionrashford",
                 "repo": "RivalSearchMCP",
@@ -2519,7 +2378,7 @@
             {
               "node_type": "item",
               "title": "Google News — https://github.com/ChanMeng666/server-google-news",
-              "description": null,
+              "description": "ChanMeng666/server-google-news",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2553,7 +2412,7 @@
             {
               "node_type": "item",
               "title": "Tavily — https://github.com/Tomatio13/mcp-server-tavily",
-              "description": null,
+              "description": "Tomatio13/mcp-server-tavily",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2574,7 +2433,7 @@
             {
               "node_type": "item",
               "title": "Kagi Search — https://github.com/ac3xx/mcp-servers-kagi",
-              "description": null,
+              "description": "ac3xx/mcp-servers-kagi",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2622,7 +2481,7 @@
             {
               "node_type": "item",
               "title": "Dumpling AI — https://github.com/Dumpling-AI/mcp-server-dumplingai",
-              "description": null,
+              "description": "DumplingAI/mcp-server-dumplingai",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2643,7 +2502,7 @@
             {
               "node_type": "item",
               "title": "PapersWithCode — https://github.com/hbg/mcp-paperswithcode",
-              "description": null,
+              "description": "hbg/mcp-paperswithcode",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2664,7 +2523,7 @@
             {
               "node_type": "item",
               "title": "NYTimes — https://github.com/angheljf/nyt",
-              "description": null,
+              "description": "angheljf/nyt",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2765,7 +2624,7 @@
             {
               "node_type": "item",
               "title": "Google Maps — https://github.com/modelcontextprotocol/servers/tree/main/src/google-maps",
-              "description": null,
+              "description": "modelcontextprotocol/servers",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2775,10 +2634,10 @@
                 "language": "TypeScript",
                 "license": "NOASSERTION",
                 "last_commit": "2026-10-01T15:33:30Z",
-                "open_issues": 552,
+                "open_issues": 551,
                 "owner": "modelcontextprotocol",
                 "repo": "servers",
-                "stars": 90958,
+                "stars": 90961,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:55:10.167Z"
@@ -2786,7 +2645,7 @@
             {
               "node_type": "item",
               "title": "QGIS — https://github.com/jjsantos01/qgis_mcp",
-              "description": null,
+              "description": "jjsantos01/qgis_mcp",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2807,7 +2666,7 @@
             {
               "node_type": "item",
               "title": "IPLocate — https://github.com/iplocate/mcp-server-iplocate",
-              "description": null,
+              "description": "iplocate/mcp-server-iplocate",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2828,7 +2687,7 @@
             {
               "node_type": "item",
               "title": "Campertunity — https://github.com/campertunity/mcp-server",
-              "description": null,
+              "description": "campertunity/mcp-server",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2849,7 +2708,7 @@
             {
               "node_type": "item",
               "title": "IP2Location.io — https://github.com/ip2location/mcp-ip2location-io",
-              "description": null,
+              "description": "ip2location/mcp-ip2location-io",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2886,7 +2745,7 @@
             {
               "node_type": "item",
               "title": "Facebook Ads — https://github.com/gomarble-ai/facebook-ads-mcp-server",
-              "description": null,
+              "description": "gomarble-ai/facebook-ads-mcp-server",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2907,7 +2766,7 @@
             {
               "node_type": "item",
               "title": "Google Ads — https://github.com/gomarble-ai/google-ads-mcp-server",
-              "description": null,
+              "description": "gomarble-ai/google-ads-mcp-server",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2928,7 +2787,7 @@
             {
               "node_type": "item",
               "title": "Fathom Analytics — https://github.com/mackenly/mcp-fathom-analytics",
-              "description": null,
+              "description": "mackenly/mcp-fathom-analytics",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2981,7 +2840,7 @@
             {
               "node_type": "item",
               "title": "eBook-mcp — https://github.com/onebirdrocks/ebook-mcp",
-              "description": null,
+              "description": "onebirdrocks/ebook-mcp",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3011,7 +2870,7 @@
             {
               "node_type": "item",
               "title": "Todoist — https://github.com/abhiz123/todoist-mcp-server",
-              "description": null,
+              "description": "abhiz123/todoist-mcp-server",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3117,7 +2976,7 @@
             {
               "node_type": "item",
               "title": "Google Keep — https://github.com/feuerdev/keep-mcp",
-              "description": null,
+              "description": "feuerdev/keep-mcp",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3138,7 +2997,7 @@
             {
               "node_type": "item",
               "title": "Slite — https://github.com/fajarmf/slite-mcp",
-              "description": null,
+              "description": "fajarmf/slite-mcp",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3174,7 +3033,7 @@
             {
               "node_type": "item",
               "title": "Cloudflare (⭐) — https://github.com/cloudflare/mcp-server-cloudflare",
-              "description": null,
+              "description": "cloudflare/mcp-server-cloudflare",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3187,7 +3046,7 @@
                 "open_issues": 83,
                 "owner": "cloudflare",
                 "repo": "mcp-server-cloudflare",
-                "stars": 4346,
+                "stars": 4349,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:55:10.167Z"
@@ -3195,7 +3054,7 @@
             {
               "node_type": "item",
               "title": "Google Cloud Run — https://github.com/GoogleCloudPlatform/cloud-run-mcp",
-              "description": null,
+              "description": "GoogleCloudPlatform/cloud-run-mcp",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3221,7 +3080,7 @@
             {
               "node_type": "item",
               "title": "Kubernetes (multiple implementations) — https://github.com/strowk/mcp-k8s-go",
-              "description": "(1), https://github.com/weibaohui/k8m (2), https://github.com/StacklokLabs/mkp (3)",
+              "description": ", https://github.com/weibaohui/k8m (2), https://github.com/StacklokLabs/mkp (3)",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3246,7 +3105,7 @@
             {
               "node_type": "item",
               "title": "Tinybird (⭐) — https://github.com/tinybirdco/mcp-tinybird",
-              "description": null,
+              "description": "tinybirdco/mcp-tinybird",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -3274,7 +3133,7 @@
             {
               "node_type": "item",
               "title": "Pipedream — https://github.com/PipedreamHQ/pipedream/tree/master/modelcontextprotocol",
-              "description": null,
+              "description": "PipedreamHQ/pipedream",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3284,7 +3143,7 @@
                 "language": "JavaScript",
                 "license": "NOASSERTION",
                 "last_commit": "2026-10-02T22:13:01Z",
-                "open_issues": 4480,
+                "open_issues": 4481,
                 "owner": "PipedreamHQ",
                 "repo": "pipedream",
                 "stars": 11720,
@@ -3315,7 +3174,7 @@
             {
               "node_type": "item",
               "title": "Make (⭐) — https://github.com/integromat/make-mcp-server",
-              "description": null,
+              "description": "integromat/make-mcp-server",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3336,7 +3195,7 @@
             {
               "node_type": "item",
               "title": "Taskade (⭐) — https://github.com/taskade/mcp",
-              "description": null,
+              "description": "taskade/mcp",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3346,7 +3205,7 @@
                 "language": "TypeScript",
                 "license": "MIT",
                 "last_commit": "2026-09-20T13:31:19Z",
-                "open_issues": 13,
+                "open_issues": 14,
                 "owner": "taskade",
                 "repo": "mcp",
                 "stars": 165,
@@ -3424,7 +3283,7 @@
             {
               "node_type": "item",
               "title": "Shell (wcgw) — https://github.com/rusiaaman/wcgw",
-              "description": null,
+              "description": "rusiaaman/wcgw",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3462,7 +3321,7 @@
             {
               "node_type": "item",
               "title": "Apple Shortcuts — https://github.com/recursechat/mcp-server-apple-shortcuts",
-              "description": null,
+              "description": "recursechat/mcp-server-apple-shortcuts",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3483,7 +3342,7 @@
             {
               "node_type": "item",
               "title": "Windows Control — https://github.com/Cheffromspace/nutjs-windows-control",
-              "description": null,
+              "description": "claude-did-this/MCPControl",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3512,7 +3371,7 @@
             {
               "node_type": "item",
               "title": "Command Line — https://github.com/phialsbasement/cmd-mcp-server",
-              "description": null,
+              "description": "PhialsBasement/CMD-MCP-Server",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3540,7 +3399,7 @@
             {
               "node_type": "item",
               "title": "Spotify — https://github.com/varunneal/spotify-mcp",
-              "description": null,
+              "description": "varunneal/spotify-mcp",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3582,7 +3441,7 @@
             {
               "node_type": "item",
               "title": "TikTok — https://github.com/Seym0n/tiktok-mcp",
-              "description": null,
+              "description": "Seym0n/tiktok-mcp",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3608,7 +3467,7 @@
             {
               "node_type": "item",
               "title": "Instagram DMs — https://github.com/trypeggy/instagram_dm_mcp",
-              "description": null,
+              "description": "trypeggy/instagram_dm_mcp",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3643,7 +3502,7 @@
             {
               "node_type": "item",
               "title": "BlueSky — https://github.com/keturiosakys/bluesky-context-server",
-              "description": null,
+              "description": "laulauland/bluesky-context-server",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3664,7 +3523,7 @@
             {
               "node_type": "item",
               "title": "X/Twitter — https://github.com/mbelinky/x-mcp-server",
-              "description": null,
+              "description": "mbelinky/x-mcp-server",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3735,7 +3594,7 @@
                 "open_issues": 54,
                 "owner": "IvanMurzak",
                 "repo": "Unity-MCP",
-                "stars": 4374,
+                "stars": 4376,
                 "topics": [
                   "ai",
                   "ai-integration",
@@ -3770,7 +3629,7 @@
             {
               "node_type": "item",
               "title": "Stripe (⭐) — https://github.com/stripe/agent-toolkit",
-              "description": null,
+              "description": "stripe/ai",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3779,8 +3638,8 @@
                 "id": 886826524,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-10-02T00:52:11Z",
-                "open_issues": 94,
+                "last_commit": "2026-10-03T00:49:40Z",
+                "open_issues": 96,
                 "owner": "stripe",
                 "repo": "ai",
                 "stars": 1851,
@@ -3800,7 +3659,7 @@
             {
               "node_type": "item",
               "title": "awesome-x402 (curated directory of x402 payment protocol MCP servers and tools) — https://github.com/xpaysh/awesome-x402",
-              "description": null,
+              "description": "xpaysh/awesome-x402",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3810,7 +3669,7 @@
                 "language": null,
                 "license": "CC0-1.0",
                 "last_commit": "2026-07-28T05:17:23Z",
-                "open_issues": 673,
+                "open_issues": 677,
                 "owner": "xpaysh",
                 "repo": "awesome-x402",
                 "stars": 288,
@@ -3833,7 +3692,7 @@
             {
               "node_type": "item",
               "title": "PayPal (⭐) — https://github.com/paypal/agent-toolkit",
-              "description": null,
+              "description": "paypal/agent-toolkit",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3846,7 +3705,7 @@
                 "open_issues": 30,
                 "owner": "paypal",
                 "repo": "agent-toolkit",
-                "stars": 195,
+                "stars": 196,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:55:10.167Z"
@@ -3854,7 +3713,7 @@
             {
               "node_type": "item",
               "title": "Octagon (⭐) — https://github.com/OctagonAI/octagon-mcp-server",
-              "description": null,
+              "description": "OctagonAI/octagon-mcp-server",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3892,7 +3751,7 @@
             {
               "node_type": "item",
               "title": "CoinMarket — https://github.com/anjor/coinmarket-mcp-server",
-              "description": null,
+              "description": "anjor/coinmarket-mcp-server",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3913,7 +3772,7 @@
             {
               "node_type": "item",
               "title": "Chargebee (⭐) — https://github.com/chargebee/agentkit/tree/main/modelcontextprotocol",
-              "description": null,
+              "description": "chargebee/agentkit",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -3942,7 +3801,7 @@
             {
               "node_type": "item",
               "title": "LongPort OpenAPI (⭐) — https://github.com/longportapp/openapi/tree/main/mcp",
-              "description": null,
+              "description": "longportapp/openapi",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3963,7 +3822,7 @@
             {
               "node_type": "item",
               "title": "AgentFund — https://github.com/RioBot-Grind/agentfund-mcp",
-              "description": null,
+              "description": "RioTheGreat-ai/agentfund-mcp",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3984,7 +3843,7 @@
             {
               "node_type": "item",
               "title": "x402engine-mcp (50+ pay-per-call APIs for AI agents via HTTP 402 micropayments) — https://github.com/agentc22/x402engine-mcp",
-              "description": null,
+              "description": "agentc22/x402engine-mcp",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4012,7 +3871,7 @@
             {
               "node_type": "item",
               "title": "ArXiv — https://github.com/blazickjp/arxiv-mcp-server",
-              "description": null,
+              "description": "blazickjp/arxiv-mcp-server",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4021,11 +3880,11 @@
                 "id": 896146306,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-02T22:09:18Z",
-                "open_issues": 6,
+                "last_commit": "2026-10-03T01:25:11Z",
+                "open_issues": 4,
                 "owner": "blazickjp",
                 "repo": "arxiv-mcp-server",
-                "stars": 3186,
+                "stars": 3187,
                 "topics": [
                   "ai",
                   "arxiv",
@@ -4044,7 +3903,7 @@
             {
               "node_type": "item",
               "title": "OpenNutrition — https://github.com/deadletterq/mcp-opennutrition",
-              "description": null,
+              "description": "deadletterq/mcp-opennutrition",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4065,7 +3924,7 @@
             {
               "node_type": "item",
               "title": "Ancestry — https://github.com/reeeeemo/ancestry-mcp",
-              "description": null,
+              "description": "reeeeemo/ancestry-mcp",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -4090,7 +3949,7 @@
             {
               "node_type": "item",
               "title": "Congress (legislative data) — https://github.com/amurshak/congressMCP",
-              "description": null,
+              "description": "amurshak/congressMCP",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4126,7 +3985,7 @@
             {
               "node_type": "item",
               "title": "HuggingFace Spaces — https://github.com/evalstate/mcp-hfspace",
-              "description": null,
+              "description": "evalstate/mcp-hfspace",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4147,7 +4006,7 @@
             {
               "node_type": "item",
               "title": "OpenAI Compatible Chat — https://github.com/pyroprompts/any-chat-completions-mcp",
-              "description": null,
+              "description": "pyroprompts/any-chat-completions-mcp",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4171,7 +4030,7 @@
             {
               "node_type": "item",
               "title": "NeuroLink — https://github.com/juspay/neurolink",
-              "description": null,
+              "description": "juspay/neurolink",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4180,8 +4039,8 @@
                 "id": 993805781,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-10-02T22:10:00Z",
-                "open_issues": 19,
+                "last_commit": "2026-10-03T00:54:58Z",
+                "open_issues": 20,
                 "owner": "juspay",
                 "repo": "neurolink",
                 "stars": 142,
@@ -4213,7 +4072,7 @@
             {
               "node_type": "item",
               "title": "Chronulus AI — https://github.com/ChronulusAI/chronulus-mcp",
-              "description": null,
+              "description": "ChronulusAI/chronulus-mcp",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4234,7 +4093,7 @@
             {
               "node_type": "item",
               "title": "Perplexity — https://github.com/tanigami/mcp-server-perplexity",
-              "description": null,
+              "description": "tanigami/mcp-server-perplexity",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4255,7 +4114,7 @@
             {
               "node_type": "item",
               "title": "LlamaCloud — https://github.com/run-llama/mcp-server-llamacloud",
-              "description": null,
+              "description": "run-llama/mcp-server-llamacloud",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -4281,7 +4140,7 @@
             {
               "node_type": "item",
               "title": "OpenAI — https://github.com/pierrebrunelle/mcp-server-openai",
-              "description": null,
+              "description": "pierrebrunelle/mcp-server-openai",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4302,7 +4161,7 @@
             {
               "node_type": "item",
               "title": "PiAPI — https://github.com/apinetwork/piapi-mcp-server",
-              "description": null,
+              "description": "apinetwork/piapi-mcp-server",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4323,7 +4182,7 @@
             {
               "node_type": "item",
               "title": "ZenML (⭐) — https://github.com/zenml-io/mcp-zenml",
-              "description": null,
+              "description": "zenml-io/mcp-zenml",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4349,7 +4208,7 @@
             {
               "node_type": "item",
               "title": "Agentset AI — https://github.com/agentset-ai/mcp-server",
-              "description": null,
+              "description": "agentset-ai/mcp-server",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4370,7 +4229,7 @@
             {
               "node_type": "item",
               "title": "Creatify — https://github.com/TSavo/creatify-mcp",
-              "description": null,
+              "description": "TSavo/creatify-mcp",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4398,7 +4257,7 @@
             {
               "node_type": "item",
               "title": "Mastra/mcp (⭐) — https://github.com/mastra-ai/mastra/tree/main/packages/mcp",
-              "description": null,
+              "description": "mastra-ai/mastra",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4407,11 +4266,11 @@
                 "id": 839037098,
                 "language": "TypeScript",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-02T22:28:29Z",
-                "open_issues": 472,
+                "last_commit": "2026-10-03T04:25:18Z",
+                "open_issues": 466,
                 "owner": "mastra-ai",
                 "repo": "mastra",
-                "stars": 28517,
+                "stars": 28521,
                 "topics": [
                   "agents",
                   "ai",
@@ -4433,7 +4292,7 @@
             {
               "node_type": "item",
               "title": "Figma — https://github.com/GLips/Figma-Context-MCP",
-              "description": null,
+              "description": "GLips/Figma-Context-MCP",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4442,11 +4301,11 @@
                 "id": 931892749,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-09-18T03:44:15Z",
+                "last_commit": "2026-10-03T03:46:18Z",
                 "open_issues": 27,
                 "owner": "GLips",
                 "repo": "Figma-Context-MCP",
-                "stars": 15947,
+                "stars": 15948,
                 "topics": [
                   "ai",
                   "cursor",
@@ -4460,7 +4319,7 @@
             {
               "node_type": "item",
               "title": "Octocode — https://github.com/bgauryy/octocode-mcp",
-              "description": null,
+              "description": "bgauryy/octocode",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4502,7 +4361,7 @@
             {
               "node_type": "item",
               "title": "CentralMind/Gateway — https://github.com/centralmind/gateway",
-              "description": null,
+              "description": "centralmind/gateway",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4584,7 +4443,7 @@
             {
               "node_type": "item",
               "title": "VSCode Devtools — https://github.com/biegehydra/BifrostMCP",
-              "description": null,
+              "description": "biegehydra/BifrostMCP",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4615,7 +4474,7 @@
             {
               "node_type": "item",
               "title": "Comet Opik (⭐) — https://github.com/comet-ml/opik-mcp",
-              "description": null,
+              "description": "comet-ml/opik-mcp",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4645,7 +4504,7 @@
             {
               "node_type": "item",
               "title": "DefangLabs/defang — https://github.com/DefangLabs/defang",
-              "description": null,
+              "description": "DefangLabs/defang",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4677,7 +4536,7 @@
             {
               "node_type": "item",
               "title": "Postman — https://github.com/delano/postman-mcp-server",
-              "description": null,
+              "description": "delano/postman-mcp-server",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4702,7 +4561,7 @@
             {
               "node_type": "item",
               "title": "marimo (⭐) — https://github.com/marimo-team/codemirror-mcp",
-              "description": null,
+              "description": "marimo-team/codemirror-mcp",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4727,7 +4586,7 @@
             {
               "node_type": "item",
               "title": "OpenAPI Schema Explorer — https://github.com/kadykov/mcp-openapi-schema-explorer",
-              "description": null,
+              "description": "kadykov/mcp-openapi-schema-explorer",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4761,7 +4620,7 @@
             {
               "node_type": "item",
               "title": "Bucket — https://github.com/bucketco/bucket-javascript-sdk/tree/main/packages/cli#model-context-protocol",
-              "description": null,
+              "description": "reflagcom/javascript",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4782,7 +4641,7 @@
             {
               "node_type": "item",
               "title": "QA Sphere (⭐) — https://github.com/Hypersequent/qasphere-mcp",
-              "description": null,
+              "description": "Hypersequent/qasphere-mcp",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -4809,7 +4668,7 @@
             {
               "node_type": "item",
               "title": "Currents (⭐) — https://github.com/currents-dev/currents-mcp",
-              "description": null,
+              "description": "currents-dev/currents-mcp",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4875,7 +4734,7 @@
             {
               "node_type": "item",
               "title": "jarp-mcp — https://github.com/tersePrompts/jarp-mcp",
-              "description": null,
+              "description": "tersePrompts/jarp-mcp",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4903,7 +4762,7 @@
             {
               "node_type": "item",
               "title": "Chart (AntV) — https://github.com/antvis/mcp-server-chart",
-              "description": null,
+              "description": "antvis/mcp-server-chart",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4931,7 +4790,7 @@
             {
               "node_type": "item",
               "title": "Mermaid — https://github.com/hustcc/mcp-mermaid",
-              "description": null,
+              "description": "hustcc/mcp-mermaid",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4944,7 +4803,7 @@
                 "open_issues": 9,
                 "owner": "hustcc",
                 "repo": "mcp-mermaid",
-                "stars": 639,
+                "stars": 640,
                 "topics": [
                   "mcp",
                   "mcp-server",
@@ -4957,7 +4816,7 @@
             {
               "node_type": "item",
               "title": "ECharts — https://github.com/hustcc/mcp-echarts",
-              "description": null,
+              "description": "hustcc/mcp-echarts",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4983,7 +4842,7 @@
             {
               "node_type": "item",
               "title": "VegaLite — https://github.com/isaacwasserman/mcp-vegalite-server",
-              "description": null,
+              "description": "isaacwasserman/mcp-vegalite-server",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -5004,7 +4863,7 @@
             {
               "node_type": "item",
               "title": "unified-diff-mcp — https://github.com/gorosun/unified-diff-mcp",
-              "description": null,
+              "description": "gorosun/unified-diff-mcp",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -5032,7 +4891,7 @@
             {
               "node_type": "item",
               "title": "Keycloak — https://github.com/ChristophEnglisch/keycloak-model-context-protocol",
-              "description": null,
+              "description": "ChristophEnglisch/keycloak-model-context-protocol",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -5072,7 +4931,7 @@
             {
               "node_type": "item",
               "title": "Pipedream — https://github.com/PipedreamHQ/pipedream/tree/master/modelcontextprotocol",
-              "description": null,
+              "description": "PipedreamHQ/pipedream",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -5082,7 +4941,7 @@
                 "language": "JavaScript",
                 "license": "NOASSERTION",
                 "last_commit": "2026-10-02T22:13:01Z",
-                "open_issues": 4480,
+                "open_issues": 4481,
                 "owner": "PipedreamHQ",
                 "repo": "pipedream",
                 "stars": 11720,
@@ -5113,7 +4972,7 @@
             {
               "node_type": "item",
               "title": "MCPJungle — https://github.com/mcpjungle/MCPJungle",
-              "description": null,
+              "description": "mcpjungle/MCPJungle",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -5143,7 +5002,7 @@
             {
               "node_type": "item",
               "title": "Magg — https://github.com/sitbon/magg",
-              "description": null,
+              "description": "sitbon/magg",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -5181,7 +5040,7 @@
             {
               "node_type": "item",
               "title": "Plugged.in — https://github.com/VeriTeknik/pluggedin-mcp-proxy",
-              "description": null,
+              "description": "VeriTeknik/pluggedin-mcp-proxy",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -5202,7 +5061,7 @@
             {
               "node_type": "item",
               "title": "MCP Aggregator / Combine — https://github.com/nazar256/combine-mcp",
-              "description": null,
+              "description": "nazar256/combine-mcp",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -5257,7 +5116,7 @@
             {
               "node_type": "item",
               "title": "Lara (⭐) — https://github.com/translated/lara-mcp",
-              "description": null,
+              "description": "translated/lara-mcp",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -5285,7 +5144,7 @@
             {
               "node_type": "item",
               "title": "Semgrep — https://github.com/semgrep/mcp",
-              "description": null,
+              "description": "semgrep/mcp",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -5351,7 +5210,7 @@
             {
               "node_type": "item",
               "title": "OSV — https://github.com/StacklokLabs/osv-mcp",
-              "description": null,
+              "description": "StacklokLabs/osv-mcp",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -5372,7 +5231,7 @@
             {
               "node_type": "item",
               "title": "Netwrix (⭐) — https://github.com/netwrix/mcp-server-naa",
-              "description": null,
+              "description": "netwrix/mcp-server-naa",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -5400,7 +5259,7 @@
             {
               "node_type": "item",
               "title": "Coreflux MQTT — https://github.com/CorefluxCommunity/CorefluxMCPServer",
-              "description": null,
+              "description": "CorefluxCommunity/Coreflux-MQTT-MCP-Server",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -5428,7 +5287,7 @@
             {
               "node_type": "item",
               "title": "MCP Open Library — https://github.com/8enSmith/mcp-open-library",
-              "description": null,
+              "description": "8enSmith/mcp-open-library",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -5468,7 +5327,7 @@
             {
               "node_type": "item",
               "title": "ShopSavvy (⭐) — https://github.com/shopsavvy/shopsavvy-mcp-server",
-              "description": null,
+              "description": "shopsavvy/shopsavvy-mcp-server",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -5489,7 +5348,7 @@
             {
               "node_type": "item",
               "title": "Gunsnation — https://github.com/DynamicDeals/mcp-server-gunsnation",
-              "description": null,
+              "description": "DynamicDeals/mcp-server-gunsnation",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -5517,7 +5376,7 @@
             {
               "node_type": "item",
               "title": "Keboola (⭐) — https://github.com/keboola/keboola-mcp-server",
-              "description": null,
+              "description": "keboola/mcp-server",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -5552,7 +5411,7 @@
             {
               "node_type": "item",
               "title": "Bagel — https://github.com/Extelligence-ai/bagel",
-              "description": null,
+              "description": "Extelligence-ai/bagel",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -5600,7 +5459,7 @@
         {
           "node_type": "item",
           "title": "bytebase/dbhub — https://github.com/bytebase/dbhub",
-          "description": null,
+          "description": "bytebase/dbhub",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -5613,7 +5472,7 @@
             "open_issues": 7,
             "owner": "bytebase",
             "repo": "dbhub",
-            "stars": 3596,
+            "stars": 3597,
             "topics": [
               "agents",
               "ai",
@@ -5642,7 +5501,7 @@
         {
           "node_type": "item",
           "title": "Android MCP — https://github.com/minhalvp/android-mcp-server",
-          "description": null,
+          "description": "minhalvp/android-mcp-server",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -5663,7 +5522,7 @@
         {
           "node_type": "item",
           "title": "Airtable — https://github.com/domdomegg/airtable-mcp-server",
-          "description": null,
+          "description": "domdomegg/airtable-mcp-server",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -5688,7 +5547,7 @@
         {
           "node_type": "item",
           "title": "Binary Ninja integration — https://github.com/fosdickio/binary_ninja_mcp",
-          "description": null,
+          "description": "fosdickio/binary_ninja_mcp",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -5709,7 +5568,7 @@
         {
           "node_type": "item",
           "title": "Apple Notes — https://github.com/RafalWilinski/mcp-apple-notes",
-          "description": null,
+          "description": "RafalWilinski/mcp-apple-notes",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -5737,7 +5596,7 @@
         {
           "node_type": "item",
           "title": "BloodHound-MCP — https://github.com/MorDavid/BloodHound-MCP-AI",
-          "description": null,
+          "description": "MorDavid/BloodHound-MCP-AI",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -5765,7 +5624,7 @@
         {
           "node_type": "item",
           "title": "Apple Shortcuts — https://github.com/recursechat/mcp-server-apple-shortcuts",
-          "description": null,
+          "description": "recursechat/mcp-server-apple-shortcuts",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -5786,7 +5645,7 @@
         {
           "node_type": "item",
           "title": "Calculator — https://github.com/githejie/mcp-server-calculator",
-          "description": null,
+          "description": "githejie/mcp-server-calculator",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -5832,7 +5691,7 @@
         {
           "node_type": "item",
           "title": "CalDAV MCP — https://github.com/dominik1001/caldav-mcp",
-          "description": null,
+          "description": "dominik1001/caldav-mcp",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -5858,7 +5717,7 @@
         {
           "node_type": "item",
           "title": "Basecamp — https://github.com/georgeantonopoulos/Basecamp-MCP-Server",
-          "description": null,
+          "description": "georgeantonopoulos/Basecamp-MCP-Server",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -5893,7 +5752,7 @@
         {
           "node_type": "item",
           "title": "AniList — https://github.com/yuna0x0/anilist-mcp",
-          "description": null,
+          "description": "yuna0x0/anilist-mcp",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -5923,7 +5782,7 @@
         {
           "node_type": "item",
           "title": "Algorand — https://github.com/GoPlausible/algorand-mcp",
-          "description": null,
+          "description": "GoPlausible/algorand-mcp",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -5950,7 +5809,7 @@
         {
           "node_type": "item",
           "title": "APISIX-MCP — https://github.com/api7/apisix-mcp",
-          "description": null,
+          "description": "api7/apisix-mcp",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -5977,7 +5836,7 @@
         {
           "node_type": "item",
           "title": "Bluesky — https://github.com/keturiosakys/bluesky-context-server",
-          "description": null,
+          "description": "laulauland/bluesky-context-server",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -5998,7 +5857,7 @@
         {
           "node_type": "item",
           "title": "Agentset — https://github.com/agentset-ai/mcp-server",
-          "description": null,
+          "description": "agentset-ai/mcp-server",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -6019,7 +5878,7 @@
         {
           "node_type": "item",
           "title": "Alertmanager — https://github.com/ntk148v/alertmanager-mcp-server",
-          "description": null,
+          "description": "ntk148v/alertmanager-mcp-server",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -6048,7 +5907,7 @@
         {
           "node_type": "item",
           "title": "Bing Webmaster Tools — https://github.com/isiahw1/mcp-server-bing-webmaster",
-          "description": null,
+          "description": "isiahw1/mcp-server-bing-webmaster",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -6069,7 +5928,7 @@
         {
           "node_type": "item",
           "title": "AnkiConnect — https://github.com/spacholski1225/anki-connect-mcp",
-          "description": null,
+          "description": "spacholski1225/anki-connect-mcp",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -6090,7 +5949,7 @@
         {
           "node_type": "item",
           "title": "AWS EC2 Pricing — https://github.com/trilogy-group/aws-pricing-mcp",
-          "description": null,
+          "description": "trilogy-group/aws-pricing-mcp",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -6111,7 +5970,7 @@
         {
           "node_type": "item",
           "title": "Currents — https://github.com/currents-dev/currents-mcp",
-          "description": null,
+          "description": "currents-dev/currents-mcp",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -6137,7 +5996,7 @@
         {
           "node_type": "item",
           "title": "Backup — https://github.com/hexitex/MCP-Backup-Server",
-          "description": null,
+          "description": "hexitex/MCP-Backup-Server",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -6158,7 +6017,7 @@
         {
           "node_type": "item",
           "title": "Box community server — https://github.com/hmk/box-mcp-server",
-          "description": null,
+          "description": "hmk/box-mcp-server",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -6185,7 +6044,7 @@
         {
           "node_type": "item",
           "title": "Zed — https://github.com/zed-industries/zed",
-          "description": null,
+          "description": "zed-industries/zed",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -6194,11 +6053,11 @@
             "id": 340547520,
             "language": "Rust",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-02T22:14:52Z",
-            "open_issues": 3070,
+            "last_commit": "2026-10-03T04:22:45Z",
+            "open_issues": 3058,
             "owner": "zed-industries",
             "repo": "zed",
-            "stars": 91209,
+            "stars": 91214,
             "topics": [
               "gpui",
               "rust-lang",
@@ -6211,7 +6070,7 @@
         {
           "node_type": "item",
           "title": "Continue — https://github.com/continuedev/continue",
-          "description": null,
+          "description": "continuedev/continue",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -6221,10 +6080,10 @@
             "language": "TypeScript",
             "license": "Apache-2.0",
             "last_commit": "2026-10-02T10:41:02Z",
-            "open_issues": 834,
+            "open_issues": 824,
             "owner": "continuedev",
             "repo": "continue",
-            "stars": 36088,
+            "stars": 36090,
             "topics": [
               "agent",
               "ai",
@@ -6238,7 +6097,7 @@
         {
           "node_type": "item",
           "title": "gpt-computer-assistant — https://github.com/Upsonic/gpt-computer-assistant",
-          "description": null,
+          "description": "Upsonic/Upsonic",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -6251,7 +6110,7 @@
             "open_issues": 34,
             "owner": "Upsonic",
             "repo": "Upsonic",
-            "stars": 7957,
+            "stars": 7956,
             "topics": [
               "agent",
               "agent-framework",
@@ -6275,7 +6134,7 @@
         {
           "node_type": "item",
           "title": "genkit — https://github.com/firebase/genkit",
-          "description": null,
+          "description": "genkit-ai/genkit",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -6284,11 +6143,11 @@
             "id": 793795224,
             "language": "TypeScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-02T20:27:44Z",
+            "last_commit": "2026-10-03T04:26:55Z",
             "open_issues": 823,
             "owner": "genkit-ai",
             "repo": "genkit",
-            "stars": 6467,
+            "stars": 6468,
             "topics": [
               "agents",
               "ai",
@@ -6305,7 +6164,7 @@
         {
           "node_type": "item",
           "title": "mcphub.nvim — https://github.com/ravitemer/mcphub.nvim",
-          "description": null,
+          "description": "ravitemer/mcphub.nvim",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -6343,7 +6202,7 @@
         {
           "node_type": "item",
           "title": "Nerve — https://github.com/evilsocket/nerve",
-          "description": null,
+          "description": "evilsocket/nerve",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -6374,7 +6233,7 @@
         {
           "node_type": "item",
           "title": "MCP-Bridge — https://github.com/SecretiveShell/MCP-Bridge",
-          "description": null,
+          "description": "SecretiveShell/MCP-Bridge",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -6404,7 +6263,7 @@
         {
           "node_type": "item",
           "title": "mcp-cli — https://github.com/wong2/mcp-cli",
-          "description": null,
+          "description": "wong2/mcp-cli",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -6425,7 +6284,7 @@
         {
           "node_type": "item",
           "title": "Shinkai — http://github.com/dcSpark/shinkai-apps/",
-          "description": null,
+          "description": "dcSpark/shinkai-local-ai-agents",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -6453,7 +6312,7 @@
         {
           "node_type": "item",
           "title": "MCP-Chatbot (⭐ CLI) — https://github.com/3choff/mcp-chatbot",
-          "description": null,
+          "description": "3choff/mcp-chatbot",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -6474,7 +6333,7 @@
         {
           "node_type": "item",
           "title": "MCP-Connect — https://github.com/EvalsOne/mcp-connect",
-          "description": null,
+          "description": "EvalsOne/MCP-connect",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -6495,7 +6354,7 @@
         {
           "node_type": "item",
           "title": "MBro — https://github.com/sitbon/magg/blob/main/docs/mbro.md",
-          "description": null,
+          "description": "sitbon/magg",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -6533,7 +6392,7 @@
         {
           "node_type": "item",
           "title": "codemirror-mcp — https://github.com/marimo-team/codemirror-mcp",
-          "description": null,
+          "description": "marimo-team/codemirror-mcp",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -6558,7 +6417,7 @@
         {
           "node_type": "item",
           "title": "mcp-client — https://github.com/rakesh-eltropy/mcp-client",
-          "description": null,
+          "description": "rakesh-eltropy/mcp-client",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -6606,7 +6465,7 @@
         {
           "node_type": "item",
           "title": "ToolHive — https://github.com/Stacklok/toolhive",
-          "description": null,
+          "description": "stacklok/toolhive",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -6615,8 +6474,8 @@
             "id": 947349598,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-01T13:10:53Z",
-            "open_issues": 379,
+            "last_commit": "2026-10-03T01:07:11Z",
+            "open_issues": 382,
             "owner": "stacklok",
             "repo": "toolhive",
             "stars": 2231,
@@ -6639,7 +6498,7 @@
         {
           "node_type": "item",
           "title": "mcp-framework — https://github.com/QuantGeekDev/mcp-framework",
-          "description": null,
+          "description": "QuantGeekDev/mcp-framework",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -6670,7 +6529,7 @@
         {
           "node_type": "item",
           "title": "centralmind/gateway — https://github.com/centralmind/gateway",
-          "description": null,
+          "description": "centralmind/gateway",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -6710,7 +6569,7 @@
         {
           "node_type": "item",
           "title": "LiteMCP — https://github.com/wong2/litemcp",
-          "description": null,
+          "description": "wong2/litemcp",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -6736,7 +6595,7 @@
         {
           "node_type": "item",
           "title": "oatpp-mcp — https://github.com/oatpp/oatpp-mcp",
-          "description": null,
+          "description": "oatpp/oatpp-mcp",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -6761,7 +6620,7 @@
         {
           "node_type": "item",
           "title": "MCP Plexus — https://github.com/super-i-tech/mcp_plexus",
-          "description": null,
+          "description": "Super-I-Tech/mcp_plexus",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -6782,7 +6641,7 @@
         {
           "node_type": "item",
           "title": "create-mcp-ts — https://github.com/stephencme/create-mcp-ts",
-          "description": null,
+          "description": "stephencme/create-mcp-ts",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -6803,7 +6662,7 @@
         {
           "node_type": "item",
           "title": "fastMCP4J — https://github.com/tersePrompts/fastMCP4J",
-          "description": null,
+          "description": "tersePrompts/fastMCP4J",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -6837,7 +6696,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T22:36:03.554Z",
+    "last_updated": "2026-10-03T04:27:34.701Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Model Context Protocol (MCP) servers ",
@@ -6849,7 +6708,7 @@
       "open_issues": 383,
       "owner": "YuzeHao2023",
       "repo": "Awesome-MCP-Servers",
-      "stars": 1065,
+      "stars": 1066,
       "topics": [
         "awesome",
         "awesome-list",
