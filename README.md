@@ -523,6 +523,7 @@ Single MCP endpoints that expose many integrations.
 * Plugged.in — <https://github.com/VeriTeknik/pluggedin-mcp-proxy> ⭐ 135 | 🐛 1 | 🌐 TypeScript | 📅 2026-05-10
 * MCP Aggregator / Combine — <https://github.com/nazar256/combine-mcp> ⭐ 35 | 🐛 2 | 🌐 Go | 📅 2025-11-24
 * SkillBoss — <https://github.com/heeyo-life/skillboss-mcp> ⚠️ Archived — One API key for 100+ AI services (Claude, GPT, Gemini, DeepSeek, images, video, data scraping, payments, email, and more). OpenAI-compatible. Works in Claude Code, Cursor, Windsurf.
+* Aident Loadout — <https://github.com/Aident-AI/aident-skill> ⭐ 5 | 🐛 0 | 🌐 Shell | 📅 2026-09-27 — Remote MCP capability layer connecting coding agents to 1,000+ apps and 400+ Skills through one OAuth setup (homepage https://aident.ai, MCP https://loadout.aident.ai/mcp).
 * Rube — <https://rube.composio.dev>
 * Zapier — <https://zapier.com/mcp>
 
