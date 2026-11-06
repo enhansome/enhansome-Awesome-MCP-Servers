@@ -316,6 +316,7 @@ Web fetching, scraping, and search.
 * PapersWithCode — <https://github.com/hbg/mcp-paperswithcode> ⭐ 26 | 🐛 4 | 🌐 Python | 📅 2025-06-07
 * NYTimes — <https://github.com/angheljf/nyt> ⭐ 18 | 🐛 2 | 🌐 JavaScript | 📅 2026-07-23
 * Coupang MCP — <https://github.com/uju777/coupang-mcp> ⭐ 18 | 🐛 0 | 🌐 Python | 📅 2026-04-13 - Korean e-commerce search with Rocket Delivery filtering
+* JobsPipe — <https://github.com/jobspipe/jobspipe-python> ⭐ 0 | 🐛 0 | 🌐 Python | 📅 2026-07-19 - Hosted remote MCP + jobs API for AI agents: live postings from 30+ ATS feeds/boards (`https://mcp.jobspipe.dev/mcp`, docs https://docs.jobspipe.dev/ai-agents/mcp)
 * Naver Search MCP — <https://github.com/uju777/mcp-server-naver-search> ⭐ 1 | 🐛 0 | 🌐 Python | 📅 2026-01-12 - Naver Shopping, Cafe, News search for Korean users
 * Scrapeless and many web-scraping-focused MCP servers are listed in Community Servers.
 
