@@ -442,6 +442,7 @@ Payments, market data, and finance tools.
 
 Papers, datasets, and domain data.
 
+* DC Hub — <https://github.com/azmartone67/dchub-mcp-server> ⭐ 3 | 🐛 9 | 🌐 JavaScript | 📅 2026-11-06 — Live data layer for data-center site selection; Data Center Power Index (DCPI) scores where data centers can get grid power across 300+ markets (94 MCP tools). Remote endpoint https://dchub.cloud/mcp
 * ArXiv — <https://github.com/blazickjp/arxiv-mcp-server> ⭐ 3,258 | 🐛 7 | 🌐 Python | 📅 2026-10-08
 * OpenNutrition — <https://github.com/deadletterq/mcp-opennutrition> ⭐ 209 | 🐛 0 | 🌐 TypeScript | 📅 2026-11-02
 * Ancestry — <https://github.com/reeeeemo/ancestry-mcp> ⚠️ Archived
