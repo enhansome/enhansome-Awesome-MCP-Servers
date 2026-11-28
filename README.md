@@ -342,6 +342,7 @@ Marketing and analytics tools.
 * Fathom Analytics — <https://github.com/mackenly/mcp-fathom-analytics> ⭐ 4 | 🐛 0 | 🌐 TypeScript | 📅 2025-06-17
 * Agent Mindshare — <https://agentmindshare.com>
 * Open Strategy Partners Marketing Tools — <https://github.com/open-strategy-partners/osp_mark>
+* Vaneform — <https://github.com/vaneform/vaneform-mcp> ⭐ 2 | 🐛 0 | 🌐 TypeScript | 📅 2026-10-18 (hosted MCP at https://vaneform.com/mcp for free website traffic lookups)
 
 ***
 
