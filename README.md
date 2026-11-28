@@ -303,6 +303,7 @@ Web fetching, scraping, and search.
 * Apify Actors & RAG Web Browser — <https://github.com/apify/actors-mcp-server> ⭐ 18,200 | 🐛 277 | 🌐 TypeScript | 📅 2026-11-27 and <https://github.com/apify/mcp-server-rag-web-browser> ⚠️ Archived
 * Playwright — <https://github.com/executeautomation/mcp-playwright> ⭐ 5,683 | 🐛 50 | 🌐 TypeScript | 📅 2025-12-13
 * Exa Search (⭐) — <https://github.com/exa-labs/exa-mcp-server> ⭐ 5,274 | 🐛 9 | 🌐 TypeScript | 📅 2026-11-21
+* DC Hub — <https://github.com/azmartone67/dchub-mcp-server> ⭐ 3 | 🐛 15 | 🌐 JavaScript | 📅 2026-11-28 — The orchestration layer for data center and energy intelligence; start with execute_plan. Data Center Power Index (DCPI) scores where data centers can get grid power. Remote endpoint https://dchub.cloud/mcp
 * ArXiv — <https://github.com/blazickjp/arxiv-mcp-server> ⭐ 3,305 | 🐛 9 | 🌐 Python | 📅 2026-11-14
 * Bright Data — <https://github.com/luminati-io/brightdata-mcp> ⭐ 2,740 | 🐛 38 | 🌐 JavaScript | 📅 2026-11-26
 * Search1API — <https://github.com/fatwang2/search1api-mcp> ⭐ 176 | 🐛 0 | 🌐 TypeScript | 📅 2026-11-26
